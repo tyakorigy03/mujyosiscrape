@@ -23,7 +23,7 @@ function computeRelevanceScore({
   if (tmdb_rating) score += tmdb_rating * 3;
 
   // 🎤 Narrator rating
-  const narratorRatings = require('../data/narratorRatings.json');
+  const narratorRatings = require('./data/narratorRatings.json');
   const narrator_rating = narratorRatings[narrator?.toLowerCase()] || 0;
   score += narrator_rating * 2;
 
