@@ -9,6 +9,8 @@ const SERIES_FULL_FILE = path.join(STORAGE_DIR, "series_full_data.json");
 
 /* -------------------- Helpers -------------------- */
 
+
+
 function extractYear(text = "") {
   const match = text.match(/\b(19|20)\d{2}\b/);
   return match ? match[0] : null;
@@ -65,6 +67,41 @@ async function scrapeFullData({
       });
 
       const scraped = await page.evaluate(() => {
+        
+      //  helper 
+        function transformIsataLink(originalUrl, mode = "download") {
+            try {
+              const url = new URL(originalUrl);
+
+              // Match: https://isatafilez.my/files/...
+              if (
+                url.hostname === "isatafilez.my" &&
+                url.pathname.startsWith("/files/")
+              ) {
+                const encodedPath = url.pathname.replace("/files/", "");
+                const decodedPath = decodeURIComponent(encodedPath);
+
+                const filename = decodedPath.split("/").pop();
+
+                if (!filename) return originalUrl;
+
+                // DOWNLOAD MODE → redirect-download edge function
+                if (mode === "download") {
+                  return `https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=${encodeURIComponent(filename)}`;
+                }
+
+                // WATCH MODE → direct CDN file
+                if (mode === "watch") {
+                  return `https://files.isatafilez.my/${encodedPath}`;
+                }
+              }
+
+              return originalUrl;
+            } catch {
+              // Invalid URL → return unchanged
+              return originalUrl;
+            }
+          }
         const Downloadurls = [];
 
         document.querySelectorAll("ul li").forEach(li => {
@@ -171,39 +208,7 @@ async function recent_series_data(list, browser) {
   });
 }
 
-function transformIsataLink(originalUrl, mode = "download") {
-  try {
-    const url = new URL(originalUrl);
 
-    // Match: https://isatafilez.my/files/...
-    if (
-      url.hostname === "isatafilez.my" &&
-      url.pathname.startsWith("/files/")
-    ) {
-      const encodedPath = url.pathname.replace("/files/", "");
-      const decodedPath = decodeURIComponent(encodedPath);
-
-      const filename = decodedPath.split("/").pop();
-
-      if (!filename) return originalUrl;
-
-      // DOWNLOAD MODE → redirect-download edge function
-      if (mode === "download") {
-        return `https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=${encodeURIComponent(filename)}`;
-      }
-
-      // WATCH MODE → direct CDN file
-      if (mode === "watch") {
-        return `https://files.isatafilez.my/${encodedPath}`;
-      }
-    }
-
-    return originalUrl;
-  } catch {
-    // Invalid URL → return unchanged
-    return originalUrl;
-  }
-}
 
 
 /* -------------------- Export -------------------- */
