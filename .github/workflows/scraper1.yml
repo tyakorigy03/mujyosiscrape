@@ -1,0 +1,42 @@
+name: Run Puppeteer Scraper 2
+
+on:
+  workflow_dispatch: # ✅ Manual trigger only
+jobs:
+  scrape2:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📦 Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: ⚙️ Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 💾 Cache node_modules
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: 📥 Install dependencies
+        run: npm install
+
+      - name: 🕸️ Run scraper 2
+        run: npm run scrape2 # 👈 make sure you have this script in package.json
+
+      - name: 📝 Commit all changed files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "🤖 Update scraper2 data [skip ci]" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
