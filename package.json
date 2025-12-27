@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "scrape": "node index.js",
-    "scrape1": "node index.js"
+    "scrape2": "node index.js"
   },
   "keywords": [],
   "author": "",
