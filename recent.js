@@ -24,12 +24,18 @@ function isSameData(oldData, newData) {
   return JSON.stringify(oldData) === JSON.stringify(newData);
 }
 
-async function scrapePage(url,browser) {
+async function scrapePage(url) {
+  const browser = await puppeteer.launch({
+    headless: true,
+    args: ["--no-sandbox", "--disable-setuid-sandbox"]
+  });
+
   const page = await browser.newPage();
   await page.goto(url, {
     waitUntil: "networkidle2",
     timeout: 60000
   });
+
   const result = await page.evaluate(() => {
     return Array.from(document.querySelectorAll(".card"))
       .map(card => {
@@ -49,10 +55,10 @@ async function scrapePage(url,browser) {
 
 /* -------------------- Scrapers -------------------- */
 
-async function recentMovies(browser) {
+async function recentMovies() {
   await fs.ensureDir(STORAGE_DIR);
 
-  const scraped = await scrapePage("https://mujyosi.store/movies",browser);
+  const scraped = await scrapePage("https://mujyosi.store/movies");
   console.log("Found", scraped.length, "movies");
 
   const previous = await loadCacheSafe(MOVIES_CACHE);
@@ -68,10 +74,10 @@ async function recentMovies(browser) {
   return scraped;
 }
 
-async function recentSeries(browser) {
+async function recentSeries() {
   await fs.ensureDir(STORAGE_DIR);
 
-  const scraped = await scrapePage("https://mujyosi.store/series",browser);
+  const scraped = await scrapePage("https://mujyosi.store/series");
   console.log("Found", scraped.length, "series");
 
   const previous = await loadCacheSafe(SERIES_CACHE);
