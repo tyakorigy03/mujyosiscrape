@@ -17,6 +17,7 @@ async function getpresignedurl(filename) {
                     "method": "POST"
                     });
        const data= await res.json();
+       console.log(data);
 }
 
-egde link https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download/
+getpresignedurl('Serie/EXIT_PROTOCOL.mp4')

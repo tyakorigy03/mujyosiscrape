@@ -9,7 +9,51 @@ const SERIES_FULL_FILE = path.join(STORAGE_DIR, "series_full_data.json");
 
 /* -------------------- Helpers -------------------- */
 
+      //  helpers
+      const narrators = [
+          "B da great",
+          "Cyber Bigwi",
+          "Didier",
+          "Dylan Kabaka",
+          "Eric Pro",
+          "Fey",
+          "Fred",
+          "Gaheza",
+          "Hakim",
+          "Jovi",
+          "Junior Giti",
+          "Kim Rwanda",
+          "Master P",
+          "Moses",
+          "Mr Genius",
+          "Ndabaga",
+          "Nkuba",
+          "Perfect",
+          "PK",
+          "Remmy",
+          "Robert",
+          "Rocky",
+          "Saga Mwiza",
+          "Sankara Da Premiere",
+          "Savimbi",
+          "Senior",
+          "Sikov",
+          "Vj Steppin",
+          "Yakuza",
+          "Yanga"
+        ];
 
+    // Function to get actual narrator name
+    function getActualNarratorName(dummyName) {
+      // Normalize input to ignore case and extra spaces
+      const normalized = dummyName.trim().toLowerCase();
+
+      // Find the first narrator that matches partially or fully
+      const match = narrators.find(name => name.toLowerCase() === normalized);
+
+      // Return matched name or original input if not found
+      return match || dummyName;
+    }
 
 function extractYear(text = "") {
   const match = text.match(/\b(19|20)\d{2}\b/);
@@ -68,40 +112,38 @@ async function scrapeFullData({
 
       const scraped = await page.evaluate(() => {
 
-      //  helper 
-        function transformIsataLink(originalUrl, mode = "download") {
-            try {
-              const url = new URL(originalUrl);
 
-              // Match: https://isatafilez.my/files/...
-              if (
-                url.hostname === "isatafilez.my" &&
-                url.pathname.startsWith("/files/")
-              ) {
-                const encodedPath = url.pathname.replace("/files/", "");
-                const decodedPath = decodeURIComponent(encodedPath);
 
-                const filename = decodedPath.split("/").pop();
+     function transformIsataLink(originalUrl, mode = "download") { 
+        try {
+          const url = new URL(originalUrl);
 
-                if (!filename) return originalUrl;
+          // Match: https://isatafilez.my/files/...
+          if (url.hostname === "isatafilez.my" && url.pathname.startsWith("/files/")) {
+            const encodedPath = url.pathname.replace("/files/", "");
+            const decodedPath = decodeURIComponent(encodedPath);
 
-                // DOWNLOAD MODE → redirect-download edge function
-                if (mode === "download") {
-                  return `https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=${encodeURIComponent(filename)}`;
-                }
+            if (!decodedPath) return originalUrl;
 
-                // WATCH MODE → direct CDN file
-                if (mode === "watch") {
-                  return `https://files.isatafilez.my/${encodedPath}`;
-                }
-              }
+            // DOWNLOAD MODE → redirect-download edge function
+            if (mode === "download") {
+              // Use full path instead of just filename
+              return `https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=${encodeURIComponent(decodedPath)}`;
+            }
 
-              return originalUrl;
-            } catch {
-              // Invalid URL → return unchanged
-              return originalUrl;
+            // WATCH MODE → direct CDN file
+            if (mode === "watch") {
+              return `https://files.isatafilez.my/${encodedPath}`;
             }
           }
+
+          return originalUrl;
+        } catch {
+          // Invalid URL → return unchanged
+          return originalUrl;
+        }
+      }
+
         const Downloadurls = [];
 
         document.querySelectorAll("ul li").forEach(li => {
@@ -150,7 +192,7 @@ async function scrapeFullData({
         title: item.title,
         link: item.url,
         image: item.image,
-        narrator: cleanText(scraped.narratorRaw.split("by")[1] || ""),
+        narrator: getActualNarratorName(cleanText(scraped.narratorRaw.split("by")[1] || "")) ,
         release_year: releaseYear,
         Downloadurls: scraped.Downloadurls,
         ...enriched,
