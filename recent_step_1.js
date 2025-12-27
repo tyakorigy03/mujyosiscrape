@@ -67,7 +67,7 @@ async function scrapeFullData({
       });
 
       const scraped = await page.evaluate(() => {
-        
+
       //  helper 
         function transformIsataLink(originalUrl, mode = "download") {
             try {
@@ -115,6 +115,21 @@ async function scrapeFullData({
             });
           }
         });
+        if(Downloadurls.length==0){
+           document.querySelectorAll(".episode-card .btn-download").forEach(btn => {
+                const title = btn.closest(".episode-card").querySelector(".episode-title")?.textContent;
+                const onclick = btn.getAttribute("onclick") || "";
+                const match = onclick.match(/openInNewTab\(['"](.+?)['"]\)/);
+                const link = match ? match[1] : null;
+                if (title && link) {
+                  Downloadurls.push({
+                    title: title.trim(),
+                     watchUrl: transformIsataLink(link, "watch"),
+                     downloadUrl: transformIsataLink(link, "download")
+                  });
+                }
+              });
+        }
 
         return {
           narratorRaw: document.querySelector("h3")?.textContent || "",
