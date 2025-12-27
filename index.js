@@ -15,7 +15,7 @@ async function scrapeAll() {
   try {
     /* -------------------- MOVIES -------------------- */
 
-    const moviesList = await recentMovies();
+    const moviesList = await recentMovies(browser);
     const moviesWithData = await recent_movies_data(moviesList, browser);
 
     if (moviesWithData.length) {
@@ -27,8 +27,7 @@ async function scrapeAll() {
     }
 
     /* -------------------- SERIES -------------------- */
-
-    const seriesList = await recentSeries();
+    const seriesList = await recentSeries(browser);
     const seriesWithData = await recent_series_data(seriesList, browser);
 
     if (seriesWithData.length) {
@@ -44,7 +43,11 @@ async function scrapeAll() {
   } finally {
     await browser.close();
     console.log("✅ Browser closed");
+    setTimeout(() => {
+    process.exit(0);
+  }, 100);
   }
+
 }
 
 scrapeAll();
