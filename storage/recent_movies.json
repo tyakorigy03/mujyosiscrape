@@ -1,5 +1,10 @@
 [
   {
+    "title": "Striking Rescue - B The Great",
+    "image": "https://image.tmdb.org/t/p/w500/nML8rOI4GOiiEsXgknuhZeUF8M7.jpg",
+    "url": "https://mujyosi.store/movie/2671"
+  },
+  {
     "title": "Gladiator Underground",
     "image": "https://image.tmdb.org/t/p/w500/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg",
     "url": "https://mujyosi.store/movie/2670"
@@ -243,10 +248,5 @@
     "title": "Anna",
     "image": "https://image.tmdb.org/t/p/original/oHDnvxSDOTsaYZSUibJjrEMWMLL.jpg",
     "url": "https://mujyosi.store/movie/2618"
-  },
-  {
-    "title": "Strained",
-    "image": "https://image.tmdb.org/t/p/original/jm5l15ScoeMEratk1ybl1DYnBLk.jpg",
-    "url": "https://mujyosi.store/movie/2617"
   }
 ]

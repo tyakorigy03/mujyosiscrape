@@ -262,7 +262,7 @@
       }
     ],
     "tmdb_id": 1223601,
-    "tmdb_rating": 7.478,
+    "tmdb_rating": 7.5,
     "popularity": 155.7039,
     "tmdb_overview": "Returning to the house where his family was brutally murdered during the war, ‘the man who refuses to die’ dismantles it, loads it on a truck, and is determined to rebuild it somewhere safe in their honor. When the commander who killed his family comes back hellbent on finishing the job, a relentless, eye-popping cross-country chase ensues.",
     "tmdb_type": "movie",
@@ -278,9 +278,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/yCatt8lmp3oRFEcOZF8KHhsiASQ.jpg",
     "color": null,
     "saved": false,
-    "_hash": "ce4e959a1944e0eadf82cef58b5f64297d7278cb813e9d710008d2b6e5a09370",
+    "_hash": "21a338223d9cbc9f7b934b80ee7e90aa4a8dc7222e6a7eae818a3b1791b9701c",
     "createdAt": "2025-12-27T15:17:05.106Z",
-    "updatedAt": "2025-12-31T11:17:46.410Z"
+    "updatedAt": "2025-12-31T15:18:57.512Z"
   },
   {
     "title": "Blank Check",
@@ -626,7 +626,7 @@
       }
     ],
     "tmdb_id": 1286185,
-    "tmdb_rating": 5.359,
+    "tmdb_rating": 5.4,
     "popularity": 36.9798,
     "tmdb_overview": "A remote village in Roman-era Egypt explodes into spiritual warfare when a carpenter, his wife and their child are targeted by supernatural forces.",
     "tmdb_type": "movie",
@@ -642,9 +642,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/qFxULMQeFTdo2dcuviEdwks3CIO.jpg",
     "color": null,
     "saved": false,
-    "_hash": "2819eda9c104c1dd908fa5de65e143e2b02d8a3ca11f285e020d99a57be506c1",
+    "_hash": "6731b3c68537931ee2c80015b6922ac7cb4ac490a046964eec7ffc3b1482651a",
     "createdAt": "2025-12-27T15:17:34.998Z",
-    "updatedAt": "2025-12-31T11:18:25.046Z"
+    "updatedAt": "2025-12-31T15:19:22.253Z"
   },
   {
     "title": "Fanaa (Fixed)",
@@ -1249,7 +1249,7 @@
       }
     ],
     "tmdb_id": 1242898,
-    "tmdb_rating": 7.32,
+    "tmdb_rating": 7.3,
     "popularity": 124.8801,
     "tmdb_overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
     "tmdb_type": "movie",
@@ -1265,9 +1265,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
     "color": null,
     "saved": false,
-    "_hash": "ce1fe69a6f7e0ce3a8df5293ad892c038e1b41552090405bbfba700c1684d68c",
+    "_hash": "1c49544a9a0b94ef234c937809b6ee0753ab2683f48134d768ce24604b284f43",
     "createdAt": "2025-12-27T15:18:27.694Z",
-    "updatedAt": "2025-12-31T11:19:26.339Z"
+    "updatedAt": "2025-12-31T15:20:10.891Z"
   },
   {
     "title": "Wildcat",
@@ -1283,7 +1283,7 @@
       }
     ],
     "tmdb_id": 1448560,
-    "tmdb_rating": 6.2,
+    "tmdb_rating": 6.155,
     "popularity": 52.0309,
     "tmdb_overview": "An ex-black ops team reunite to pull off a desperate heist in order to save the life of their leader’s eight-year-old daughter.",
     "tmdb_type": "movie",
@@ -1299,9 +1299,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/pAyImoslSnpMgjRwhaS5ZEdl8UI.jpg",
     "color": null,
     "saved": false,
-    "_hash": "27981ff6378b3dbeb7ccde724e7a793cfda900af623aeb96f5982e1123c275dc",
+    "_hash": "4292f600b06ff8752e9a176d9606cf64226dedf1191528dace4e71e50539bc73",
     "createdAt": "2025-12-27T15:18:31.036Z",
-    "updatedAt": "2025-12-31T11:19:30.534Z"
+    "updatedAt": "2025-12-31T15:20:14.213Z"
   },
   {
     "title": "AXL",
@@ -1895,5 +1895,23 @@
     "_hash": "ec7c5784f7bcd58ca513f4bce922579ab24bb5be6382acd2649f50e4a172fce6",
     "createdAt": "2025-12-31T11:17:07.853Z",
     "updatedAt": "2025-12-31T11:17:07.853Z"
+  },
+  {
+    "title": "Striking Rescue - B The Great",
+    "link": "https://mujyosi.store/movie/2671",
+    "image": "https://image.tmdb.org/t/p/w500/nML8rOI4GOiiEsXgknuhZeUF8M7.jpg",
+    "narrator": "",
+    "release_year": null,
+    "Downloadurls": [
+      {
+        "title": "Download",
+        "watchUrl": "https://files.isatafilez.my/STRIKING_RESCUE.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=STRIKING_RESCUE.mp4"
+      }
+    ],
+    "saved": false,
+    "_hash": "bb7aa1dc49ccf4bca0b5a7f26e4fb8cb15b703083ae65a0bfac92a702dc72c29",
+    "createdAt": "2025-12-31T15:18:24.437Z",
+    "updatedAt": "2025-12-31T15:18:24.437Z"
   }
 ]
