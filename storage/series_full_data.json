@@ -38,8 +38,8 @@
       }
     ],
     "tmdb_id": 252193,
-    "tmdb_rating": 7.848,
-    "popularity": 26.2383,
+    "tmdb_rating": 7.851,
+    "popularity": 24.323,
     "tmdb_overview": "In the early Meiji era, Shujiro, once known as an undefeated samurai, decides to participate in a deadly survival game to save his family and villagers.",
     "tmdb_type": "tv",
     "tmdb_title": "Last Samurai Standing",
@@ -54,9 +54,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/vcU8hIHXuADItJSzEmt2F8IMq5l.jpg",
     "color": null,
     "saved": false,
-    "_hash": "6f9041e0c95d35c1a09954c32aad1144ba3f2f34a6dc69539fa3df248876c7d9",
+    "_hash": "af364dae10d6b49b0c8128709ac3f7de750c7cbf0efa8404d1869f976d6deaf8",
     "createdAt": "2025-12-27T15:19:29.366Z",
-    "updatedAt": "2025-12-31T11:20:27.417Z"
+    "updatedAt": "2026-01-01T16:23:20.265Z"
   },
   {
     "title": "Man vs Baby",
@@ -87,8 +87,8 @@
       }
     ],
     "tmdb_id": 279601,
-    "tmdb_rating": 6.873,
-    "popularity": 47.9103,
+    "tmdb_rating": 6.843,
+    "popularity": 43.1538,
     "tmdb_overview": "As Christmas approaches, a blundering-all-the-way dad juggles housesitting a posh London penthouse with an unexpected pickle: caring for a lost baby.",
     "tmdb_type": "tv",
     "tmdb_title": "Man vs Baby",
@@ -103,9 +103,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/lSffVt0etoSLyl2hsTREdJ1CnQ1.jpg",
     "color": null,
     "saved": false,
-    "_hash": "25e78a85c7ee302407515a3f303f66d8cfb200185626cb59f559458cfbb22573",
+    "_hash": "9fabe7e2d751f2cffbdaa152594070b94a9e8431d397ffce8d7462667df30bac",
     "createdAt": "2025-12-27T15:19:32.831Z",
-    "updatedAt": "2025-12-31T11:20:29.731Z"
+    "updatedAt": "2026-01-01T16:23:24.243Z"
   },
   {
     "title": "Shooter - S3",
@@ -148,11 +148,31 @@
         "title": "Episode 7",
         "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FSHOOTER_S03E07.mp4",
         "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FSHOOTER_S03E07.mp4"
+      },
+      {
+        "title": "Episode 8",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FSHOOTER_S03E08.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FSHOOTER_S03E08.mp4"
+      },
+      {
+        "title": "Episode 9",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FSHOOTER_S03E09.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FSHOOTER_S03E09.mp4"
+      },
+      {
+        "title": "Episode 10",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FSHOOTER_S03E10.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FSHOOTER_S03E10.mp4"
+      },
+      {
+        "title": "Episode 11",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FSHOOTER_S03E11.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FSHOOTER_S03E11.mp4"
       }
     ],
     "tmdb_id": 66857,
     "tmdb_rating": 7.2,
-    "popularity": 20.9848,
+    "popularity": 19.1756,
     "tmdb_overview": "Bob Lee Swagger is an expert marksman living in exile who is coaxed back into action after learning of a plot to kill the president.",
     "tmdb_type": "tv",
     "tmdb_title": "Shooter",
@@ -167,9 +187,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/dyysEEonr5tPcgItlfHItfx5ZCY.jpg",
     "color": null,
     "saved": false,
-    "_hash": "c8a51f721157189fcf22a43b8b0c3f544c68b1ccd500764d1a2e67ec6908f775",
+    "_hash": "78ba989b425ae73fe342e58be2559ed2a6772f82dc3f302f19e78a22e79bd246",
     "createdAt": "2025-12-27T15:19:34.445Z",
-    "updatedAt": "2025-12-31T11:20:32.188Z"
+    "updatedAt": "2026-01-01T16:23:26.487Z"
   },
   {
     "title": "The Manipulated",
@@ -186,7 +206,7 @@
     ],
     "tmdb_id": 239385,
     "tmdb_rating": 8.577,
-    "popularity": 26.9142,
+    "popularity": 25.6494,
     "tmdb_overview": "Mild-mannered Tae-jung is wrongfully imprisoned for a heinous crime. He soon discovers that a mysterious figure named Yo-han orchestrated his downfall. Fueled by vengeance, Tae-jung sets out to make Yo-han pay.",
     "tmdb_type": "tv",
     "tmdb_title": "The Manipulated",
@@ -201,9 +221,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/cqkmEHLE4LjPHSqKdLt4pJFJv0f.jpg",
     "color": null,
     "saved": false,
-    "_hash": "5c28f517ca440daa25aa56018e1d67cd35a4bbbcfc6106b64a3eab35e9c5c1fb",
+    "_hash": "e133f3fce4f717165762ebdf34c823ccc359a0d366768e877e43eb06a79b052d",
     "createdAt": "2025-12-27T15:19:37.605Z",
-    "updatedAt": "2025-12-31T11:20:38.340Z"
+    "updatedAt": "2026-01-01T16:23:32.560Z"
   },
   {
     "title": "Money Heist - S5",
@@ -265,7 +285,7 @@
     ],
     "tmdb_id": 71446,
     "tmdb_rating": 8.233,
-    "popularity": 33.865,
+    "popularity": 32.5594,
     "tmdb_overview": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
     "tmdb_type": "tv",
     "tmdb_title": "Money Heist",
@@ -280,9 +300,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg",
     "color": null,
     "saved": false,
-    "_hash": "a959a83e0ba6de55cc569e4377db89fd7a4eaac3814ee6875a06d54efdfa2b72",
+    "_hash": "a06c2face4c842b9363ba3ec39c562f2c06d629790fdcde986573ac5d7ef75d8",
     "createdAt": "2025-12-27T15:19:40.674Z",
-    "updatedAt": "2025-12-31T11:20:42.265Z"
+    "updatedAt": "2026-01-01T16:23:34.803Z"
   },
   {
     "title": "Money Heist - S4",
@@ -329,7 +349,7 @@
     ],
     "tmdb_id": 71446,
     "tmdb_rating": 8.233,
-    "popularity": 33.865,
+    "popularity": 32.5594,
     "tmdb_overview": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
     "tmdb_type": "tv",
     "tmdb_title": "Money Heist",
@@ -344,9 +364,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg",
     "color": null,
     "saved": false,
-    "_hash": "823f8009773647bdccbcdf7c5c9a3196aedaa72472b8d64c2974349c3555541a",
+    "_hash": "d6de06f7620bec1007c1da034c2742f58b98a749230fd55b527b36d4426a8390",
     "createdAt": "2025-12-27T15:19:43.440Z",
-    "updatedAt": "2025-12-31T11:20:45.640Z"
+    "updatedAt": "2026-01-01T16:23:37.759Z"
   },
   {
     "title": "Desperate Lies",
@@ -378,7 +398,7 @@
     ],
     "tmdb_id": 224633,
     "tmdb_rating": 7.75,
-    "popularity": 3.1138,
+    "popularity": 3.8784,
     "tmdb_overview": "Due to a rare phenomenon, a woman finds herself pregnant with twins by two men. Over time, she strives to keep her family united — and her secrets hidden.",
     "tmdb_type": "tv",
     "tmdb_title": "Desperate Lies",
@@ -393,9 +413,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/nSGuXIXNlxOocEVAUvdkpVe1yeG.jpg",
     "color": null,
     "saved": false,
-    "_hash": "d0f1086b5a03a658c7fa6f8d333e037cb180f1939c8528cad9f1bc9e8ddfa66a",
+    "_hash": "9230a4424b8a3b10791eb135511b11c7bc8e997c119bffdbadd25261cee57808",
     "createdAt": "2025-12-27T15:19:46.980Z",
-    "updatedAt": "2025-12-31T11:20:51.204Z"
+    "updatedAt": "2026-01-01T16:23:42.971Z"
   },
   {
     "title": "Money Heist - s3",
@@ -447,7 +467,7 @@
     ],
     "tmdb_id": 71446,
     "tmdb_rating": 8.233,
-    "popularity": 33.865,
+    "popularity": 32.5594,
     "tmdb_overview": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
     "tmdb_type": "tv",
     "tmdb_title": "Money Heist",
@@ -462,9 +482,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg",
     "color": null,
     "saved": false,
-    "_hash": "8881f3528ee44e1fceb5164bf94203bdab8078a5596d40141f374c522a8329a7",
+    "_hash": "94547d613ea6455ed4dc3b57224353d002d0571d844580790b219677cf81143c",
     "createdAt": "2025-12-27T15:19:49.942Z",
-    "updatedAt": "2025-12-31T11:20:54.637Z"
+    "updatedAt": "2026-01-01T16:23:45.978Z"
   },
   {
     "title": "Money Heist - S2",
@@ -536,7 +556,7 @@
     ],
     "tmdb_id": 71446,
     "tmdb_rating": 8.233,
-    "popularity": 33.865,
+    "popularity": 32.5594,
     "tmdb_overview": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
     "tmdb_type": "tv",
     "tmdb_title": "Money Heist",
@@ -551,9 +571,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg",
     "color": null,
     "saved": false,
-    "_hash": "7a341b06ca0cdacc4ee31d367cfcf0467735ba2e8228a4cab33da42a3216a199",
+    "_hash": "3a96d5feeec338ba720c7c8295bcb64079ffe3ee3311cdd9791b9512c46ea3c8",
     "createdAt": "2025-12-27T15:19:52.885Z",
-    "updatedAt": "2025-12-31T11:20:57.982Z"
+    "updatedAt": "2026-01-01T16:23:49.386Z"
   },
   {
     "title": "Money Heist - S1",
@@ -640,7 +660,7 @@
     ],
     "tmdb_id": 71446,
     "tmdb_rating": 8.233,
-    "popularity": 33.865,
+    "popularity": 32.5594,
     "tmdb_overview": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
     "tmdb_type": "tv",
     "tmdb_title": "Money Heist",
@@ -655,9 +675,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg",
     "color": null,
     "saved": false,
-    "_hash": "594cf2c2320c1adc9f1df909fc4c06d173c0bb333b8465e2689f01dbf526a8a8",
+    "_hash": "67fa32626fe5e1431278cee6d4580fa65d51bfc4bc1cfcb3af81ffe1227a4acb",
     "createdAt": "2025-12-27T15:19:56.309Z",
-    "updatedAt": "2025-12-31T11:21:01.427Z"
+    "updatedAt": "2026-01-01T16:23:52.490Z"
   },
   {
     "title": "Stranger Things - Dlyan",
@@ -762,7 +782,7 @@
     ],
     "tmdb_id": 66857,
     "tmdb_rating": 7.2,
-    "popularity": 20.9848,
+    "popularity": 19.1756,
     "tmdb_overview": "Bob Lee Swagger is an expert marksman living in exile who is coaxed back into action after learning of a plot to kill the president.",
     "tmdb_type": "tv",
     "tmdb_title": "Shooter",
@@ -777,9 +797,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/dyysEEonr5tPcgItlfHItfx5ZCY.jpg",
     "color": null,
     "saved": false,
-    "_hash": "ac9ee15fdcf190532774c210af0552ce438442cde5a69e974eed5fa6d2b0bebe",
+    "_hash": "ed9f3b0698e2379125a0fd271f63ea5c8022aeec1f3744bfd2a2e03b0c038242",
     "createdAt": "2025-12-27T15:20:00.802Z",
-    "updatedAt": "2025-12-31T11:21:12.914Z"
+    "updatedAt": "2026-01-01T16:23:59.793Z"
   },
   {
     "title": "Harper's Island",
@@ -841,7 +861,7 @@
     ],
     "tmdb_id": 7354,
     "tmdb_rating": 6.95,
-    "popularity": 7.0658,
+    "popularity": 6.305,
     "tmdb_overview": "A group of family and friends travels to a secluded island for a destination wedding. They've come to laugh... to love... and, though they don't know it... to die. As the wedding festivities begin, friendships are tested and secrets exposed as a murderer claims victims, one by one, transforming the wedding week of fun and celebration into a terrifying struggle for survival.",
     "tmdb_type": "tv",
     "tmdb_title": "Harper's Island",
@@ -856,9 +876,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/s1bCQKRcJsJ0cQfYUTfH70PbHMI.jpg",
     "color": null,
     "saved": false,
-    "_hash": "c518fb3373225f98f88b626c2130599e81b52be54098d651e585c28ef9ff5547",
+    "_hash": "a5367e8a4d444ef86dd44cac3eb3a628a688a456eceacac77e993eb39c98e3e6",
     "createdAt": "2025-12-27T15:20:04.114Z",
-    "updatedAt": "2025-12-31T11:21:15.075Z"
+    "updatedAt": "2026-01-01T16:24:04.164Z"
   },
   {
     "title": "Spartacus: House of Ashur",
@@ -880,7 +900,7 @@
     ],
     "tmdb_id": 240459,
     "tmdb_rating": 6.2,
-    "popularity": 137.7291,
+    "popularity": 133.6767,
     "tmdb_overview": "In a world where he survived the events of Spartacus (2010), Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
     "tmdb_type": "tv",
     "tmdb_title": "Spartacus: House of Ashur",
@@ -895,9 +915,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/ckPbbcJOcL43mJBrROTMrtOBIYK.jpg",
     "color": null,
     "saved": false,
-    "_hash": "6e349a9a0bfc5f3bb20a913499e16352f533306b420e79cca36621830b0024ca",
+    "_hash": "b6c3b61876d20cc3cc3f97995845c4f36acf6efa99e5113994b732cdc428631d",
     "createdAt": "2025-12-27T15:20:08.455Z",
-    "updatedAt": "2025-12-31T11:21:21.125Z"
+    "updatedAt": "2026-01-01T16:24:07.374Z"
   },
   {
     "title": "Sean Combs: The Reckoning",
@@ -923,8 +943,8 @@
       }
     ],
     "tmdb_id": 255251,
-    "tmdb_rating": 7.167,
-    "popularity": 16.5602,
+    "tmdb_rating": 7.163,
+    "popularity": 13.9899,
     "tmdb_overview": "A revealing look at Sean 'Diddy' Combs' journey from music mogul to high-profile sexual offender, featuring footage and insider accounts that expose both his groundbreaking success with Bad Boy Entertainment and the troubling shadows behind his empire.",
     "tmdb_type": "tv",
     "tmdb_title": "Sean Combs: The Reckoning",
@@ -939,9 +959,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/5L9YS9mpYs0WfuSKYpLd9GUBFc9.jpg",
     "color": null,
     "saved": false,
-    "_hash": "9755d79644a2f9fe0080d231d1aef81b879f4224155a66c5e6e55010a57169c1",
+    "_hash": "abdd2d8c5766876efd5e2ce53050913ce3afcbf0b5110d84a960b00244731130",
     "createdAt": "2025-12-27T15:20:12.030Z",
-    "updatedAt": "2025-12-31T11:21:25.521Z"
+    "updatedAt": "2026-01-01T16:24:11.433Z"
   },
   {
     "title": "First Lady",
@@ -1018,7 +1038,7 @@
     ],
     "tmdb_id": 158808,
     "tmdb_rating": 9,
-    "popularity": 2.0343,
+    "popularity": 1.9346,
     "tmdb_overview": "After assuming the role of first lady of the Philippines, Melody must rise to her new responsibilities while learning to stay true to herself.",
     "tmdb_type": "tv",
     "tmdb_title": "First Lady",
@@ -1033,9 +1053,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/v0di37yu2TCBvgHvfYrFIpFWX84.jpg",
     "color": null,
     "saved": false,
-    "_hash": "2dc81124a016d44f5e3cf643c9952ae3ab0183de7ff80d9ec1760afd32b80841",
+    "_hash": "f4a50ae5d82f06a4995e659b4f29ea61f4207bda47e86187193c8f90a5fdf710",
     "createdAt": "2025-12-27T15:20:13.555Z",
-    "updatedAt": "2025-12-31T11:21:29.744Z"
+    "updatedAt": "2026-01-01T16:24:13.238Z"
   },
   {
     "title": "Whispers of Fate",
@@ -1187,7 +1207,7 @@
     ],
     "tmdb_id": 252414,
     "tmdb_rating": 7.1,
-    "popularity": 12.6906,
+    "popularity": 14.0245,
     "tmdb_overview": "When an influential and fearsome clan is massacred in mysterious circumstances, the clan’s talented disciple Tang Lici finds himself accused of masterminding the crime. Accusers say that Tang Lici is a traitor who murdered his master. A decade later, suspicions about Tang Lici linger, but much darker forces are conspiring to unleash chaos into the realm. Torn by his duality and his apparent inability to distinguish between good and evil, Tang Lici finds himself drawn back into the wider world to help defeat the evil conspiracy – armed only with his wits and his martial arts skills. His path soon crosses with former acquaintances, with some swearing enmity and others allied to his cause. Can he and his companions help defeat the forces of wickedness – or will his dual nature prove his undoing?",
     "tmdb_type": "tv",
     "tmdb_title": "Whispers of Fate",
@@ -1202,9 +1222,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/8BKnPM5GRRcRDVf4JskD2J9N0g5.jpg",
     "color": null,
     "saved": false,
-    "_hash": "b1b0584bdca8f7889da78d7a104ecab03ebb9ad7b468a5c7412cba510f7ec66a",
+    "_hash": "3e32f0db08c79c3d447f990ea81f748cbb7076fc25dde806204b226bd0a489d1",
     "createdAt": "2025-12-27T15:20:15.349Z",
-    "updatedAt": "2025-12-31T11:21:32.116Z"
+    "updatedAt": "2026-01-01T16:24:15.615Z"
   },
   {
     "title": "Shooter",
@@ -1266,7 +1286,7 @@
     ],
     "tmdb_id": 66857,
     "tmdb_rating": 7.2,
-    "popularity": 20.9848,
+    "popularity": 19.1756,
     "tmdb_overview": "Bob Lee Swagger is an expert marksman living in exile who is coaxed back into action after learning of a plot to kill the president.",
     "tmdb_type": "tv",
     "tmdb_title": "Shooter",
@@ -1281,9 +1301,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/dyysEEonr5tPcgItlfHItfx5ZCY.jpg",
     "color": null,
     "saved": false,
-    "_hash": "e5514abdee3d3430ddaec3032795f9878a04aef7e38be8ef3cba41e61c84c591",
+    "_hash": "0c130d0c8837073aa55051aacd128caec90bdaa831e5dd178016ccb65ee1697e",
     "createdAt": "2025-12-27T15:20:19.078Z",
-    "updatedAt": "2025-12-31T11:21:34.356Z"
+    "updatedAt": "2026-01-01T16:24:18.977Z"
   },
   {
     "title": "Sword and Beloved",
@@ -1370,7 +1390,7 @@
     ],
     "tmdb_id": 240442,
     "tmdb_rating": 7.071,
-    "popularity": 8.9997,
+    "popularity": 7.3003,
     "tmdb_overview": "The drama series revolves around Wangquan Fugui, who is trained as the ultimate demon-slayer of the Yiqi Alliance since childhood, meeting Qing Tong, a spider demon who infiltrates Wangquan Manor as a spy. Qing Tong’s presence allows Fugui to broaden his horizon and change his view on demons. Yearning for freedom, Fugui’s fervor for attaining world peace is gradually ignited. After experiencing extreme agony, he leaves Wangquan Manor with Qing Tong, embarking on a journey of self-enlightenment.",
     "tmdb_type": "tv",
     "tmdb_title": "Sword and Beloved",
@@ -1385,9 +1405,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/kSx7TUpI5uJUqgPMtu5R7Q3VZRe.jpg",
     "color": null,
     "saved": false,
-    "_hash": "c12378add02b785b63234b1d5977246ee29e6ca7b5aa6660a374e592c15e8890",
+    "_hash": "6ba2d1eb049a14e4f0fc62b3b37494230427c6ce5863ded4e35eaff158c3cb83",
     "createdAt": "2025-12-27T15:20:22.397Z",
-    "updatedAt": "2025-12-31T11:21:36.386Z"
+    "updatedAt": "2026-01-01T16:24:22.497Z"
   },
   {
     "title": "Barbarians",
@@ -1429,7 +1449,7 @@
     ],
     "tmdb_id": 14427,
     "tmdb_rating": 6.2,
-    "popularity": 0.4215,
+    "popularity": 0.4837,
     "tmdb_overview": "Barbarians is a mini-series on The History Channel which tells the story of the most barbaric tribes of the early and late Middle Ages. Two series have currently been produced, each consisting of four episodes. This program tells about what the groups did, who they conquered, and how they fell. Clancy Brown narrated both seasons.",
     "tmdb_type": "tv",
     "tmdb_title": "Barbarians",
@@ -1438,15 +1458,15 @@
     "poster_medium": "https://image.tmdb.org/t/p/w342/7R0pfHZxxpvBtWaS8nQTr6jA2M3.jpg",
     "poster_large": "https://image.tmdb.org/t/p/w500/7R0pfHZxxpvBtWaS8nQTr6jA2M3.jpg",
     "poster": "https://image.tmdb.org/t/p/original/7R0pfHZxxpvBtWaS8nQTr6jA2M3.jpg",
-    "backdrop_small": null,
-    "backdrop_medium": null,
-    "backdrop_large": null,
-    "backdrop": null,
+    "backdrop_small": "https://image.tmdb.org/t/p/w300/uptPir0jIjZHBOqVuF13ahdVGNg.jpg",
+    "backdrop_medium": "https://image.tmdb.org/t/p/w780/uptPir0jIjZHBOqVuF13ahdVGNg.jpg",
+    "backdrop_large": "https://image.tmdb.org/t/p/w1280/uptPir0jIjZHBOqVuF13ahdVGNg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/uptPir0jIjZHBOqVuF13ahdVGNg.jpg",
     "color": null,
     "saved": false,
-    "_hash": "a83835e58fad575b88d03e5a727470b255cfae218685bba5c223109d82dac3d7",
+    "_hash": "65c4f56ffd15a0989649b7447cf848bb2637a59fbb5417d5ee26011c129cd151",
     "createdAt": "2025-12-27T15:20:26.057Z",
-    "updatedAt": "2025-12-31T11:21:41.854Z"
+    "updatedAt": "2026-01-01T16:24:27.409Z"
   },
   {
     "title": "Gunpowder",
@@ -1478,7 +1498,7 @@
     ],
     "tmdb_id": 73550,
     "tmdb_rating": 6.754,
-    "popularity": 2.8601,
+    "popularity": 2.405,
     "tmdb_overview": "London, 1605. Robert Catesby, a 33-year old Warwickshire gentleman, devises a plot to blow up Parliament and kill the King.",
     "tmdb_type": "tv",
     "tmdb_title": "Gunpowder",
@@ -1493,9 +1513,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/5PwGtqNQaD8wzhRaDp7nwBpPyNt.jpg",
     "color": null,
     "saved": false,
-    "_hash": "fb7210fe3b315e43b7412997e94dd2fd8521b201dc8246ecdff6ae90b6ff958f",
+    "_hash": "20176b9c96575ee00a828805ef5e4f6094ce0320f20db9829305fc74301e0dff",
     "createdAt": "2025-12-27T15:20:31.266Z",
-    "updatedAt": "2025-12-31T11:21:45.962Z"
+    "updatedAt": "2026-01-01T16:24:30.275Z"
   },
   {
     "title": "Chasing in the wild",
@@ -1602,7 +1622,7 @@
     ],
     "tmdb_id": 261846,
     "tmdb_rating": 8.2,
-    "popularity": 6.07,
+    "popularity": 6.1365,
     "tmdb_overview": "Sevi is a basketball captain from a humble family. Elyse is a spoiled cheerleader. Though opposites, the two fall for each other. But can their young love survive the harsh realities that may come their way?",
     "tmdb_type": "tv",
     "tmdb_title": "Chasing in the Wild",
@@ -1617,9 +1637,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/pxKG5ra0r6TvuwgtiupDCHBgkzW.jpg",
     "color": null,
     "saved": false,
-    "_hash": "ecc4510130098c223b29bff54d7da99ae664c5c3c5792bfada90d48bbddeb004",
+    "_hash": "920333b82a1d5560e8103a6506240e1f3e633b3894585150d946011bf302ab5a",
     "createdAt": "2025-12-27T15:20:35.959Z",
-    "updatedAt": "2025-12-31T11:21:49.582Z"
+    "updatedAt": "2026-01-01T16:24:35.585Z"
   },
   {
     "title": "Until the Sun Meets the Star",
@@ -1726,7 +1746,7 @@
     ],
     "tmdb_id": 286086,
     "tmdb_rating": 9.7,
-    "popularity": 2.7981,
+    "popularity": 2.5264,
     "tmdb_overview": "A childhood accident unknowingly ties Napdao to Khimhan, the son of the man who destroyed her family. Years later, they meet again, unaware of their past connection, and become entangled in a love triangle and a dangerous web of revenge when Napdao’s long-lost mother returns after 20 years in prison.",
     "tmdb_type": "tv",
     "tmdb_title": "Until the Sun Meets the Star",
@@ -1741,9 +1761,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/pJ7skXITi3KrFvDZ1CMYpvbuvtS.jpg",
     "color": null,
     "saved": false,
-    "_hash": "78f9b9f1bdd82db9d7555461feb444c7509a7332e6edd09e2094c66a049a17d6",
+    "_hash": "7e536e8b07fbcb61f6a1e7a483473ebce94dc0c53b4dd88e26eebd26dc29461a",
     "createdAt": "2025-12-27T15:20:39.803Z",
-    "updatedAt": "2025-12-31T11:21:52.895Z"
+    "updatedAt": "2026-01-01T16:24:38.877Z"
   },
   {
     "title": "Bad Influencer",
@@ -1790,7 +1810,7 @@
     ],
     "tmdb_id": 302854,
     "tmdb_rating": 8.2,
-    "popularity": 6.4516,
+    "popularity": 5.34,
     "tmdb_overview": "A single mother — and luxury bag counterfeiter — finds herself teaming up with a self-obsessed influencer to sell her bags and scrape her way out of debt.",
     "tmdb_type": "tv",
     "tmdb_title": "Bad Influencer",
@@ -1805,9 +1825,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/4YogiuBRm9cU8EbvjjlQX5CgDiY.jpg",
     "color": null,
     "saved": false,
-    "_hash": "c9228cfbc9be04e94a331692322c19e37897d44fe10108bc0d4465af26f4122c",
+    "_hash": "2ca55911c8e06c3ccd0c1a4a39d27068d15230c07a98188cbc8a49afae2435c8",
     "createdAt": "2025-12-27T15:20:44.691Z",
-    "updatedAt": "2025-12-31T11:21:58.576Z"
+    "updatedAt": "2026-01-01T16:24:42.627Z"
   },
   {
     "title": "IT: Welcome To Derry",
@@ -1828,8 +1848,8 @@
       }
     ],
     "tmdb_id": 200875,
-    "tmdb_rating": 8.252,
-    "popularity": 179.7726,
+    "tmdb_rating": 8.248,
+    "popularity": 162.2802,
     "tmdb_overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
     "tmdb_type": "tv",
     "tmdb_title": "IT: Welcome to Derry",
@@ -1844,9 +1864,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
     "color": null,
     "saved": false,
-    "_hash": "7e1ef95b8219a151c4c51ef299c69a72a59c7425cf2961d874bc10c33f3edcf8",
+    "_hash": "a1c1fb80f410b3ae692617b451a9f03c0240e6200946959e796ebdcc52047d04",
     "createdAt": "2025-12-27T15:20:48.710Z",
-    "updatedAt": "2025-12-31T11:22:03.684Z"
+    "updatedAt": "2026-01-01T16:24:47.567Z"
   },
   {
     "title": "Money Heist: Korea – Joint Economic Area",
@@ -1888,7 +1908,7 @@
     ],
     "tmdb_id": 112836,
     "tmdb_rating": 7.735,
-    "popularity": 8.3008,
+    "popularity": 8.9229,
     "tmdb_overview": "Disguised under the shadows of a mask, a crew of desperados band together under the leadership of a criminal mastermind known only as “The Professor” to pull off the biggest heist Korea has ever seen.",
     "tmdb_type": "tv",
     "tmdb_title": "Money Heist: Korea - Joint Economic Area",
@@ -1903,9 +1923,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/lcTuggU70y6pt6x13Rv1Ffjs93K.jpg",
     "color": null,
     "saved": false,
-    "_hash": "a21599f5a47b0ab756491837937dfbe31cc5960e47c1a15a6c17502d69a41a31",
+    "_hash": "faddad320677b88ba510080609678e864fb854bd030ee459ffcdbcf7b155dee4",
     "createdAt": "2025-12-27T15:20:51.861Z",
-    "updatedAt": "2025-12-31T11:22:08.598Z"
+    "updatedAt": "2026-01-01T16:24:49.754Z"
   },
   {
     "title": "The Assassin",
@@ -1946,8 +1966,8 @@
       }
     ],
     "tmdb_id": 262352,
-    "tmdb_rating": 6.784,
-    "popularity": 7.9438,
+    "tmdb_rating": 6.75,
+    "popularity": 6.5352,
     "tmdb_overview": "Secluded on a remote Greek island, retired assassin Julie has a somewhat thorny reunion with her estranged son, Edward, visiting from England. Armed with questions around new information on his paternity, Edward battles to find the right time to speak to his frustratingly distant mother. But, when the moment finally presents itself, things take a deadly turn as Julie’s dangerous past catches up with her and they are forced to flee the island and go on the run together.",
     "tmdb_type": "tv",
     "tmdb_title": "The Assassin",
@@ -1962,9 +1982,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/7EB84rTBUmjY2tPhNpGjxnKJVeo.jpg",
     "color": null,
     "saved": false,
-    "_hash": "fb13d7d7538ea3f469c9d3967b201451c576f03450f4670d75f755ba934d8f98",
+    "_hash": "604baebca46bc638a0a64e2e09f8bccbfc0be801fa5feed4b351abb212c4f57e",
     "createdAt": "2025-12-27T15:20:57.170Z",
-    "updatedAt": "2025-12-31T11:22:12.988Z"
+    "updatedAt": "2026-01-01T16:24:53.538Z"
   },
   {
     "title": "Fist of Fury",
@@ -2006,7 +2026,7 @@
     ],
     "tmdb_id": 21643,
     "tmdb_rating": 6.2,
-    "popularity": 3.2027,
+    "popularity": 3.9956,
     "tmdb_overview": "Fist of Fury is a 1995 Hong Kong television series adapted from the 1972 film of the same title. Produced by ATV and STAR TV, the series starred Donnie Yen as Chen Zhen, a role previously played by Bruce Lee in Fist of Fury and Jet Li in Fist of Legend. The series is also related to the 2010 film Legend of the Fist: The Return of Chen Zhen, in which Yen reprises his role. This series was edited into a 225 minute movie titled Sworn Revenge for the US market in 2002.",
     "tmdb_type": "tv",
     "tmdb_title": "Fist of Fury",
@@ -2021,9 +2041,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/8NeakKTCOMSV8Ok3EbH1NpH7EG1.jpg",
     "color": null,
     "saved": false,
-    "_hash": "28ce1c9d61d287a653e35068c7cd1e19068f0832a78c18a505a499fdb5243faf",
+    "_hash": "0ea8e673fba0cf9027946fe4e37ab1bb6732fee53273775374be53c7d7775d27",
     "createdAt": "2025-12-27T15:21:00.675Z",
-    "updatedAt": "2025-12-31T11:22:16.709Z"
+    "updatedAt": "2026-01-01T16:24:57.819Z"
   },
   {
     "title": "Tempest",
@@ -2080,7 +2100,7 @@
     ],
     "tmdb_id": 223326,
     "tmdb_rating": 7.5,
-    "popularity": 9.0035,
+    "popularity": 8.0829,
     "tmdb_overview": "Seo Munju, a highly accomplished diplomat and former ambassador to the United Nations, and Sanho, an international special agent shrouded in a veil of secrets, race to uncover the truth behind an attack that threatens the future stability of the Korean peninsula.",
     "tmdb_type": "tv",
     "tmdb_title": "Tempest",
@@ -2095,9 +2115,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/wyCQovekJ10HnmqCE3lPNaoGDde.jpg",
     "color": null,
     "saved": false,
-    "_hash": "621f7d76a8b271afb9553b452698cafd021011f80f0dd3cf6d7014660d8242ed",
+    "_hash": "a916cad67399f6261991d101f00257e0d072e98c0f9e3ef4c2bcc23a24d4c81f",
     "createdAt": "2025-12-27T15:21:02.191Z",
-    "updatedAt": "2025-12-31T11:22:20.635Z"
+    "updatedAt": "2026-01-01T16:25:03.465Z"
   },
   {
     "title": "Watching You",
@@ -2149,7 +2169,7 @@
     ],
     "tmdb_id": 302060,
     "tmdb_rating": 5.5,
-    "popularity": 1.5596,
+    "popularity": 1.4445,
     "tmdb_overview": "Lina is happily engaged, but a chance encounter with a stranger culminates in a one-night stand. When the affair is secretly filmed and used to blackmail her, she hunts the voyeur, only to discover the danger is far closer than she could imagine.",
     "tmdb_type": "tv",
     "tmdb_title": "Watching You",
@@ -2164,9 +2184,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/siswsaViHnrtU9YOz4WTgCWYhhS.jpg",
     "color": null,
     "saved": false,
-    "_hash": "65ce5295b1b292db33cdee54f334842f7c46283817faabe64d13f9b987c3e195",
+    "_hash": "79e784502199aa961f3c41d9aabfc67ffb05ef116b07f8d96c433af5b386d727",
     "createdAt": "2025-12-27T15:21:06.852Z",
-    "updatedAt": "2025-12-31T11:22:24.548Z"
+    "updatedAt": "2026-01-01T16:25:06.472Z"
   },
   {
     "title": "Billionaires' Bunker",
@@ -2218,7 +2238,7 @@
     ],
     "tmdb_id": 245648,
     "tmdb_rating": 6.43,
-    "popularity": 19.2435,
+    "popularity": 17.1496,
     "tmdb_overview": "When a group of billionaires takes shelter in a luxury bunker, an old feud between two families resurfaces amid an unprecedented global conflict.",
     "tmdb_type": "tv",
     "tmdb_title": "Billionaires' Bunker",
@@ -2233,9 +2253,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/cyqKNRLFKCN9Y28ln38hLMESGEj.jpg",
     "color": null,
     "saved": false,
-    "_hash": "fad6cccbfa92ca4c9710a65c4427357b5a5dd5a181b44616cc0dbe3bf1f2fe94",
+    "_hash": "72dcbb3e989b20c1d4e10d82e8d14c874552bc13ec21f4a92e2b27e937ac7711",
     "createdAt": "2025-12-27T15:21:11.782Z",
-    "updatedAt": "2025-12-31T11:22:29.853Z"
+    "updatedAt": "2026-01-01T16:25:11.302Z"
   },
   {
     "title": "Trigger",
@@ -2277,7 +2297,7 @@
     ],
     "tmdb_id": 238084,
     "tmdb_rating": 7.601,
-    "popularity": 8.0756,
+    "popularity": 6.7997,
     "tmdb_overview": "As illegal firearms flood into a gun-free South Korea, a resolute cop and a mysterious partner join forces to stop the chaos from sweeping the nation.",
     "tmdb_type": "tv",
     "tmdb_title": "Trigger",
@@ -2292,9 +2312,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/d60hqfP13yatHuMhNR9dl5m4Y9Y.jpg",
     "color": null,
     "saved": false,
-    "_hash": "ac7600c788218f53807a757015baeb87f86f03973b34570cb6d36ebec97987de",
+    "_hash": "da99ef9e2c239ba1dfac7bd2c246059d7ed24b8c295048f951ecf5c501af3872",
     "createdAt": "2025-12-27T15:21:15.934Z",
-    "updatedAt": "2025-12-31T11:22:33.249Z"
+    "updatedAt": "2026-01-01T16:25:13.272Z"
   },
   {
     "title": "Into the Badlands - s3",
@@ -2386,7 +2406,7 @@
     ],
     "tmdb_id": 47450,
     "tmdb_rating": 7.6,
-    "popularity": 13.0983,
+    "popularity": 12.7554,
     "tmdb_overview": "In a land controlled by feudal barons, a great warrior and a young boy embark on a journey across a dangerous land to find enlightenment. \n\nA genre-bending martial arts series very loosely based on the classic Chinese tale Journey to the West.",
     "tmdb_type": "tv",
     "tmdb_title": "Into the Badlands",
@@ -2401,9 +2421,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/1p9FUL7MKKOW0ZhsXkbpD3DVTy1.jpg",
     "color": null,
     "saved": false,
-    "_hash": "bc7f9704549a5d7c000d01c4dba0637965f967d7bb5ccca807f823c781b7f646",
+    "_hash": "bee86fa90df0e4e3742ad8d8d0c48386d8815a87626a8d0788f3c66ccf7013fa",
     "createdAt": "2025-12-27T15:21:18.756Z",
-    "updatedAt": "2025-12-31T11:22:38.031Z"
+    "updatedAt": "2026-01-01T16:25:16.490Z"
   },
   {
     "title": "Hostage",
@@ -2440,7 +2460,7 @@
     ],
     "tmdb_id": 248937,
     "tmdb_rating": 6.598,
-    "popularity": 7.6145,
+    "popularity": 6.4209,
     "tmdb_overview": "When the British prime minister's husband is kidnapped and the French president starts receiving threats, both leaders must face an impossible choice.",
     "tmdb_type": "tv",
     "tmdb_title": "Hostage",
@@ -2455,9 +2475,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/mPsf0GVm115YOrNn0EyLnqPRpcv.jpg",
     "color": null,
     "saved": false,
-    "_hash": "d7c7be8f00da03db2a17affb4a1591a9fcc8d82ac1f3c167590d69679c74e855",
+    "_hash": "1e2084f470f470dbacadfbd156009b10d47a3a0690bdacecb7ace00ac8d9c692",
     "createdAt": "2025-12-27T15:21:21.460Z",
-    "updatedAt": "2025-12-31T11:22:41.817Z"
+    "updatedAt": "2026-01-01T16:25:19.468Z"
   },
   {
     "title": "Blood River",
@@ -2659,7 +2679,7 @@
     ],
     "tmdb_id": 261663,
     "tmdb_rating": 8.111,
-    "popularity": 10.6827,
+    "popularity": 9.8858,
     "tmdb_overview": "Blood River is the realm's most feared assassin guild, jointly run by the Su, Mu, and Xie clans. They can strike royals in court and crush great sects in the wild. When the patriarch is poisoned on a mission, the three clans vie for the top seat. Su Muyu leads the Spider-Shadow unit and shields the dying leader on the road to a cure. He clashes with elder Su Zhe and old friend Su Changhe, and meets master healer Bai Hehuai. After brutal power struggles, Su Changhe becomes new patriarch and Su Muyu heads the Su clan. They launch the \"Other Shore Plan\" to drag Blood River out of the shadow and forge a new destiny, free from being anyone's blade.",
     "tmdb_type": "tv",
     "tmdb_title": "Blood River",
@@ -2674,9 +2694,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/ftVwJEKXCgCKGCb75e3MXwEBWBV.jpg",
     "color": null,
     "saved": false,
-    "_hash": "3c93575b19844d6b75d7cf85b0fdbc7dd6fc3f7d6d4fd6b2ce5065f005843331",
+    "_hash": "c24aa81ea3be4ce9d297bbedce547acc3b5c569206dd45501fb7983d9643c72a",
     "createdAt": "2025-12-27T15:21:23.183Z",
-    "updatedAt": "2025-12-31T11:22:47.451Z"
+    "updatedAt": "2026-01-01T16:25:21.893Z"
   },
   {
     "title": "Bon Appétit, Your Majesty",
@@ -2906,7 +2926,7 @@
     ],
     "tmdb_id": 226218,
     "tmdb_rating": 10,
-    "popularity": 5.1604,
+    "popularity": 4.892,
     "tmdb_overview": "Set in the 1700s, Shaka iLembe tells the story of the making of the iconic African king, with iterations from his early childhood through to adulthood.",
     "tmdb_type": "tv",
     "tmdb_title": "Shaka iLembe",
@@ -2921,9 +2941,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/5Sm7o5UNgPgFtalBKFXhPQE6eoi.jpg",
     "color": null,
     "saved": false,
-    "_hash": "374a85ecd301d1faf350f02a3d26f0772ff37a4e182f50d2134d284099f22f53",
+    "_hash": "d1d904d1538383d88ac8a4240c7a19359f8dd03aadd89e364e982c3b368b5e17",
     "createdAt": "2025-12-27T15:21:31.691Z",
-    "updatedAt": "2025-12-31T11:22:55.252Z"
+    "updatedAt": "2026-01-01T16:25:30.466Z"
   },
   {
     "title": "House of David - Season 2",
@@ -2975,7 +2995,7 @@
     ],
     "tmdb_id": 243881,
     "tmdb_rating": 7.982,
-    "popularity": 31.5693,
+    "popularity": 28.9309,
     "tmdb_overview": "Tells the story of the ascent of the biblical figure, David, who becomes the most celebrated king of Israel. The series follows the once-mighty King Saul as he falls victim to his own pride. At the direction of God, the prophet Samuel anoints an unlikely, outcast teenager as the new king.",
     "tmdb_type": "tv",
     "tmdb_title": "House of David",
@@ -2990,9 +3010,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/dWEbHN4DRxJsIZqJHFhOq0KFSxD.jpg",
     "color": null,
     "saved": false,
-    "_hash": "e0c9c128cac30bbc9f156329e7a5e26efc70c28db043bf80a832d3def24a0ae6",
+    "_hash": "342197330220a3a883a6e57898338c1bb29958eaa06e06afdff6f3487ace8bc0",
     "createdAt": "2025-12-27T15:21:34.780Z",
-    "updatedAt": "2025-12-31T11:22:59.770Z"
+    "updatedAt": "2026-01-01T16:25:33.399Z"
   },
   {
     "title": "Avenues of the Diamond",
@@ -3089,7 +3109,7 @@
     ],
     "tmdb_id": 288705,
     "tmdb_rating": 5,
-    "popularity": 4.1254,
+    "popularity": 3.877,
     "tmdb_overview": "Sam is a friendly communications student who likes to party. Clyden is a snobby med student focused on studying. One day, these opposites suddenly find themselves arranged to be married. Will they escape their engagement or will this forced arrangement turn into real love?",
     "tmdb_type": "tv",
     "tmdb_title": "Avenues of the Diamond",
@@ -3104,9 +3124,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/zVVWJRrLSfWgj8YMXMWPmvOpyfh.jpg",
     "color": null,
     "saved": false,
-    "_hash": "a35a04b5203df93e31793e07d8a3644ca9ab5b9611489d8072d782b0fbbda152",
+    "_hash": "5b7efe368f7cab14bfaeb74f0d4f8bad7cd06e2a2deb11f386f872d63fbe5f0b",
     "createdAt": "2025-12-27T15:21:38.376Z",
-    "updatedAt": "2025-12-31T11:23:03.405Z"
+    "updatedAt": "2026-01-01T16:25:37.441Z"
   },
   {
     "title": "Legend of The Female General",
@@ -3188,7 +3208,7 @@
     ],
     "tmdb_id": 240686,
     "tmdb_rating": 8.167,
-    "popularity": 8.3332,
+    "popularity": 9.1213,
     "tmdb_overview": "A female general with a gentle appearance but a strong inner spirit, and a male general with a cold exterior and internal but with stronger martial prowess. The two join forces to combat deceit, assist the weak, and eliminate external threats.",
     "tmdb_type": "tv",
     "tmdb_title": "Legend of the Female General",
@@ -3203,9 +3223,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/mwiG510fVcOrzWUSDSV7B5tRMrb.jpg",
     "color": null,
     "saved": false,
-    "_hash": "99fe3fd81971498ca865797943b07a0e3bb6c35b854673024e47339be99c6758",
+    "_hash": "c74c5fc3142036592d9ab8f1e9ed2d26b2a1ce95015335686ba47e9aa53a425d",
     "createdAt": "2025-12-27T15:21:41.648Z",
-    "updatedAt": "2025-12-31T11:23:06.695Z"
+    "updatedAt": "2026-01-01T16:25:41.814Z"
   },
   {
     "title": "The Journey Of The Legend",
@@ -3417,7 +3437,7 @@
     ],
     "tmdb_id": 263034,
     "tmdb_rating": 7,
-    "popularity": 9.8956,
+    "popularity": 9.3083,
     "tmdb_overview": "Xiao Mingming is a martial arts novel enthusiast who, as the novel's protagonist Xiao Qiushui, journeys through a fictional martial arts world and grows from a passionate youth into a noble hero.",
     "tmdb_type": "tv",
     "tmdb_title": "The Journey of Legend",
@@ -3432,9 +3452,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/7dH63uoQDQu6pfYJLNKQYLXJ38m.jpg",
     "color": null,
     "saved": false,
-    "_hash": "a703161c61c6ff90738f8b1e05bda69343cee67cd5d4d9b50c4fbab90220901f",
+    "_hash": "173989c58314cbd61b3dac1206a8e785e1a12091cd45d5f59f28201e2f5514c8",
     "createdAt": "2025-12-27T15:21:46.122Z",
-    "updatedAt": "2025-12-31T11:23:13.242Z"
+    "updatedAt": "2026-01-01T16:25:46.966Z"
   },
   {
     "title": "Boyhood",
@@ -3501,7 +3521,7 @@
     ],
     "tmdb_id": 232812,
     "tmdb_rating": 8.227,
-    "popularity": 2.8543,
+    "popularity": 2.9327,
     "tmdb_overview": "Jang Byeong-tae is a small and weak boy living in Onyang in South Chungcheong Province. He's at the bottom of the school's social ladder and when he transfers to the neighboring Buyeo Agricultural High School, he faces an unexpected incident that becomes a turning point in his life.",
     "tmdb_type": "tv",
     "tmdb_title": "Boyhood",
@@ -3516,9 +3536,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/7eUsF9aZ4LxZURA9O5rWALSsfNe.jpg",
     "color": null,
     "saved": false,
-    "_hash": "a16f992f9b1fbe16a04ed303e1dc816746db47e32291d81748c14cf47ef84e3b",
+    "_hash": "e2aed22a1503a53b491160598e5ae47aa6f406d6e069080c37d2cd42a809a7cc",
     "createdAt": "2025-12-27T15:21:49.384Z",
-    "updatedAt": "2025-12-31T11:23:16.847Z"
+    "updatedAt": "2026-01-01T16:25:50.228Z"
   },
   {
     "title": "Fated Hearts",
@@ -3590,7 +3610,7 @@
     ],
     "tmdb_id": 272484,
     "tmdb_rating": 9.3,
-    "popularity": 12.3426,
+    "popularity": 11.6767,
     "tmdb_overview": "After losing her memory in battle, skilled archer Fu Yixiao is taken in by a noble family and unexpectedly reunited with her former enemy, Prince Feng Suige—the man she once struck with an arrow. As they face the dangers of Yujing together, trust replaces suspicion and a deep bond begins to form. Caught in a web of past betrayals and political intrigue, the two must confront their shared history while fighting for survival, freedom, and each other.",
     "tmdb_type": "tv",
     "tmdb_title": "Fated Hearts",
@@ -3605,9 +3625,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/xk1FjT0j5YraC0CQgtq7AGQxT0j.jpg",
     "color": null,
     "saved": false,
-    "_hash": "1b2d670f39336b337a7c297c6102fb830402c55ba49d888981882dc6f186b8eb",
+    "_hash": "9f3a1846ecf3bedee774900a488e118c86497256cda9915a5965c37642828ec9",
     "createdAt": "2025-12-27T15:21:52.884Z",
-    "updatedAt": "2025-12-31T11:23:21.280Z"
+    "updatedAt": "2026-01-01T16:25:53.778Z"
   },
   {
     "title": "Twelve",
@@ -3659,7 +3679,7 @@
     ],
     "tmdb_id": 274875,
     "tmdb_rating": 7.257,
-    "popularity": 6.1743,
+    "popularity": 5.249,
     "tmdb_overview": "A group of heroes, each embodying one of the 12 zodiac signs, battles to defend the Korean Peninsula from malevolent spirits.",
     "tmdb_type": "tv",
     "tmdb_title": "Twelve",
@@ -3674,9 +3694,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/22kJFY1PBSWNsQ4dBJvaaBNgM62.jpg",
     "color": null,
     "saved": false,
-    "_hash": "6d1ca601fcbfd072933a9462699565f3e4caac7a747a85accac448c5b6f0a8ad",
+    "_hash": "b9a43af69fcfba8d966268cc08d66cfac9c6f83c9c711d6906b06c8c102710eb",
     "createdAt": "2025-12-27T15:21:55.690Z",
-    "updatedAt": "2025-12-31T11:23:26.020Z"
+    "updatedAt": "2026-01-01T16:25:57.832Z"
   },
   {
     "title": "The 100 - Season 3",
@@ -3728,7 +3748,7 @@
     ],
     "tmdb_id": 11047,
     "tmdb_rating": 3.917,
-    "popularity": 1.0216,
+    "popularity": 0.9633,
     "tmdb_overview": "The 100 Lives of Black Jack Savage is a television series broadcast in the United States by NBC and produced by Stephen J. Cannell Productions in association with Walt Disney Television. This show originated as a TV-movie. The program originally aired in 1991, but lasted less than one season. The series was officially titled Disney Presents The 100 Lives of Black Jack Savage.",
     "tmdb_type": "tv",
     "tmdb_title": "The 100 Lives of Black Jack Savage",
@@ -3743,9 +3763,9 @@
     "backdrop": null,
     "color": null,
     "saved": false,
-    "_hash": "f9e2e628df3f06c76c74ecd7e6ba7fb8586c6115b36efa06fa68c805352f5caf",
+    "_hash": "22c55c56b35eae46031fa39609d17c0ce85b1ae1ed3cacb69b894b7a14dfe4e3",
     "createdAt": "2025-12-27T15:21:58.801Z",
-    "updatedAt": "2025-12-31T11:23:29.572Z"
+    "updatedAt": "2026-01-01T16:26:00.828Z"
   },
   {
     "title": "Aar Ya Paar",
@@ -3797,7 +3817,7 @@
     ],
     "tmdb_id": 217271,
     "tmdb_rating": 8,
-    "popularity": 1.3369,
+    "popularity": 1.4471,
     "tmdb_overview": "When the modern world's greed destroys his idyllic tribal existence, a valiant archer becomes a deadly assassin to get even.",
     "tmdb_type": "tv",
     "tmdb_title": "Aar Ya Paar",
@@ -3812,9 +3832,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/hqAzz7V8dQhQ4K1jjEDNf2iZUfV.jpg",
     "color": null,
     "saved": false,
-    "_hash": "b0abf89fc4c17bc82af8533c7941413201933d766fddbea1527449a24001614e",
+    "_hash": "b8ae1f701d7fb5a0518021a7b954b9577d69a1192ee0959c9cab14375f6af923",
     "createdAt": "2025-12-27T15:22:01.739Z",
-    "updatedAt": "2025-12-31T11:23:32.936Z"
+    "updatedAt": "2026-01-01T16:26:04.193Z"
   },
   {
     "title": "Countdown",
@@ -3866,7 +3886,7 @@
     ],
     "tmdb_id": 256317,
     "tmdb_rating": 7.294,
-    "popularity": 25.237,
+    "popularity": 25.2625,
     "tmdb_overview": "When an officer with the Department of Homeland Security is murdered in broad daylight, LAPD detective Mark Meachum is recruited to a secret task force, alongside undercover agents from all branches of law enforcement, to investigate. But the hunt for the killer soon uncovers a plot far more sinister than anyone could have imagined, kicking off a race against time to save a city of millions.",
     "tmdb_type": "tv",
     "tmdb_title": "Countdown",
@@ -3881,9 +3901,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/4pxGvtwxDlATy9nvJMvYL8u25LZ.jpg",
     "color": null,
     "saved": false,
-    "_hash": "1620203a48504973384c208dc15a8744718b18c4e43a776791a9d53ad0ef199d",
+    "_hash": "543927193f770055874d2a15cffbfc36f50a98978116fa76707b04bd7e2baaf7",
     "createdAt": "2025-12-27T15:22:05.562Z",
-    "updatedAt": "2025-12-31T11:23:36.524Z"
+    "updatedAt": "2026-01-01T16:26:07.827Z"
   },
   {
     "title": "The I-Land",
@@ -3930,7 +3950,7 @@
     ],
     "tmdb_id": 90755,
     "tmdb_rating": 5.502,
-    "popularity": 2.8511,
+    "popularity": 3.4417,
     "tmdb_overview": "Wiped clean of memories and thrown together, a group of strangers fight to survive harsh realities -- and the island that traps them.",
     "tmdb_type": "tv",
     "tmdb_title": "The I-Land",
@@ -3945,9 +3965,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/jHF1ys6WjpKpgj3JPTCP65pN96v.jpg",
     "color": null,
     "saved": false,
-    "_hash": "69e64f16f905d0eb73f019fafc2282d048c37dda935d636d720da18fa82c165e",
+    "_hash": "bfc852166df2ae9866b5e456cfe2b993b11566158f5a9d1fc46dd7a7d98afec3",
     "createdAt": "2025-12-27T15:22:08.350Z",
-    "updatedAt": "2025-12-31T11:23:40.216Z"
+    "updatedAt": "2026-01-01T16:26:11.021Z"
   },
   {
     "title": "Sex/Life - Sankara",
@@ -4097,11 +4117,76 @@
         "title": "Episode 4",
         "watchUrl": "https://files.isatafilez.my/Serie%2FPhilip%2FTHE_ALIBI_EP4.mp4",
         "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FPhilip%2FTHE_ALIBI_EP4.mp4"
+      },
+      {
+        "title": "Episode 5",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FPhilip%2FTHE_ALIBI_EP5_.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FPhilip%2FTHE_ALIBI_EP5_.mp4"
+      },
+      {
+        "title": "Episode 6 A",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FPhilip%2FTHE_ALIBI_EP6A.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FPhilip%2FTHE_ALIBI_EP6A.mp4"
+      },
+      {
+        "title": "Episode 6 B",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FPhilip%2FTHE_ALIBI_EP6B.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FPhilip%2FTHE_ALIBI_EP6B.mp4"
+      },
+      {
+        "title": "Episode 7 A",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FPhilip%2FTHE_ALIBI_EP7A.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FPhilip%2FTHE_ALIBI_EP7A.mp4"
+      },
+      {
+        "title": "Episode 7 B",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FPhilip%2FTHE_ALIBI_EP7B.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FPhilip%2FTHE_ALIBI_EP7B.mp4"
+      },
+      {
+        "title": "Episode 8 A",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FPhilip%2FTHE_ALIBI_EP8A.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FPhilip%2FTHE_ALIBI_EP8A.mp4"
+      },
+      {
+        "title": "Episode 8 B",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FPhilip%2FTHE_ALIBI_EP8B.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FPhilip%2FTHE_ALIBI_EP8B.mp4"
+      },
+      {
+        "title": "Episode 9 A",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FPhilip%2FTHE_ALIBI_EP9A.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FPhilip%2FTHE_ALIBI_EP9A.mp4"
+      },
+      {
+        "title": "Episode 9 B",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FPhilip%2FTHE_ALIBI_EP9B.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FPhilip%2FTHE_ALIBI_EP9B.mp4"
+      },
+      {
+        "title": "Episode 10",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FPhilip%2FTHE_ALIBI_EP10.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FPhilip%2FTHE_ALIBI_EP10.mp4"
+      },
+      {
+        "title": "Episode 11 A",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FPhilip%2FTHE_ALIBI_EP11A.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FPhilip%2FTHE_ALIBI_EP11A.mp4"
+      },
+      {
+        "title": "Episode 11 B",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FPhilip%2FTHE_ALIBI_EP11B.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FPhilip%2FTHE_ALIBI_EP11B.mp4"
+      },
+      {
+        "title": "Episode 12",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FPhilip%2FTHE_ALIBI_EP12.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FPhilip%2FTHE_ALIBI_EP12.mp4"
       }
     ],
     "tmdb_id": 294188,
     "tmdb_rating": 9.5,
-    "popularity": 3.203,
+    "popularity": 2.501,
     "tmdb_overview": "Vincent, an heir to a news empire, gets accused of killing his rival, Walter. To protect his reputation, he hires Stella, an escort with her own haunted past, to pose as his alibi. What begins as a transactional arrangement soon becomes dangerously real as their shared wounds and ambitions draw them together. But when they uncover the truth, the two are compelled to confront their true feelings.",
     "tmdb_type": "tv",
     "tmdb_title": "The Alibi",
@@ -4116,8 +4201,97 @@
     "backdrop": "https://image.tmdb.org/t/p/original/gB2Zq8CMbRlbVKmpVIzzXK5JO3w.jpg",
     "color": null,
     "saved": false,
-    "_hash": "6431b14c5ae904a4e52093f9800df8ada916aaa35dd339b853b6eebb8c8e0799",
+    "_hash": "ea5d337286b920debcef6f42c6a7187ec3f46587c9593e77fdbc2ecfbe20e01f",
     "createdAt": "2025-12-31T11:20:23.874Z",
-    "updatedAt": "2025-12-31T11:20:23.874Z"
+    "updatedAt": "2026-01-01T16:23:17.754Z"
+  },
+  {
+    "title": "Homeland",
+    "link": "https://mujyosi.store/serie/358",
+    "image": "https://image.tmdb.org/t/p/w500/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+    "narrator": "",
+    "release_year": null,
+    "Downloadurls": [
+      {
+        "title": "Episode 1",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FHOMELAND_S01E01.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FHOMELAND_S01E01.mp4"
+      },
+      {
+        "title": "Episode 2",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FHomeland_S01_E02.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FHomeland_S01_E02.mp4"
+      },
+      {
+        "title": "Episode 3",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FHomeland_S01_E03.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FHomeland_S01_E03.mp4"
+      },
+      {
+        "title": "Episode 4",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FHomeland_S01_E04.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FHomeland_S01_E04.mp4"
+      },
+      {
+        "title": "Episode 5",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FHomeland_S01_E05.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FHomeland_S01_E05.mp4"
+      },
+      {
+        "title": "Episode 6",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FHomeland_S01_E06.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FHomeland_S01_E06.mp4"
+      },
+      {
+        "title": "Episode 7",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FHomeland_S01_E07.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FHomeland_S01_E07.mp4"
+      },
+      {
+        "title": "Episode 8",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FHomeland_S01_E08.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FHomeland_S01_E08.mp4"
+      },
+      {
+        "title": "Episode 9",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FHomeland_S01_E09.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FHomeland_S01_E09.mp4"
+      },
+      {
+        "title": "Episode 10",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FHomeland_S01_E10.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FHomeland_S01_E10.mp4"
+      },
+      {
+        "title": "Episode 11",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FHomeland_S01_E11.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FHomeland_S01_E11.mp4"
+      },
+      {
+        "title": "Episode 12 Final",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FHomeland_S01_E12_Final.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FHomeland_S01_E12_Final.mp4"
+      }
+    ],
+    "tmdb_id": 1407,
+    "tmdb_rating": 7.577,
+    "popularity": 139.083,
+    "tmdb_overview": "CIA officer Carrie Mathison is tops in her field despite being bipolar, which makes her volatile and unpredictable. With the help of her long-time mentor Saul Berenson, Carrie fearlessly risks everything, including her personal well-being and even sanity, at every turn.",
+    "tmdb_type": "tv",
+    "tmdb_title": "Homeland",
+    "tmdb_year": 2011,
+    "poster_small": "https://image.tmdb.org/t/p/w185/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+    "poster_medium": "https://image.tmdb.org/t/p/w342/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+    "poster_large": "https://image.tmdb.org/t/p/w500/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+    "backdrop_small": "https://image.tmdb.org/t/p/w300/391ixi0wVbFtFLQnOy8ZncWv2io.jpg",
+    "backdrop_medium": "https://image.tmdb.org/t/p/w780/391ixi0wVbFtFLQnOy8ZncWv2io.jpg",
+    "backdrop_large": "https://image.tmdb.org/t/p/w1280/391ixi0wVbFtFLQnOy8ZncWv2io.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/391ixi0wVbFtFLQnOy8ZncWv2io.jpg",
+    "color": null,
+    "saved": false,
+    "_hash": "268f711e24a64df6a34d9e2f2fde891698161f33465fd0f4c731f7ccd39a3b9f",
+    "createdAt": "2026-01-01T16:23:13.509Z",
+    "updatedAt": "2026-01-01T16:23:13.509Z"
   }
 ]
