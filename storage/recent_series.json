@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Terminal List: Dark Wolf",
+    "image": "https://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
+    "url": "https://mujyosi.store/serie/360"
+  },
+  {
     "title": "The Legend of the Blue Sea",
     "image": "https://image.tmdb.org/t/p/w500/vhBdwKSYOvops4o68X1zNXqEDF1.jpg",
     "url": "https://mujyosi.store/serie/359"
@@ -243,10 +248,5 @@
     "title": "Aar Ya Paar",
     "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/pp8lco46QRSLU3GHV4gd0R2RF5U.jpg",
     "url": "https://mujyosi.store/serie/311"
-  },
-  {
-    "title": "Countdown",
-    "image": "https://image.tmdb.org/t/p/original/gcSNS5cy1iOmYawIdJCzoc873rQ.jpg",
-    "url": "https://mujyosi.store/serie/310"
   }
 ]
