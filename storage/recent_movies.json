@@ -1,5 +1,10 @@
 [
   {
+    "title": "Avatar: The Way of Water",
+    "image": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+    "url": "https://mujyosi.store/movie/2677"
+  },
+  {
     "title": "Star Wars",
     "image": "https://image.tmdb.org/t/p/original/qhEimz49g0r2sQ06Xfb8Hxmfk3T.jpg",
     "url": "https://mujyosi.store/movie/2676"
@@ -243,10 +248,5 @@
     "title": "The Shadow's Edge",
     "image": "https://image.tmdb.org/t/p/original/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg",
     "url": "https://mujyosi.store/movie/2624"
-  },
-  {
-    "title": "The Family Plan 2",
-    "image": "https://image.tmdb.org/t/p/original/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
-    "url": "https://mujyosi.store/movie/2623"
   }
 ]
