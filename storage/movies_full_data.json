@@ -158,7 +158,18 @@
     "image": "https://image.tmdb.org/t/p/w500/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FFerdinand__1_.mp4.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FFerdinand__1_.mp4.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FFerdinand__2_.mp4.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FFerdinand__2_.mp4.mp4"
+      }
+    ],
     "tmdb_id": 364689,
     "tmdb_rating": 7.223,
     "popularity": 7.6316,
@@ -176,9 +187,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/sTOhZruocNubL0HxjvdouwCEL9I.jpg",
     "color": null,
     "saved": false,
-    "_hash": "3c3fe8a8f1544d4066d9d9b4c8c1c158403423deeabac9c8c14612d946a97ff7",
+    "_hash": "404b905ab0e74a2f3ffb6ac1a8bbeb9fe064542b210651749da52dcc70a3b91e",
     "createdAt": "2025-12-27T15:16:55.869Z",
-    "updatedAt": "2026-01-04T10:18:17.253Z"
+    "updatedAt": "2026-01-04T14:16:53.246Z"
   },
   {
     "title": "Sisu: Road to Revenge - Rocky",
@@ -228,7 +239,7 @@
     "release_year": null,
     "Downloadurls": [],
     "tmdb_id": 1223601,
-    "tmdb_rating": 7.479,
+    "tmdb_rating": 7.484,
     "popularity": 122.4481,
     "tmdb_overview": "Returning to the house where his family was brutally murdered during the war, ‘the man who refuses to die’ dismantles it, loads it on a truck, and is determined to rebuild it somewhere safe in their honor. When the commander who killed his family comes back hellbent on finishing the job, a relentless, eye-popping cross-country chase ensues.",
     "tmdb_type": "movie",
@@ -244,9 +255,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/yCatt8lmp3oRFEcOZF8KHhsiASQ.jpg",
     "color": null,
     "saved": false,
-    "_hash": "4106c49559a6049977911341676399351a62a37dc95f33c63aa09c21c0c528da",
+    "_hash": "4637746563b3a63e1087c01aedeb03eb2f7bcffd7caddc29eabcf92b52c7aa58",
     "createdAt": "2025-12-27T15:17:05.106Z",
-    "updatedAt": "2026-01-04T09:18:08.204Z"
+    "updatedAt": "2026-01-04T14:16:56.905Z"
   },
   {
     "title": "Blank Check",
@@ -714,13 +725,7 @@
     "image": "https://image.tmdb.org/t/p/original/7MdM9TMPE4X5zpINVMFdXe3amYx.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FICE_ROAD_2_VEGEANCE.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FICE_ROAD_2_VEGEANCE.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 1119878,
     "tmdb_rating": 6.253,
     "popularity": 25.5921,
@@ -738,9 +743,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/2nwhxEyefcIFKwOrSigiamoIzu2.jpg",
     "color": null,
     "saved": false,
-    "_hash": "30a2b0edb77906d9815e32d4c2c1c601d32d75cc5d94a94db10af0c40b7e29dd",
+    "_hash": "edcd8f8652fff4fd220f4948ac981823590fc98caee80baac0aeb722b8ae054f",
     "createdAt": "2025-12-27T15:17:58.451Z",
-    "updatedAt": "2026-01-04T10:18:43.629Z"
+    "updatedAt": "2026-01-04T14:17:16.796Z"
   },
   {
     "title": "Identity",
@@ -1045,9 +1050,20 @@
     "image": "https://image.tmdb.org/t/p/original/iYxzsEBJnFzcgX0amOD6NcaCuPz.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FPredator_Badlands__2025__A.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FPredator_Badlands__2025__A.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FPredator_Badlands__2025__B.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FPredator_Badlands__2025__B.mp4"
+      }
+    ],
     "tmdb_id": 1242898,
-    "tmdb_rating": 7.311,
+    "tmdb_rating": 7.306,
     "popularity": 122.0066,
     "tmdb_overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
     "tmdb_type": "movie",
@@ -1063,9 +1079,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
     "color": null,
     "saved": false,
-    "_hash": "a7a46bc449c6ad5abbd5f011321f6e523f72f2976bc03ac24cfcdf5248a7a003",
+    "_hash": "fe9b0f4c479fc71734779559027c20ccc173ef6a66fac0019ef4776faade56f8",
     "createdAt": "2025-12-27T15:18:27.694Z",
-    "updatedAt": "2026-01-04T10:19:11.773Z"
+    "updatedAt": "2026-01-04T14:17:51.191Z"
   },
   {
     "title": "Wildcat",
@@ -1807,5 +1823,44 @@
     "_hash": "f99fc18577ec99cf8fcab58fb2e432da7e1528e9e307f22b6268be490e168add",
     "createdAt": "2026-01-04T10:17:42.399Z",
     "updatedAt": "2026-01-04T10:17:42.399Z"
+  },
+  {
+    "title": "Golden Job",
+    "link": "https://mujyosi.store/movie/2678",
+    "image": "https://image.tmdb.org/t/p/w500/66mlGssgzn6ZCJBPYf1zCmJSHhu.jpg",
+    "narrator": "",
+    "release_year": null,
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FGolden_Job_A_By_Mr_Fire.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FGolden_Job_A_By_Mr_Fire.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FGolden_Job_B_By_Mr_Fire.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FGolden_Job_B_By_Mr_Fire.mp4"
+      }
+    ],
+    "tmdb_id": 531380,
+    "tmdb_rating": 6.221,
+    "popularity": 1.6142,
+    "tmdb_overview": "A group of former mercenaries reunite to plan an epic heist: boosting a truck full of medicine held by a foreign intelligence agency to supply a refugee camp in need. But when they find the truck is actually filled with stolen gold, the band of brothers realize they’ve been double-crossed by one of their own - and putting the situation right will be all out war.",
+    "tmdb_type": "movie",
+    "tmdb_title": "Golden Job",
+    "tmdb_year": 2018,
+    "poster_small": "https://image.tmdb.org/t/p/w185/66mlGssgzn6ZCJBPYf1zCmJSHhu.jpg",
+    "poster_medium": "https://image.tmdb.org/t/p/w342/66mlGssgzn6ZCJBPYf1zCmJSHhu.jpg",
+    "poster_large": "https://image.tmdb.org/t/p/w500/66mlGssgzn6ZCJBPYf1zCmJSHhu.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/66mlGssgzn6ZCJBPYf1zCmJSHhu.jpg",
+    "backdrop_small": "https://image.tmdb.org/t/p/w300/jxyEUugg60UpFirBRCmXdXxmVHW.jpg",
+    "backdrop_medium": "https://image.tmdb.org/t/p/w780/jxyEUugg60UpFirBRCmXdXxmVHW.jpg",
+    "backdrop_large": "https://image.tmdb.org/t/p/w1280/jxyEUugg60UpFirBRCmXdXxmVHW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/jxyEUugg60UpFirBRCmXdXxmVHW.jpg",
+    "color": null,
+    "saved": false,
+    "_hash": "d98776ee0a7661d3c494cb50b03e76bc1f128ed34f5344ebf55a5f7b06bef8b0",
+    "createdAt": "2026-01-04T14:16:13.780Z",
+    "updatedAt": "2026-01-04T14:16:13.781Z"
   }
 ]
