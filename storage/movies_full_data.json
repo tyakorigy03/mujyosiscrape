@@ -5,17 +5,11 @@
     "image": "https://image.tmdb.org/t/p/w500/3zJLnrP9g9LSMpX5C1wau49gGUv.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FDhoom_2.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FDhoom_2.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "saved": false,
-    "_hash": "7fe02584546eef4c4fb7ddad74199369eddf6d8f43c218af4d9d489dd934ef08",
+    "_hash": "7ee9a504cddf57098c866993b38b98e08688558adb962424fae1053016c78545",
     "createdAt": "2025-12-27T15:16:37.838Z",
-    "updatedAt": "2025-12-27T15:16:37.838Z"
+    "updatedAt": "2026-01-04T16:21:38.270Z"
   },
   {
     "title": "The Passion of the CHRIST - Noheri",
@@ -23,22 +17,11 @@
     "image": "https://image.tmdb.org/t/p/w500/v9f9MMrq2nGQrN7cHnQRmEq9lSE.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download A",
-        "watchUrl": "https://files.isatafilez.my/Rocky%2FJESUS%2FPassion_Of_Christ_A.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Rocky%2FJESUS%2FPassion_Of_Christ_A.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/Rocky%2FJESUS%2FPassion_Of_Christ_B.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Rocky%2FJESUS%2FPassion_Of_Christ_B.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "saved": false,
-    "_hash": "c6fd1db2add89a06564542729ba03708863b690ca00d9b8ee3ebb5643993c96a",
+    "_hash": "49538519ff61667141c898a49b09230f68e17621ca0aebb8e1b77670232a8957",
     "createdAt": "2025-12-27T15:16:39.926Z",
-    "updatedAt": "2025-12-27T15:16:39.926Z"
+    "updatedAt": "2026-01-04T16:21:39.167Z"
   },
   {
     "title": "The Sixth Robber",
@@ -46,18 +29,7 @@
     "image": "https://image.tmdb.org/t/p/w500/cL4CSHwwSI3oX6Z15svQWBVKF9t.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download A",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FTHE_SIXTH_ROBBER_A.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FTHE_SIXTH_ROBBER_A.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FTHE_SIXTH_ROBBER_B.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FTHE_SIXTH_ROBBER_B.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 1591287,
     "tmdb_rating": 8,
     "popularity": 2.1688,
@@ -75,9 +47,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/pxdhgSWcUwfhb3NUEJt048KXciv.jpg",
     "color": null,
     "saved": false,
-    "_hash": "a71a944a37e70d0eacc2c9e4c2d5fa0816cbeea1bad4becc1e31f30a298cbc13",
+    "_hash": "3aee7ffa4725f7312af0d4fc934104d147bfb45c4d50265e287b906991c256ee",
     "createdAt": "2025-12-27T15:16:44.169Z",
-    "updatedAt": "2026-01-04T09:17:53.757Z"
+    "updatedAt": "2026-01-04T16:21:40.342Z"
   },
   {
     "title": "The King of Sniper in Northeast",
@@ -85,18 +57,7 @@
     "image": "https://image.tmdb.org/t/p/original/82xapKvFtkKsRMWpByEgDBEb3Gv.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download A",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FTHE_KING_OF_SNIPER_IN_NORTHEAST_A.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FTHE_KING_OF_SNIPER_IN_NORTHEAST_A.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FTHE_KING_OF_SNIPER_IN_NORTHEAST_B.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FTHE_KING_OF_SNIPER_IN_NORTHEAST_B.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 975998,
     "tmdb_rating": 2.8,
     "popularity": 0.4429,
@@ -114,9 +75,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/r4ymv0PdXsAL0befJCFZdPeKkZf.jpg",
     "color": null,
     "saved": false,
-    "_hash": "f47f59051c44d2edd2b4f2187346d6aaab727f48c91001d1c57b1579728e73b3",
+    "_hash": "2c6c59e2dac31b658e01e117e4bfe00760c843e1b2867183e2e58e1ccef277d9",
     "createdAt": "2025-12-27T15:16:47.815Z",
-    "updatedAt": "2026-01-04T09:17:56.827Z"
+    "updatedAt": "2026-01-04T16:21:41.821Z"
   },
   {
     "title": "No One Lives",
@@ -124,13 +85,7 @@
     "image": "https://image.tmdb.org/t/p/w500/d9wDmRcQngl9Jo7Go3EU7f2W15m.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/SANKAR%2FWatch_No_One_Lives_2020.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=SANKAR%2FWatch_No_One_Lives_2020.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 123109,
     "tmdb_rating": 5.985,
     "popularity": 2.2201,
@@ -148,9 +103,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/hoZHoGRC44auu2rc0smBtMMxsR7.jpg",
     "color": null,
     "saved": false,
-    "_hash": "1e3c4f2f23fa1be5537c77990c53b253f0d6b1d622f974e5db9b146f3ebd977b",
+    "_hash": "da0d7dec86020634dabd21135f9cede655a0982b8539ec4d826852b61fd6942f",
     "createdAt": "2025-12-27T15:16:51.411Z",
-    "updatedAt": "2026-01-04T09:17:59.633Z"
+    "updatedAt": "2026-01-04T16:21:43.367Z"
   },
   {
     "title": "Ferdinand",
@@ -158,18 +113,7 @@
     "image": "https://image.tmdb.org/t/p/w500/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download A",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FFerdinand__1_.mp4.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FFerdinand__1_.mp4.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FFerdinand__2_.mp4.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FFerdinand__2_.mp4.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 364689,
     "tmdb_rating": 7.223,
     "popularity": 7.6316,
@@ -187,9 +131,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/sTOhZruocNubL0HxjvdouwCEL9I.jpg",
     "color": null,
     "saved": false,
-    "_hash": "404b905ab0e74a2f3ffb6ac1a8bbeb9fe064542b210651749da52dcc70a3b91e",
+    "_hash": "3c3fe8a8f1544d4066d9d9b4c8c1c158403423deeabac9c8c14612d946a97ff7",
     "createdAt": "2025-12-27T15:16:55.869Z",
-    "updatedAt": "2026-01-04T14:16:53.246Z"
+    "updatedAt": "2026-01-04T16:21:44.686Z"
   },
   {
     "title": "Sisu: Road to Revenge - Rocky",
@@ -209,7 +153,13 @@
     "image": "https://image.tmdb.org/t/p/w500/1gDV0Lm9y8ufIKzyf0h0GBgb9Zj.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download",
+        "watchUrl": "https://files.isatafilez.my/SANKAR%2FEvil_Dead_by_Sankar.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=SANKAR%2FEvil_Dead_by_Sankar.mp4"
+      }
+    ],
     "tmdb_id": 109428,
     "tmdb_rating": 6.583,
     "popularity": 4.9369,
@@ -227,9 +177,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/6RDgtEBzjuF7W25DVziXRABchpX.jpg",
     "color": null,
     "saved": false,
-    "_hash": "c030eeb3674fa126073971bfc72b77e8f0581ed9783aef22cf9e2186468a03c7",
+    "_hash": "59896af3df9f6004771f6fe852d773626a696ec2db73d6452c31e4b2337a8428",
     "createdAt": "2025-12-27T15:17:02.531Z",
-    "updatedAt": "2026-01-04T09:18:06.966Z"
+    "updatedAt": "2026-01-04T16:21:48.948Z"
   },
   {
     "title": "Sisu: Road to Revenge",
@@ -237,7 +187,18 @@
     "image": "https://image.tmdb.org/t/p/w500/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FSisu_2_A_Agasobanuye_By_Mr_Fire-1.m4v",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FSisu_2_A_Agasobanuye_By_Mr_Fire-1.m4v"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FSisu_2_B_Agasobanuye_By_Mr_Fire-1.m4v",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FSisu_2_B_Agasobanuye_By_Mr_Fire-1.m4v"
+      }
+    ],
     "tmdb_id": 1223601,
     "tmdb_rating": 7.484,
     "popularity": 122.4481,
@@ -255,9 +216,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/yCatt8lmp3oRFEcOZF8KHhsiASQ.jpg",
     "color": null,
     "saved": false,
-    "_hash": "4637746563b3a63e1087c01aedeb03eb2f7bcffd7caddc29eabcf92b52c7aa58",
+    "_hash": "51604041c64a77246fae46f09471c774cf32565cd8efcff2ddc390d022daa3b3",
     "createdAt": "2025-12-27T15:17:05.106Z",
-    "updatedAt": "2026-01-04T14:16:56.905Z"
+    "updatedAt": "2026-01-04T16:21:53.628Z"
   },
   {
     "title": "Blank Check",
@@ -265,7 +226,13 @@
     "image": "https://image.tmdb.org/t/p/w500/qhsH1BGqeCDHoogt5ebxOgERJGb.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FBLANK_CHECK.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FBLANK_CHECK.mp4"
+      }
+    ],
     "tmdb_id": 13962,
     "tmdb_rating": 5.941,
     "popularity": 3.0727,
@@ -283,9 +250,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/ddpmx0dH1bXOp3jQt18GHaLwbAX.jpg",
     "color": null,
     "saved": false,
-    "_hash": "17857add8796b8c52c2c11fa86955c5ce339e60a630e821349202e2f9b0198f8",
+    "_hash": "ee2ec6ffa65bcdcfae204bdf067f24d305dc8b52e49b2c647ceb6672198ad247",
     "createdAt": "2025-12-27T15:17:08.253Z",
-    "updatedAt": "2026-01-04T09:18:09.737Z"
+    "updatedAt": "2026-01-04T16:21:56.198Z"
   },
   {
     "title": "Undercover Grandpa",
@@ -293,7 +260,13 @@
     "image": "https://image.tmdb.org/t/p/w500/yxAFzoJTUG2KPe4n8WnHYkugq20.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FUNDERCOVER_GRANDPA.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FUNDERCOVER_GRANDPA.mp4"
+      }
+    ],
     "tmdb_id": 464331,
     "tmdb_rating": 5.622,
     "popularity": 4.1949,
@@ -311,9 +284,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/7ZXhKzUvodZbBrrl5X3tyqJnM7A.jpg",
     "color": null,
     "saved": false,
-    "_hash": "e74386fa4f73232fe8d96b7a5f01ece4a786fa4742303c368150818ba01b3582",
+    "_hash": "7232e40e8f50c9665cce98a8a1d36796294ff55c49e7c29e80df70ecb789db54",
     "createdAt": "2025-12-27T15:17:10.996Z",
-    "updatedAt": "2026-01-04T10:18:23.148Z"
+    "updatedAt": "2026-01-04T16:21:58.544Z"
   },
   {
     "title": "The Long Walk",
@@ -321,9 +294,25 @@
     "image": "https://image.tmdb.org/t/p/w500/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FThe_Long_Walk_A_Agasobanuye_By_Mr_Fire-1.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FThe_Long_Walk_A_Agasobanuye_By_Mr_Fire-1.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FThe_Long_walk_B_By_Mr_Fire.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FThe_Long_walk_B_By_Mr_Fire.mp4"
+      },
+      {
+        "title": "Download C",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FThe_Long_Walk_C_By_Mr_Fire.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FThe_Long_Walk_C_By_Mr_Fire.mp4"
+      }
+    ],
     "tmdb_id": 604079,
-    "tmdb_rating": 6.927,
+    "tmdb_rating": 6.93,
     "popularity": 25.3819,
     "tmdb_overview": "In a dystopian near-future America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
     "tmdb_type": "movie",
@@ -339,9 +328,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/pcJft6lFWsJxutwpLHVYfmZRPQp.jpg",
     "color": null,
     "saved": false,
-    "_hash": "6eb3b85456455f280649a858315a76b4de603cdddfaaf8d862be742aabaebdee",
+    "_hash": "4a8fbd960ad88dcb9ede534410331b06bc85eb45bc76e27efcac0cb19156998e",
     "createdAt": "2025-12-27T15:17:14.721Z",
-    "updatedAt": "2026-01-04T09:18:13.066Z"
+    "updatedAt": "2026-01-04T16:22:01.187Z"
   },
   {
     "title": "Attack of the Meth Gator",
@@ -349,7 +338,23 @@
     "image": "https://image.tmdb.org/t/p/w500/td0L3VZvBFPYb6hZ3WTbq0VD9q2.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FMETH_GATOR_A_GVN.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FMETH_GATOR_A_GVN.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FMETH_GATOR_B_GVN.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FMETH_GATOR_B_GVN.mp4"
+      },
+      {
+        "title": "Download C",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FMETH_GATOR_C_GVN.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FMETH_GATOR_C_GVN.mp4"
+      }
+    ],
     "tmdb_id": 1091298,
     "tmdb_rating": 5.224,
     "popularity": 2.7968,
@@ -367,9 +372,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/q4aztOGdlXX2LTnTN3f4EegG9aB.jpg",
     "color": null,
     "saved": false,
-    "_hash": "151c64ea70dc018ed9669abb1151558c751f4137d931f29ed5f657dd48a05974",
+    "_hash": "70e552c9347839d72dbeb448bb29a79e774759fd5a7469e8551b0a2b1df9568f",
     "createdAt": "2025-12-27T15:17:17.459Z",
-    "updatedAt": "2026-01-04T09:18:14.484Z"
+    "updatedAt": "2026-01-04T16:22:03.780Z"
   },
   {
     "title": "Gladiator Underground",
@@ -377,7 +382,18 @@
     "image": "https://image.tmdb.org/t/p/w500/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FGradiator_Underground_A_By_Mr_Fire-1.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FGradiator_Underground_A_By_Mr_Fire-1.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FGradiator_Underground_B_By_Mr_Fire.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FGradiator_Underground_B_By_Mr_Fire.mp4"
+      }
+    ],
     "tmdb_id": 1499984,
     "tmdb_rating": 7,
     "popularity": 2.9635,
@@ -395,9 +411,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/lNAMDuflR4SCjaKylFLGdNcwXMj.jpg",
     "color": null,
     "saved": false,
-    "_hash": "11b123e16f20b8736c3a2c5d61049e5a2a542b55f3643715f47c67467b8ed50d",
+    "_hash": "920fee3459d09450a93048d537adedd401ba915ce4b9b2e5233fc2bbfe06d9f6",
     "createdAt": "2025-12-27T15:17:20.985Z",
-    "updatedAt": "2026-01-04T09:18:15.425Z"
+    "updatedAt": "2026-01-04T16:22:08.445Z"
   },
   {
     "title": "Sultan",
@@ -405,7 +421,13 @@
     "image": "https://image.tmdb.org/t/p/w500/vPTYtKuV8X5uUd3SqnzO14W6Dti.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FSULTAN.MP4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FSULTAN.MP4"
+      }
+    ],
     "tmdb_id": 452606,
     "tmdb_rating": 7.1,
     "popularity": 3.4111,
@@ -423,9 +445,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/5kz0LCSAFxCjgiqNO3BuktZEuSB.jpg",
     "color": null,
     "saved": false,
-    "_hash": "be56b0739994d231c423ae5abfbf47cb3832a3efa66c00b8ff280d5e431c568b",
+    "_hash": "03dace59218b38659a53710432259141dd9f0c4456f85115fdfe9994db80b5ba",
     "createdAt": "2025-12-27T15:17:24.275Z",
-    "updatedAt": "2026-01-04T09:18:17.125Z"
+    "updatedAt": "2026-01-04T16:22:12.619Z"
   },
   {
     "title": "Thamma",
@@ -753,18 +775,7 @@
     "image": "https://image.tmdb.org/t/p/original/gTqLwscF0S9QIvRLP4bHm1PuRwR.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download A",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fothers%2FIDENTITY_A.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fothers%2FIDENTITY_A.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fothers%2FIDENTITY_B.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fothers%2FIDENTITY_B.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 2832,
     "tmdb_rating": 7.176,
     "popularity": 10.1924,
@@ -782,9 +793,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/aFf7wxJWrcHnmNGew0hdvO6ZVhj.jpg",
     "color": null,
     "saved": false,
-    "_hash": "91c25fcc0be926e705dd3977a244b6145442d6ce386e48e79ffb0383fabb6490",
+    "_hash": "6ff9a0177a9e6e873d34025c2428aa5f6155983a930bc53b8ee010f8f5827488",
     "createdAt": "2025-12-27T15:18:01.235Z",
-    "updatedAt": "2026-01-04T10:18:46.668Z"
+    "updatedAt": "2026-01-04T16:22:29.278Z"
   },
   {
     "title": "Avengers: Infinity War",
@@ -792,13 +803,7 @@
     "image": "https://image.tmdb.org/t/p/original/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/SANKAR%2FAvenger_Infinity_War_Sankara.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=SANKAR%2FAvenger_Infinity_War_Sankara.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 299536,
     "tmdb_rating": 8.235,
     "popularity": 33.9515,
@@ -816,9 +821,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
     "color": null,
     "saved": false,
-    "_hash": "11d3ae907707f1398e2ad09a4e7a39936a301d7f87a13dc64c5f4820b2e366df",
+    "_hash": "be5bda10aee0ee08ef93b561fe65f5ee0ddd10bf9cedcbb171deada43b204fdf",
     "createdAt": "2025-12-27T15:18:04.167Z",
-    "updatedAt": "2026-01-04T10:18:50.663Z"
+    "updatedAt": "2026-01-04T16:22:30.601Z"
   },
   {
     "title": "Never A Thief",
@@ -826,18 +831,7 @@
     "image": "https://image.tmdb.org/t/p/original/nDqRmKK6SiTM6tanLOIFjMtPrfm.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download A",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fothers%2Fmovies%2FNever_a_Thief__2025__A.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fothers%2Fmovies%2FNever_a_Thief__2025__A.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fothers%2Fmovies%2FNever_a_Thief__2025__B.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fothers%2Fmovies%2FNever_a_Thief__2025__B.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 1500522,
     "tmdb_rating": 4.7,
     "popularity": 2.3357,
@@ -855,9 +849,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/nDqRmKK6SiTM6tanLOIFjMtPrfm.jpg",
     "color": null,
     "saved": false,
-    "_hash": "924829903796b5e695962704c07fd8cf40386d6e6a2ecfe180dcfdfb9b64cdc6",
+    "_hash": "b021517d52cdbb887e9f6f98c76fd5700c78482e0a6488c41018c459258fed86",
     "createdAt": "2025-12-27T15:18:08.374Z",
-    "updatedAt": "2026-01-04T10:18:53.372Z"
+    "updatedAt": "2026-01-04T16:22:31.677Z"
   },
   {
     "title": "Angry Rescue",
@@ -865,18 +859,7 @@
     "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/jWI5AmB4rTY3QEOwgSxB0GySzBS.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download A",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FAngry_Rescue_A_by_Mr_Fire.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FAngry_Rescue_A_by_Mr_Fire.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FAngry_Rescue_B_by_Mr_Fire.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FAngry_Rescue_B_by_Mr_Fire.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 1474779,
     "tmdb_rating": 7.833,
     "popularity": 0.9338,
@@ -894,9 +877,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/q4eo9ii54KcNfpNzEwfRyBgLI7m.jpg",
     "color": null,
     "saved": false,
-    "_hash": "957d7503636a8c911f90e999918f16aba95f347be47cfa1c600cdf2f06df3b77",
+    "_hash": "073cb44f63ba1ef90086768e009b63eef5e7f14bb75533a3fe716cbf58f12fc0",
     "createdAt": "2025-12-27T15:18:12.138Z",
-    "updatedAt": "2026-01-04T09:18:40.470Z"
+    "updatedAt": "2026-01-04T16:22:33.005Z"
   },
   {
     "title": "CHiPs",
@@ -904,13 +887,7 @@
     "image": "https://image.tmdb.org/t/p/original/k6tt823ZkJRk5YksUAU9uOfMLgw.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/Rocky%2FNew%2FCHIPS.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Rocky%2FNew%2FCHIPS.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 417644,
     "tmdb_rating": 6.127,
     "popularity": 2.4738,
@@ -928,9 +905,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/nz88EJ2iL1h6K9mpji9RlhYnlWc.jpg",
     "color": null,
     "saved": false,
-    "_hash": "b2d87c142d4a9e8ceccdc7dd5481cfe461a49bd47de934bd7b516c5af55f29b9",
+    "_hash": "6a0c8e696e14595412ec5b53d4a7639c1ecf5dc8168a960eb3980278e3e73954",
     "createdAt": "2025-12-27T15:18:14.849Z",
-    "updatedAt": "2026-01-04T09:18:43.572Z"
+    "updatedAt": "2026-01-04T16:22:34.544Z"
   },
   {
     "title": "Assalamualaikum Baitullah",
@@ -938,18 +915,7 @@
     "image": "https://image.tmdb.org/t/p/original/zWLDLcVOPBPmWFQpqxdn3JMOzDg.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download A",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FAssalamualaikumBaitullah_FEY_A.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FAssalamualaikumBaitullah_FEY_A.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FAssalamualaikumBaitullah_FEY_B_Arsenefilms.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FAssalamualaikumBaitullah_FEY_B_Arsenefilms.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 1497447,
     "tmdb_rating": 5,
     "popularity": 1.7271,
@@ -967,9 +933,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/dkjhbvA9eVtDeqYHKVFCCD4CRMI.jpg",
     "color": null,
     "saved": false,
-    "_hash": "0c8ce4d1aaad573142088a2b894999e53edc5a4328e08944a43f257ebcc91d02",
+    "_hash": "a61641c3f396aa21062cde2196f60a3a397d6e17a7ae5f1d9fa219c45d3a07e4",
     "createdAt": "2025-12-27T15:18:17.710Z",
-    "updatedAt": "2026-01-04T09:18:47.431Z"
+    "updatedAt": "2026-01-04T16:22:36.006Z"
   },
   {
     "title": "Don't Hang Up",
@@ -977,13 +943,7 @@
     "image": "https://image.tmdb.org/t/p/original/yldpIctqy2GlJayIOGUSrfE3hRQ.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/SANKAR%2FDont_Hang_Up_Sankara.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=SANKAR%2FDont_Hang_Up_Sankara.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 956128,
     "tmdb_rating": 0,
     "popularity": 0.2946,
@@ -1001,9 +961,9 @@
     "backdrop": null,
     "color": null,
     "saved": false,
-    "_hash": "e771af4892acf2ab24520687c1fd389e4cad8f7b6fb45b2153f6cdba60b69ac6",
+    "_hash": "a1c50eda3d3e60352c948257be9dc0f1c8a2884c0dd862a51a08e44541b90b4f",
     "createdAt": "2025-12-27T15:18:21.313Z",
-    "updatedAt": "2026-01-04T09:18:50.451Z"
+    "updatedAt": "2026-01-04T16:22:37.152Z"
   },
   {
     "title": "Troll 2",
@@ -1050,18 +1010,7 @@
     "image": "https://image.tmdb.org/t/p/original/iYxzsEBJnFzcgX0amOD6NcaCuPz.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download A",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FPredator_Badlands__2025__A.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FPredator_Badlands__2025__A.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FPredator_Badlands__2025__B.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FPredator_Badlands__2025__B.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 1242898,
     "tmdb_rating": 7.306,
     "popularity": 122.0066,
@@ -1079,9 +1028,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
     "color": null,
     "saved": false,
-    "_hash": "fe9b0f4c479fc71734779559027c20ccc173ef6a66fac0019ef4776faade56f8",
+    "_hash": "767143044c52a406f30e3ae07f6bc05b537372d0eaaa3d59331538d27fb58179",
     "createdAt": "2025-12-27T15:18:27.694Z",
-    "updatedAt": "2026-01-04T14:17:51.191Z"
+    "updatedAt": "2026-01-04T16:22:40.147Z"
   },
   {
     "title": "Wildcat",
@@ -1538,7 +1487,7 @@
       }
     ],
     "tmdb_id": 986097,
-    "tmdb_rating": 5.743,
+    "tmdb_rating": 5.741,
     "popularity": 16.7778,
     "tmdb_overview": "After suffering a potentially career-ending brain trauma, Cameron Cade receives a lifeline when his hero, legendary eight-time Championship quarterback and cultural megastar Isaiah White, offers to train Cam at Isaiah's isolated compound that he shares with his celebrity influencer wife. But as Cam's training accelerates, Isaiah's charisma begins to curdle into something darker.",
     "tmdb_type": "movie",
@@ -1554,9 +1503,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/jzzpCJWkVZZwAxzzLmtYN0MBWFd.jpg",
     "color": null,
     "saved": false,
-    "_hash": "cc15d9c68d8028bf427030306d62986e1faa97398b023c8762dc64059d6afdd2",
+    "_hash": "8a0691ac76ae020b6d8a1f0faf0aad70b40f75b6da66d1f86eb218f45a1e786f",
     "createdAt": "2025-12-29T11:16:43.944Z",
-    "updatedAt": "2026-01-04T09:17:41.890Z"
+    "updatedAt": "2026-01-04T16:21:34.596Z"
   },
   {
     "title": "Sniper Battle",
@@ -1736,7 +1685,7 @@
       }
     ],
     "tmdb_id": 11,
-    "tmdb_rating": 8.202,
+    "tmdb_rating": 8.2,
     "popularity": 26.5548,
     "tmdb_overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
     "tmdb_type": "movie",
@@ -1746,15 +1695,15 @@
     "poster_medium": "https://image.tmdb.org/t/p/w342/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
     "poster_large": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
     "poster": "https://image.tmdb.org/t/p/original/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
-    "backdrop_small": "https://image.tmdb.org/t/p/w300/3H94YlnYWVLKQKEnfTBKvrCmHmt.jpg",
-    "backdrop_medium": "https://image.tmdb.org/t/p/w780/3H94YlnYWVLKQKEnfTBKvrCmHmt.jpg",
-    "backdrop_large": "https://image.tmdb.org/t/p/w1280/3H94YlnYWVLKQKEnfTBKvrCmHmt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/original/3H94YlnYWVLKQKEnfTBKvrCmHmt.jpg",
+    "backdrop_small": "https://image.tmdb.org/t/p/w300/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg",
+    "backdrop_medium": "https://image.tmdb.org/t/p/w780/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg",
+    "backdrop_large": "https://image.tmdb.org/t/p/w1280/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg",
     "color": null,
     "saved": false,
-    "_hash": "0e3da24dff978c0c449ce6ba5b16aeb69b8280855ae185de29c2a69ea490708f",
+    "_hash": "33ae2873a67f01b1d0da1ee97cfc084c30ab37ddef54931d20d4ae38129f616c",
     "createdAt": "2026-01-03T17:15:22.617Z",
-    "updatedAt": "2026-01-04T09:17:26.724Z"
+    "updatedAt": "2026-01-04T16:21:18.477Z"
   },
   {
     "title": "Avatar",
@@ -1804,7 +1753,7 @@
       }
     ],
     "tmdb_id": 76600,
-    "tmdb_rating": 7.606,
+    "tmdb_rating": 7.605,
     "popularity": 117.5618,
     "tmdb_overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
     "tmdb_type": "movie",
@@ -1820,9 +1769,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg",
     "color": null,
     "saved": false,
-    "_hash": "f99fc18577ec99cf8fcab58fb2e432da7e1528e9e307f22b6268be490e168add",
+    "_hash": "cc838228baa89705f56b5d6269a358932ac9ba7118a66f53d0440b8fb0229fcd",
     "createdAt": "2026-01-04T10:17:42.399Z",
-    "updatedAt": "2026-01-04T10:17:42.399Z"
+    "updatedAt": "2026-01-04T16:21:16.642Z"
   },
   {
     "title": "Golden Job",
@@ -1862,5 +1811,78 @@
     "_hash": "d98776ee0a7661d3c494cb50b03e76bc1f128ed34f5344ebf55a5f7b06bef8b0",
     "createdAt": "2026-01-04T14:16:13.780Z",
     "updatedAt": "2026-01-04T14:16:13.781Z"
+  },
+  {
+    "title": "The Tinder Swindler",
+    "link": "https://mujyosi.store/movie/2680",
+    "image": "https://image.tmdb.org/t/p/w500/iLUSFjdavIf0SrP7ldoQ1xomQVC.jpg",
+    "narrator": "",
+    "release_year": null,
+    "Downloadurls": [
+      {
+        "title": "Download",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FThe_Tinder_Swindler.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FThe_Tinder_Swindler.mp4"
+      }
+    ],
+    "tmdb_id": 923632,
+    "tmdb_rating": 6.968,
+    "popularity": 1.5206,
+    "tmdb_overview": "Posing as a wealthy, jet-setting diamond mogul, an Israeli conman wooed women online then conned them out of millions of dollars. Now some victims plan for payback.",
+    "tmdb_type": "movie",
+    "tmdb_title": "The Tinder Swindler",
+    "tmdb_year": 2022,
+    "poster_small": "https://image.tmdb.org/t/p/w185/iLUSFjdavIf0SrP7ldoQ1xomQVC.jpg",
+    "poster_medium": "https://image.tmdb.org/t/p/w342/iLUSFjdavIf0SrP7ldoQ1xomQVC.jpg",
+    "poster_large": "https://image.tmdb.org/t/p/w500/iLUSFjdavIf0SrP7ldoQ1xomQVC.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/iLUSFjdavIf0SrP7ldoQ1xomQVC.jpg",
+    "backdrop_small": "https://image.tmdb.org/t/p/w300/iiq2cWUYblgfvaVn0h3xZMZK65j.jpg",
+    "backdrop_medium": "https://image.tmdb.org/t/p/w780/iiq2cWUYblgfvaVn0h3xZMZK65j.jpg",
+    "backdrop_large": "https://image.tmdb.org/t/p/w1280/iiq2cWUYblgfvaVn0h3xZMZK65j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/iiq2cWUYblgfvaVn0h3xZMZK65j.jpg",
+    "color": null,
+    "saved": false,
+    "_hash": "2ed0bd6438c851186452bc0b5aae6a1a58746c345e1825731bf1927bcaf70d41",
+    "createdAt": "2026-01-04T16:21:10.945Z",
+    "updatedAt": "2026-01-04T16:21:10.945Z"
+  },
+  {
+    "title": "The Beekeeper",
+    "link": "https://mujyosi.store/movie/2679",
+    "image": "https://image.tmdb.org/t/p/w500/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+    "narrator": "",
+    "release_year": null,
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FTHE_BEEKEEPER_A.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FTHE_BEEKEEPER_A.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FTHE_BEEKEEPER_B.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FTHE_BEEKEEPER_B.mp4"
+      }
+    ],
+    "tmdb_id": 866398,
+    "tmdb_rating": 7.266,
+    "popularity": 14.7711,
+    "tmdb_overview": "One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+    "tmdb_type": "movie",
+    "tmdb_title": "The Beekeeper",
+    "tmdb_year": 2024,
+    "poster_small": "https://image.tmdb.org/t/p/w185/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+    "poster_medium": "https://image.tmdb.org/t/p/w342/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+    "poster_large": "https://image.tmdb.org/t/p/w500/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+    "backdrop_small": "https://image.tmdb.org/t/p/w300/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+    "backdrop_medium": "https://image.tmdb.org/t/p/w780/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+    "backdrop_large": "https://image.tmdb.org/t/p/w1280/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+    "color": null,
+    "saved": false,
+    "_hash": "33e435ba56d6a89fbc2701c070a860b8008c9a8755a15abc7d30c29dc045fb69",
+    "createdAt": "2026-01-04T16:21:12.912Z",
+    "updatedAt": "2026-01-04T16:21:12.912Z"
   }
 ]
