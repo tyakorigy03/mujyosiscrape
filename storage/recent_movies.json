@@ -1,5 +1,10 @@
 [
   {
+    "title": "Zootopia 2",
+    "image": "https://image.tmdb.org/t/p/w500/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+    "url": "https://mujyosi.store/movie/2683"
+  },
+  {
     "title": "My Lucky Stars",
     "image": "https://image.tmdb.org/t/p/w500/dZzHBIcJsld2XMvwR75OZGf4NM2.jpg",
     "url": "https://mujyosi.store/movie/2682"
@@ -243,10 +248,5 @@
     "title": "Troll 2",
     "image": "https://image.tmdb.org/t/p/original/hx0buEKc75vIRyLHtRcg0hcyFNp.jpg",
     "url": "https://mujyosi.store/movie/2630"
-  },
-  {
-    "title": "Predator: Badlands",
-    "image": "https://image.tmdb.org/t/p/original/iYxzsEBJnFzcgX0amOD6NcaCuPz.jpg",
-    "url": "https://mujyosi.store/movie/2629"
   }
 ]

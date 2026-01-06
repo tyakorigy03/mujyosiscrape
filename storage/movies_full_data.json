@@ -23,11 +23,22 @@
     "image": "https://image.tmdb.org/t/p/w500/v9f9MMrq2nGQrN7cHnQRmEq9lSE.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/Rocky%2FJESUS%2FPassion_Of_Christ_A.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Rocky%2FJESUS%2FPassion_Of_Christ_A.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/Rocky%2FJESUS%2FPassion_Of_Christ_B.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Rocky%2FJESUS%2FPassion_Of_Christ_B.mp4"
+      }
+    ],
     "saved": false,
-    "_hash": "49538519ff61667141c898a49b09230f68e17621ca0aebb8e1b77670232a8957",
+    "_hash": "c6fd1db2add89a06564542729ba03708863b690ca00d9b8ee3ebb5643993c96a",
     "createdAt": "2025-12-27T15:16:39.926Z",
-    "updatedAt": "2026-01-04T16:21:39.167Z"
+    "updatedAt": "2026-01-06T14:20:53.669Z"
   },
   {
     "title": "The Sixth Robber",
@@ -35,18 +46,7 @@
     "image": "https://image.tmdb.org/t/p/w500/cL4CSHwwSI3oX6Z15svQWBVKF9t.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download A",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FTHE_SIXTH_ROBBER_A.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FTHE_SIXTH_ROBBER_A.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FTHE_SIXTH_ROBBER_B.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FTHE_SIXTH_ROBBER_B.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 1591287,
     "tmdb_rating": 8,
     "popularity": 2.2697,
@@ -64,9 +64,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/pxdhgSWcUwfhb3NUEJt048KXciv.jpg",
     "color": null,
     "saved": false,
-    "_hash": "4bac8f9cfe2451aaae06234e91dde1db92855d937fa36c9f9ae131be202af148",
+    "_hash": "a23a6b52dbe4d43d9ad066f4ee073cd01e777a4ccd324aa793f455d017d65149",
     "createdAt": "2025-12-27T15:16:44.169Z",
-    "updatedAt": "2026-01-06T11:17:35.703Z"
+    "updatedAt": "2026-01-06T14:20:54.746Z"
   },
   {
     "title": "The King of Sniper in Northeast",
@@ -546,13 +546,7 @@
     "image": "https://image.tmdb.org/t/p/w500/svuIdql5modL08UQtYa4Opi2CtL.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fothers%2Fmovies%2FHUNTING_JESSICA_BROK.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fothers%2Fmovies%2FHUNTING_JESSICA_BROK.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 1397335,
     "tmdb_rating": 6,
     "popularity": 2.2292,
@@ -570,9 +564,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/osIFSgqjLHOVRVHLTzpPqF02a8C.jpg",
     "color": null,
     "saved": false,
-    "_hash": "92ad30ae081af881c8eb16fdbd5c5090ea77c4a73c7a0a8e9679915198ad77bb",
+    "_hash": "e5fcccdd5b06ea752e156d8a2b11423bd1bc414eaf16562ad4f0365c56209094",
     "createdAt": "2025-12-27T15:17:43.920Z",
-    "updatedAt": "2026-01-06T11:18:02.410Z"
+    "updatedAt": "2026-01-06T14:21:14.169Z"
   },
   {
     "title": "The Foreigner",
@@ -580,18 +574,7 @@
     "image": "https://image.tmdb.org/t/p/w500/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download A",
-        "watchUrl": "https://files.isatafilez.my/The_Foreigner_A_By_Mr_Fire.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=The_Foreigner_A_By_Mr_Fire.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/The_Foreigner_B_By_Mr_Fire.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=The_Foreigner_B_By_Mr_Fire.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 379149,
     "tmdb_rating": 6.971,
     "popularity": 5.0102,
@@ -609,9 +592,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/sDiGcjWhSu42dCw0jQmBInAkDZ9.jpg",
     "color": null,
     "saved": false,
-    "_hash": "92afb5b12c5d021f2360722fcecf328ed4f6bf5c03276cd690a64ce818747085",
+    "_hash": "e9d1c18c89fce3f10d2942fd6fa7d544de68b77abe8392257764718dfbcd4761",
     "createdAt": "2025-12-27T15:17:47.069Z",
-    "updatedAt": "2026-01-06T11:18:04.864Z"
+    "updatedAt": "2026-01-06T14:21:15.168Z"
   },
   {
     "title": "Re:Born",
@@ -838,7 +821,18 @@
     "image": "https://image.tmdb.org/t/p/original/nDqRmKK6SiTM6tanLOIFjMtPrfm.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fothers%2Fmovies%2FNever_a_Thief__2025__A.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fothers%2Fmovies%2FNever_a_Thief__2025__A.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fothers%2Fmovies%2FNever_a_Thief__2025__B.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fothers%2Fmovies%2FNever_a_Thief__2025__B.mp4"
+      }
+    ],
     "tmdb_id": 1500522,
     "tmdb_rating": 4.7,
     "popularity": 1.6646,
@@ -856,9 +850,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/nDqRmKK6SiTM6tanLOIFjMtPrfm.jpg",
     "color": null,
     "saved": false,
-    "_hash": "fd1462f3c582fcf7b4a2560393d5555d4b9215db4c9a5de5bb64ed167022177f",
+    "_hash": "cc29d010c69ed1ef72088f04ef4106e7f5d70a61569c5fb83ac32273a70f7be0",
     "createdAt": "2025-12-27T15:18:08.374Z",
-    "updatedAt": "2026-01-06T11:18:24.735Z"
+    "updatedAt": "2026-01-06T14:21:40.960Z"
   },
   {
     "title": "Angry Rescue",
@@ -866,7 +860,18 @@
     "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/jWI5AmB4rTY3QEOwgSxB0GySzBS.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FAngry_Rescue_A_by_Mr_Fire.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FAngry_Rescue_A_by_Mr_Fire.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FAngry_Rescue_B_by_Mr_Fire.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FAngry_Rescue_B_by_Mr_Fire.mp4"
+      }
+    ],
     "tmdb_id": 1474779,
     "tmdb_rating": 7.833,
     "popularity": 0.883,
@@ -884,9 +889,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/q4eo9ii54KcNfpNzEwfRyBgLI7m.jpg",
     "color": null,
     "saved": false,
-    "_hash": "bf7f4ec85f8c9339f7767c8a7224a56f6477602d261e431ecf0faeaa9829c2f1",
+    "_hash": "efa07323250f7256827af4e0a969ffeffd80bf56ab96c76e1d1e053d892671b6",
     "createdAt": "2025-12-27T15:18:12.138Z",
-    "updatedAt": "2026-01-06T11:18:25.983Z"
+    "updatedAt": "2026-01-06T14:21:45.015Z"
   },
   {
     "title": "CHiPs",
@@ -980,7 +985,7 @@
     "release_year": null,
     "Downloadurls": [],
     "tmdb_id": 1180831,
-    "tmdb_rating": 6.606,
+    "tmdb_rating": 6.604,
     "popularity": 59.0143,
     "tmdb_overview": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet.",
     "tmdb_type": "movie",
@@ -996,9 +1001,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
     "color": null,
     "saved": false,
-    "_hash": "c5819b105d99500c7ab8e1763a57d2402c4137a6be6bc198f15acfa8718eb753",
+    "_hash": "59284ab5ca0cfab714b1e65eda624471b0f53f668f986b4e4f2c02b29cbbd1cd",
     "createdAt": "2025-12-27T15:18:24.658Z",
-    "updatedAt": "2026-01-06T11:18:31.724Z"
+    "updatedAt": "2026-01-06T14:21:50.247Z"
   },
   {
     "title": "Predator: Badlands",
@@ -1959,5 +1964,44 @@
     "_hash": "e2d153feb2b19f2552c8c6b8cc03c1b3c8a103e6bbd1dd4eb8d3560590a556ec",
     "createdAt": "2026-01-06T11:16:50.032Z",
     "updatedAt": "2026-01-06T11:16:50.032Z"
+  },
+  {
+    "title": "Zootopia 2",
+    "link": "https://mujyosi.store/movie/2683",
+    "image": "https://image.tmdb.org/t/p/w500/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+    "narrator": "",
+    "release_year": null,
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/Newthi%2FMasterp%2FZootopia-2_A.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Newthi%2FMasterp%2FZootopia-2_A.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/Newthi%2FMasterp%2FZootopia-2_B.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Newthi%2FMasterp%2FZootopia-2_B.mp4"
+      }
+    ],
+    "tmdb_id": 1084242,
+    "tmdb_rating": 7.629,
+    "popularity": 349.0251,
+    "tmdb_overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+    "tmdb_type": "movie",
+    "tmdb_title": "Zootopia 2",
+    "tmdb_year": 2025,
+    "poster_small": "https://image.tmdb.org/t/p/w185/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+    "poster_medium": "https://image.tmdb.org/t/p/w342/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+    "poster_large": "https://image.tmdb.org/t/p/w500/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+    "backdrop_small": "https://image.tmdb.org/t/p/w300/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
+    "backdrop_medium": "https://image.tmdb.org/t/p/w780/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
+    "backdrop_large": "https://image.tmdb.org/t/p/w1280/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
+    "color": null,
+    "saved": false,
+    "_hash": "997c3c87ed854d1f528a02b63a427beeaa4a6c1fee87a5c203158a3afa62ebd1",
+    "createdAt": "2026-01-06T14:19:58.688Z",
+    "updatedAt": "2026-01-06T14:19:58.688Z"
   }
 ]
