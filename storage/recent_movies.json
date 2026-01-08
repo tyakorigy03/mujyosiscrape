@@ -1,5 +1,10 @@
 [
   {
+    "title": "Avatar: Fire and Ash - Mr Fire",
+    "image": "https://image.tmdb.org/t/p/original/sYywQ15PMBlSIqf0TRhVbnt96MT.jpg",
+    "url": "https://mujyosi.store/movie/2687"
+  },
+  {
     "title": "Your Fault",
     "image": "https://image.tmdb.org/t/p/original/mj1P3j9LDfYIKRg0t7dAkR9iF1K.jpg",
     "url": "https://mujyosi.store/movie/2686"
@@ -243,10 +248,5 @@
     "title": "Angry Rescue",
     "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/jWI5AmB4rTY3QEOwgSxB0GySzBS.jpg",
     "url": "https://mujyosi.store/movie/2634"
-  },
-  {
-    "title": "CHiPs",
-    "image": "https://image.tmdb.org/t/p/original/k6tt823ZkJRk5YksUAU9uOfMLgw.jpg",
-    "url": "https://mujyosi.store/movie/2633"
   }
 ]
