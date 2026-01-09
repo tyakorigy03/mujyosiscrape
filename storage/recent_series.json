@@ -1,5 +1,10 @@
 [
   {
+    "title": "Splash Splash Love",
+    "image": "https://image.tmdb.org/t/p/w500/w1lmYkqv7n1lrvjS91EIvyYjAlU.jpg",
+    "url": "https://mujyosi.store/serie/361"
+  },
+  {
     "title": "The Terminal List: Dark Wolf",
     "image": "https://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
     "url": "https://mujyosi.store/serie/360"
@@ -243,10 +248,5 @@
     "title": "The 100 - Season 3",
     "image": "https://image.tmdb.org/t/p/original/AeVurqpjLwJ3urJOPhjajuJeZqq.jpg",
     "url": "https://mujyosi.store/serie/312"
-  },
-  {
-    "title": "Aar Ya Paar",
-    "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/pp8lco46QRSLU3GHV4gd0R2RF5U.jpg",
-    "url": "https://mujyosi.store/serie/311"
   }
 ]
