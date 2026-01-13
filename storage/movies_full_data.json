@@ -32,7 +32,7 @@
     "Downloadurls": [],
     "tmdb_id": 1591287,
     "tmdb_rating": 8,
-    "popularity": 2.0501,
+    "popularity": 1.8777,
     "tmdb_overview": "A suspect in a massive armored car heist, who initially evades arrest, is ultimately caught when his hidden criminal intent blossoms and is discovered by vigilant police.",
     "tmdb_type": "movie",
     "tmdb_title": "The Sixth Robber",
@@ -47,9 +47,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/pxdhgSWcUwfhb3NUEJt048KXciv.jpg",
     "color": null,
     "saved": false,
-    "_hash": "d7983a1347e6a017f4d0d14e4e969c50727f6577d0dcd0ef1c733dbb61dda070",
+    "_hash": "4f625988fceab3c70bffb07ddc109486dae3b4a07a65c3bcb47030d7168de4ea",
     "createdAt": "2025-12-27T15:16:44.169Z",
-    "updatedAt": "2026-01-11T10:19:51.078Z"
+    "updatedAt": "2026-01-13T08:28:17.426Z"
   },
   {
     "title": "The King of Sniper in Northeast",
@@ -60,7 +60,7 @@
     "Downloadurls": [],
     "tmdb_id": 975998,
     "tmdb_rating": 2.8,
-    "popularity": 1.0683,
+    "popularity": 1.2842,
     "tmdb_overview": "This tells the story of 1931, after the \"Mukden Incident\" broke out, the sniper Ren Tianxing did not listen to the dissuasion and led the anti-Japanese squad to be killed in a night battle to ambush the Japanese army. Ren Tianxing was also seriously injured and was rescued by bandits. Five years later, Ren Tianxing lives in a cottage, just drinking and gambling, and happened to meet Bai Ge, his former comrade-in-arms. In order to protect Bai Ge, he decided to join the CCP underground assassination organization, to participate in the assassination of Japanese virology expert Sakamoto Ichiro, and protect the people. It was his former opponent Sorimachi Kazuya who successfully killed Ichiro Sakamoto by acting alone to protect his comrade-in-arms Ren Tianxing. However, only three people, Ren Tianxing, Baige and Lao Jiao, survived the evacuation.",
     "tmdb_type": "movie",
     "tmdb_title": "The King of Sniper in Northeast",
@@ -75,9 +75,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/r4ymv0PdXsAL0befJCFZdPeKkZf.jpg",
     "color": null,
     "saved": false,
-    "_hash": "2a08e22f7c824acd4613ff6db866208303bf6fa4980eae84e684be3cac253b35",
+    "_hash": "4dd52da5aeb644304e60e989caa90fa17e80ad3d69c229586ab2ac257e71270a",
     "createdAt": "2025-12-27T15:16:47.815Z",
-    "updatedAt": "2026-01-11T10:19:52.630Z"
+    "updatedAt": "2026-01-13T08:28:18.652Z"
   },
   {
     "title": "No One Lives",
@@ -85,10 +85,16 @@
     "image": "https://image.tmdb.org/t/p/w500/d9wDmRcQngl9Jo7Go3EU7f2W15m.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download",
+        "watchUrl": "https://files.isatafilez.my/SANKAR%2FWatch_No_One_Lives_2020.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=SANKAR%2FWatch_No_One_Lives_2020.mp4"
+      }
+    ],
     "tmdb_id": 123109,
     "tmdb_rating": 5.985,
-    "popularity": 2.4878,
+    "popularity": 3.6232,
     "tmdb_overview": "A gang of ruthless highway killers kidnap a wealthy couple traveling cross country only to shockingly discover that things are not what they seem.",
     "tmdb_type": "movie",
     "tmdb_title": "No One Lives",
@@ -103,9 +109,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/hoZHoGRC44auu2rc0smBtMMxsR7.jpg",
     "color": null,
     "saved": false,
-    "_hash": "3929d8bdb55ec430d4b685991c8f15be425517f85b13b9ae84d393b3d93d72e8",
+    "_hash": "6b2cb9e02020f6850b3493a1b06cbcbe54e298feead7044e0d0cb33871592f44",
     "createdAt": "2025-12-27T15:16:51.411Z",
-    "updatedAt": "2026-01-11T10:19:53.930Z"
+    "updatedAt": "2026-01-13T08:28:21.492Z"
   },
   {
     "title": "Ferdinand",
@@ -113,10 +119,21 @@
     "image": "https://image.tmdb.org/t/p/w500/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FFerdinand__1_.mp4.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FFerdinand__1_.mp4.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FFerdinand__2_.mp4.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FFerdinand__2_.mp4.mp4"
+      }
+    ],
     "tmdb_id": 364689,
     "tmdb_rating": 7.223,
-    "popularity": 6.1879,
+    "popularity": 6.3913,
     "tmdb_overview": "Ferdinand, a little bull, prefers sitting quietly under a cork tree just smelling the flowers versus jumping around, snorting, and butting heads with other bulls. As Ferdinand grows big and strong, his temperament remains mellow, but one day five men come to choose the \"biggest, fastest, roughest bull\" for the bullfights in Madrid and Ferdinand is mistakenly chosen.  Based on the classic 1936 children's book by Munro Leaf.",
     "tmdb_type": "movie",
     "tmdb_title": "Ferdinand",
@@ -131,9 +148,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/sTOhZruocNubL0HxjvdouwCEL9I.jpg",
     "color": null,
     "saved": false,
-    "_hash": "fdff679a5a1eb9c8dff3b0aeff759a30faffdf2f951f421331a4eae572b4e322",
+    "_hash": "f4a2e78e67ca4c9acc5d077f4f1c52bb0dc6d64ff9e212a979368ac26bd9fc87",
     "createdAt": "2025-12-27T15:16:55.869Z",
-    "updatedAt": "2026-01-11T10:19:55.113Z"
+    "updatedAt": "2026-01-13T08:28:24.457Z"
   },
   {
     "title": "Sisu: Road to Revenge - Rocky",
@@ -141,11 +158,17 @@
     "image": "https://image.tmdb.org/t/p/w500/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FSISU_2.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FSISU_2.mp4"
+      }
+    ],
     "saved": false,
-    "_hash": "731790a95f11510e191e4077689a1f0a29d3ea64ade8c257c66899dbec546248",
+    "_hash": "525f027dc24aab99b5bc73b77dee787b521d65dd70873f715c09d2e32f879635",
     "createdAt": "2025-12-27T15:16:59.100Z",
-    "updatedAt": "2026-01-08T14:23:41.466Z"
+    "updatedAt": "2026-01-13T08:28:27.318Z"
   },
   {
     "title": "Evil Dead",
@@ -153,10 +176,16 @@
     "image": "https://image.tmdb.org/t/p/w500/1gDV0Lm9y8ufIKzyf0h0GBgb9Zj.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download",
+        "watchUrl": "https://files.isatafilez.my/SANKAR%2FEvil_Dead_by_Sankar.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=SANKAR%2FEvil_Dead_by_Sankar.mp4"
+      }
+    ],
     "tmdb_id": 109428,
     "tmdb_rating": 6.584,
-    "popularity": 4.6698,
+    "popularity": 4.5666,
     "tmdb_overview": "Mia, a drug addict, is determined to kick the habit. To that end, she asks her brother, David, his girlfriend, Natalie and their friends Olivia and Eric to accompany her to their family's remote forest cabin to help her through withdrawal. Eric finds a mysterious Book of the Dead at the cabin and reads aloud from it, awakening an ancient demon. All hell breaks loose when the malevolent entity possesses Mia.",
     "tmdb_type": "movie",
     "tmdb_title": "Evil Dead",
@@ -171,9 +200,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/6RDgtEBzjuF7W25DVziXRABchpX.jpg",
     "color": null,
     "saved": false,
-    "_hash": "906a8033e317585329bdbdaa9d533e21b19792395a74a1205519c607136972df",
+    "_hash": "915b0d11ed696f77bf7dee65bb83b2863a865d5f719ad2b9b7438ff1d40d92f8",
     "createdAt": "2025-12-27T15:17:02.531Z",
-    "updatedAt": "2026-01-11T10:19:58.194Z"
+    "updatedAt": "2026-01-13T08:28:30.776Z"
   },
   {
     "title": "Sisu: Road to Revenge",
@@ -181,10 +210,21 @@
     "image": "https://image.tmdb.org/t/p/w500/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FSisu_2_A_Agasobanuye_By_Mr_Fire-1.m4v",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FSisu_2_A_Agasobanuye_By_Mr_Fire-1.m4v"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FSisu_2_B_Agasobanuye_By_Mr_Fire-1.m4v",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FSisu_2_B_Agasobanuye_By_Mr_Fire-1.m4v"
+      }
+    ],
     "tmdb_id": 1223601,
-    "tmdb_rating": 7.452,
-    "popularity": 75.2562,
+    "tmdb_rating": 7.463,
+    "popularity": 72.3056,
     "tmdb_overview": "Returning to the house where his family was brutally murdered during the war, ‘the man who refuses to die’ dismantles it, loads it on a truck, and is determined to rebuild it somewhere safe in their honor. When the commander who killed his family comes back hellbent on finishing the job, a relentless, eye-popping cross-country chase ensues.",
     "tmdb_type": "movie",
     "tmdb_title": "Sisu: Road to Revenge",
@@ -199,9 +239,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/yCatt8lmp3oRFEcOZF8KHhsiASQ.jpg",
     "color": null,
     "saved": false,
-    "_hash": "e8661f591af6be89aaad2f9c3c43c1508234d8c7336fe7116f938c58353a2637",
+    "_hash": "d062abf9b83a85036747b5804337e5ce9cf58654a8617e210b8466e69c130ec0",
     "createdAt": "2025-12-27T15:17:05.106Z",
-    "updatedAt": "2026-01-11T10:19:59.500Z"
+    "updatedAt": "2026-01-13T08:28:33.696Z"
   },
   {
     "title": "Blank Check",
@@ -209,10 +249,16 @@
     "image": "https://image.tmdb.org/t/p/w500/qhsH1BGqeCDHoogt5ebxOgERJGb.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FBLANK_CHECK.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FBLANK_CHECK.mp4"
+      }
+    ],
     "tmdb_id": 13962,
     "tmdb_rating": 5.941,
-    "popularity": 1.758,
+    "popularity": 1.4784,
     "tmdb_overview": "Bullied by his siblings and nagged by his parents, 11-year-old Preston Waters is fed up with his family — especially their frugality. But he gets his chance to teach them a lesson when a money-laundering criminal nearly bulldozes Preston with his car and compensates the boy with a blank check. Preston makes the check out for $1 million and goes on a spending spree he'll never forget.",
     "tmdb_type": "movie",
     "tmdb_title": "Blank Check",
@@ -227,9 +273,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/ddpmx0dH1bXOp3jQt18GHaLwbAX.jpg",
     "color": null,
     "saved": false,
-    "_hash": "7a18d6ede5311bb6a9ef1157b4a5176cd5078efb35daeb4d08683e7a97c5d175",
+    "_hash": "6204184131a3bde52dfcd1071e949e3fcf22cd7f2d5afb618208efca4d32c1e1",
     "createdAt": "2025-12-27T15:17:08.253Z",
-    "updatedAt": "2026-01-11T10:20:00.854Z"
+    "updatedAt": "2026-01-13T08:28:36.462Z"
   },
   {
     "title": "Undercover Grandpa",
@@ -237,10 +283,16 @@
     "image": "https://image.tmdb.org/t/p/w500/yxAFzoJTUG2KPe4n8WnHYkugq20.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FUNDERCOVER_GRANDPA.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FUNDERCOVER_GRANDPA.mp4"
+      }
+    ],
     "tmdb_id": 464331,
     "tmdb_rating": 5.6,
-    "popularity": 2.5257,
+    "popularity": 1.549,
     "tmdb_overview": "When the girl he likes goes missing, Jake enlists the help of his grandpa and Grandpa's former special ops buddies.",
     "tmdb_type": "movie",
     "tmdb_title": "Undercover Grandpa",
@@ -255,9 +307,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/7ZXhKzUvodZbBrrl5X3tyqJnM7A.jpg",
     "color": null,
     "saved": false,
-    "_hash": "2601a3bc6c2bd12c14915474521eecee5ce586eebe1c11498b54632a83a9291d",
+    "_hash": "9a38f04e12ea4235d799ac8973dbeea892b4d0285b3d91b84832bb38d344cda2",
     "createdAt": "2025-12-27T15:17:10.996Z",
-    "updatedAt": "2026-01-11T10:20:02.222Z"
+    "updatedAt": "2026-01-13T08:28:39.193Z"
   },
   {
     "title": "The Long Walk",
@@ -265,10 +317,26 @@
     "image": "https://image.tmdb.org/t/p/w500/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FThe_Long_Walk_A_Agasobanuye_By_Mr_Fire-1.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FThe_Long_Walk_A_Agasobanuye_By_Mr_Fire-1.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FThe_Long_walk_B_By_Mr_Fire.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FThe_Long_walk_B_By_Mr_Fire.mp4"
+      },
+      {
+        "title": "Download C",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FThe_Long_Walk_C_By_Mr_Fire.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FThe_Long_Walk_C_By_Mr_Fire.mp4"
+      }
+    ],
     "tmdb_id": 604079,
-    "tmdb_rating": 6.952,
-    "popularity": 22.4837,
+    "tmdb_rating": 6.95,
+    "popularity": 21.485,
     "tmdb_overview": "In a dystopian near-future America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
     "tmdb_type": "movie",
     "tmdb_title": "The Long Walk",
@@ -283,9 +351,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/pcJft6lFWsJxutwpLHVYfmZRPQp.jpg",
     "color": null,
     "saved": false,
-    "_hash": "9ca0cf9aaa199b16dacdb925b5596ec5e0448efc4effaaee399d639e9d03aa0c",
+    "_hash": "00b4995387dc95bac7301f46a156520f4f62b5032bc860286e4b43d95ce19360",
     "createdAt": "2025-12-27T15:17:14.721Z",
-    "updatedAt": "2026-01-11T10:20:03.775Z"
+    "updatedAt": "2026-01-13T08:28:42.144Z"
   },
   {
     "title": "Attack of the Meth Gator",
@@ -293,10 +361,26 @@
     "image": "https://image.tmdb.org/t/p/w500/td0L3VZvBFPYb6hZ3WTbq0VD9q2.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FMETH_GATOR_A_GVN.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FMETH_GATOR_A_GVN.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FMETH_GATOR_B_GVN.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FMETH_GATOR_B_GVN.mp4"
+      },
+      {
+        "title": "Download C",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FMETH_GATOR_C_GVN.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FMETH_GATOR_C_GVN.mp4"
+      }
+    ],
     "tmdb_id": 1091298,
     "tmdb_rating": 5.224,
-    "popularity": 1.386,
+    "popularity": 1.472,
     "tmdb_overview": "On a small island in the Florida Everglades, a DEA agent and a local sheriff gather a team of locals to take down a giant meth-fueled alligator.",
     "tmdb_type": "movie",
     "tmdb_title": "Attack of the Meth Gator",
@@ -311,9 +395,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/q4aztOGdlXX2LTnTN3f4EegG9aB.jpg",
     "color": null,
     "saved": false,
-    "_hash": "84eb86a4c631d363692df25800ae37fa09f1adcd73e69d04d0b65ecd841f62ba",
+    "_hash": "df47a54e90fee5b9b0a3026f704ad086c206746800b8fda0c512aaf8a54f5dae",
     "createdAt": "2025-12-27T15:17:17.459Z",
-    "updatedAt": "2026-01-11T10:20:05.077Z"
+    "updatedAt": "2026-01-13T08:28:44.884Z"
   },
   {
     "title": "Gladiator Underground",
@@ -321,10 +405,21 @@
     "image": "https://image.tmdb.org/t/p/w500/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FGradiator_Underground_A_By_Mr_Fire-1.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FGradiator_Underground_A_By_Mr_Fire-1.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FGradiator_Underground_B_By_Mr_Fire.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FGradiator_Underground_B_By_Mr_Fire.mp4"
+      }
+    ],
     "tmdb_id": 1499984,
     "tmdb_rating": 7,
-    "popularity": 1.573,
+    "popularity": 2.2456,
     "tmdb_overview": "Two brothers compete in the world's deadliest underground fighting tournament, where they must decide whether to play by the rules or to cast their honor aside and team up to bring down the dark syndicate running the tournament.",
     "tmdb_type": "movie",
     "tmdb_title": "Gladiator Underground",
@@ -339,9 +434,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/lNAMDuflR4SCjaKylFLGdNcwXMj.jpg",
     "color": null,
     "saved": false,
-    "_hash": "4bc59ab584eb6e98f6d46bea4fff58b3261d468f067a7f893313a53a397843f0",
+    "_hash": "c9c2dcf4ef37b81b41e3061f85705ea661c511a6455b9825e163f15fda3eaee8",
     "createdAt": "2025-12-27T15:17:20.985Z",
-    "updatedAt": "2026-01-11T10:20:06.245Z"
+    "updatedAt": "2026-01-13T08:28:47.602Z"
   },
   {
     "title": "Sultan",
@@ -352,7 +447,7 @@
     "Downloadurls": [],
     "tmdb_id": 452606,
     "tmdb_rating": 7.1,
-    "popularity": 1.2832,
+    "popularity": 0.9241,
     "tmdb_overview": "A portrait of a young, depressed Turkish widow in the slums whose infinite dignity alone looks after her orphan kids is depicted by the son of the town sheriff, who is in love with her.",
     "tmdb_type": "movie",
     "tmdb_title": "Sultan",
@@ -367,9 +462,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/5kz0LCSAFxCjgiqNO3BuktZEuSB.jpg",
     "color": null,
     "saved": false,
-    "_hash": "5507af0bf28aa45576b5162b014c68a94692c521101824bbb22b5f7d64b85af1",
+    "_hash": "5db59fc5f324a9eb908eb73d3979b0c84f5caa97efef3d679b2f1e43050ec44c",
     "createdAt": "2025-12-27T15:17:24.275Z",
-    "updatedAt": "2026-01-11T10:20:07.806Z"
+    "updatedAt": "2026-01-13T08:28:49.199Z"
   },
   {
     "title": "Thamma",
@@ -380,7 +475,7 @@
     "Downloadurls": [],
     "tmdb_id": 1196364,
     "tmdb_rating": 6.638,
-    "popularity": 5.6814,
+    "popularity": 5.1985,
     "tmdb_overview": "Two destined lovers battle supernatural forces, family ties, and nature itself to defend their forbidden romance in a mystical world where ancient powers and prophecies threaten to keep them apart.",
     "tmdb_type": "movie",
     "tmdb_title": "Thamma",
@@ -395,9 +490,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/e5bFtChejaGio218NejT0jXgSux.jpg",
     "color": null,
     "saved": false,
-    "_hash": "42bd793c8fdef5fadeb7ad1f3a3b247a7c435b3fad783b7990a626cb0f8b8344",
+    "_hash": "724c50161becbe7dcb5c3bfae136150d96b70a8ccd5ff7663d9c40f5c111bdc7",
     "createdAt": "2025-12-27T15:17:26.963Z",
-    "updatedAt": "2026-01-11T10:20:09.113Z"
+    "updatedAt": "2026-01-13T08:28:50.701Z"
   },
   {
     "title": "Tabaah",
@@ -408,7 +503,7 @@
     "Downloadurls": [],
     "tmdb_id": 1363622,
     "tmdb_rating": 6,
-    "popularity": 0.6906,
+    "popularity": 0.9039,
     "tmdb_overview": "A man seeks solace from developments in his romantic life, turning to alcohol for comfort.",
     "tmdb_type": "movie",
     "tmdb_title": "Tabaah",
@@ -423,9 +518,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/hEXNXRAdLYHNjfW67lW39d2BoBH.jpg",
     "color": null,
     "saved": false,
-    "_hash": "c5cc0ed9fdb1f0962c709cd828545b192861fc879daf642b1bca08e592dba1f8",
+    "_hash": "6f730685b9b2d657a00dffa104abbf86495286bbdf6b55e67d3d70db1123960b",
     "createdAt": "2025-12-27T15:17:29.605Z",
-    "updatedAt": "2026-01-11T10:20:10.640Z"
+    "updatedAt": "2026-01-13T08:28:52.066Z"
   },
   {
     "title": "Predator: Badlands - Gaheza",
@@ -433,17 +528,11 @@
     "image": "https://image.tmdb.org/t/p/original/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fgahez%2FPREDATOR_Badlands_Gahezamp4.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fgahez%2FPREDATOR_Badlands_Gahezamp4.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "saved": false,
-    "_hash": "aaf63914b6fd58a9bec91fde211c85e6b6cfd97ac32e7f1af829061d35af3ed8",
+    "_hash": "8d2f901583bc3e3f6cf31cd455042d4b8f18d5a40f3f02061f09b552f6e4ef16",
     "createdAt": "2025-12-27T15:17:32.501Z",
-    "updatedAt": "2026-01-10T10:19:22.432Z"
+    "updatedAt": "2026-01-13T08:28:53.115Z"
   },
   {
     "title": "The Carpenter's Son",
@@ -451,16 +540,10 @@
     "image": "https://image.tmdb.org/t/p/w500/tXEtdZjoaHqjDjSxZJWwDVjIfx9.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fgahez%2FThe_Carpenters_Son_BY_GAHEZA.MP4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fgahez%2FThe_Carpenters_Son_BY_GAHEZA.MP4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 1286185,
-    "tmdb_rating": 5.346,
-    "popularity": 20.7832,
+    "tmdb_rating": 5.388,
+    "popularity": 20.3632,
     "tmdb_overview": "A remote village in Roman-era Egypt explodes into spiritual warfare when a carpenter, his wife and their child are targeted by supernatural forces.",
     "tmdb_type": "movie",
     "tmdb_title": "The Carpenter's Son",
@@ -475,9 +558,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/aP7w2JPEDyIukrYxIGHmTrmYOWJ.jpg",
     "color": null,
     "saved": false,
-    "_hash": "016215d49dc67d4ef0ff69754e1ec31c0be540d03f7e513e88b19e61cad4e350",
+    "_hash": "397334d8fd5c30ced6a601a5db272b5eff2e49dacacefb8f83ebb7dd92c18891",
     "createdAt": "2025-12-27T15:17:34.998Z",
-    "updatedAt": "2026-01-11T10:20:16.614Z"
+    "updatedAt": "2026-01-13T08:28:54.227Z"
   },
   {
     "title": "Fanaa (Fixed)",
@@ -485,16 +568,10 @@
     "image": "https://image.tmdb.org/t/p/original/iCSxYkWw7Sr2j3uzcmUcdleT7p7.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/series%2F2024%2Ffanna.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2024%2Ffanna.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 8453,
     "tmdb_rating": 6.748,
-    "popularity": 1.7873,
+    "popularity": 1.4489,
     "tmdb_overview": "Zooni Ali Beg is a blind Kashmiri girl who travels without her parents for the first time with a dance troupe to Delhi to perform in a ceremony for independence day. On her journey, she meets Rehan Khan, a casanova and tour guide who flirts with her. Although her friends warn Zooni about him, she cannot resist falling in love with him and he takes her on a private tour of New Delhi. But there is more to Rehan than meets the eye and Zooni will have to make a heartbreaking decision.",
     "tmdb_type": "movie",
     "tmdb_title": "Fanaa",
@@ -509,9 +586,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/97wqvp0BXrXQyKhFCasdZ1XR0tI.jpg",
     "color": null,
     "saved": false,
-    "_hash": "2b05c878e37ed3b1f790abce417b37256ae1220c9e3fb9b5b9da4f98d8bf917b",
+    "_hash": "8172ceddcd8c4709b47157a20d0f5ba9fe23838fd222d1d674f45fb72a7a7f37",
     "createdAt": "2025-12-27T15:17:37.381Z",
-    "updatedAt": "2026-01-11T10:20:19.541Z"
+    "updatedAt": "2026-01-13T08:28:55.797Z"
   },
   {
     "title": "Black Mask",
@@ -519,16 +596,10 @@
     "image": "https://image.tmdb.org/t/p/w500/eEmG43S9o5C6XeFschoFQU4Bcub.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/BLACK_MASK.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=BLACK_MASK.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 654890,
     "tmdb_rating": 10,
-    "popularity": 0.208,
+    "popularity": 0.1429,
     "tmdb_overview": "Jimmy McNamara is an ex-writer and WWII vet turned accountant who receives a call from Vivian, his ex-fiance and nightclub singer. Vivian got a Hollywood contract and is taking Jimmy with her. All he has to do is retrieve the negatives of compromising pictures that put her bright future in danger. But Jimmy's mission might not be as simple as it seems.",
     "tmdb_type": "movie",
     "tmdb_title": "Black Mask",
@@ -543,9 +614,9 @@
     "backdrop": null,
     "color": null,
     "saved": false,
-    "_hash": "552eca28b6501129f5ab9c3953b0d2d52e1b8fdbeea31c81f62c82eefab49a59",
+    "_hash": "9281fad6d533bb22830ff7ac64a0deff52bddfa78eb9df6d5c0d570d7401ae2c",
     "createdAt": "2025-12-27T15:17:40.589Z",
-    "updatedAt": "2026-01-11T10:20:22.290Z"
+    "updatedAt": "2026-01-13T08:28:57.372Z"
   },
   {
     "title": "Hunting Jessica Brok",
@@ -553,16 +624,10 @@
     "image": "https://image.tmdb.org/t/p/w500/svuIdql5modL08UQtYa4Opi2CtL.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fothers%2Fmovies%2FHUNTING_JESSICA_BROK.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fothers%2Fmovies%2FHUNTING_JESSICA_BROK.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 1397335,
     "tmdb_rating": 6,
-    "popularity": 1.3707,
+    "popularity": 1.3765,
     "tmdb_overview": "Long before she was a single mother in a sleepy South African town, Jessica Brok was a highly skilled, coldblooded, special ops assassin. She thought she’d left that life behind. She thought her last ill-fated mission was her last. She thought wrong.",
     "tmdb_type": "movie",
     "tmdb_title": "Hunting Jessica Brok",
@@ -577,9 +642,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/osIFSgqjLHOVRVHLTzpPqF02a8C.jpg",
     "color": null,
     "saved": false,
-    "_hash": "a0e79120b19ce9c336bc93488b5c785ad4e121020b8020a837384112f233822a",
+    "_hash": "fef3f5dc9d72c3e5c373b505f0347a3c06850a9bfab69aca3aa0875eec714f15",
     "createdAt": "2025-12-27T15:17:43.920Z",
-    "updatedAt": "2026-01-11T10:20:25.188Z"
+    "updatedAt": "2026-01-13T08:28:58.933Z"
   },
   {
     "title": "The Foreigner",
@@ -587,38 +652,27 @@
     "image": "https://image.tmdb.org/t/p/w500/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download A",
-        "watchUrl": "https://files.isatafilez.my/The_Foreigner_A_By_Mr_Fire.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=The_Foreigner_A_By_Mr_Fire.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/The_Foreigner_B_By_Mr_Fire.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=The_Foreigner_B_By_Mr_Fire.mp4"
-      }
-    ],
-    "tmdb_id": 379149,
-    "tmdb_rating": 6.972,
-    "popularity": 4.977,
-    "tmdb_overview": "Quan is a humble London businessman whose long-buried past erupts in a revenge-fueled vendetta when the only person left for him to love – his teenage daughter – dies in an Irish Republican Army car bombing. His relentless search to find the terrorists leads to a cat-and-mouse conflict with a British government official whose own past may hold the clues to the identities of the elusive killers.",
+    "Downloadurls": [],
+    "tmdb_id": 18248,
+    "tmdb_rating": 3.9,
+    "popularity": 16.2343,
+    "tmdb_overview": "This story is about a freelance agent who is the courier of a package from France to Germany. He soon finds that many people want to get their hands on it.",
     "tmdb_type": "movie",
     "tmdb_title": "The Foreigner",
-    "tmdb_year": 2017,
-    "poster_small": "https://image.tmdb.org/t/p/w185/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg",
-    "poster_medium": "https://image.tmdb.org/t/p/w342/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg",
-    "poster_large": "https://image.tmdb.org/t/p/w500/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg",
-    "poster": "https://image.tmdb.org/t/p/original/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg",
-    "backdrop_small": "https://image.tmdb.org/t/p/w300/sDiGcjWhSu42dCw0jQmBInAkDZ9.jpg",
-    "backdrop_medium": "https://image.tmdb.org/t/p/w780/sDiGcjWhSu42dCw0jQmBInAkDZ9.jpg",
-    "backdrop_large": "https://image.tmdb.org/t/p/w1280/sDiGcjWhSu42dCw0jQmBInAkDZ9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/original/sDiGcjWhSu42dCw0jQmBInAkDZ9.jpg",
+    "tmdb_year": 2003,
+    "poster_small": "https://image.tmdb.org/t/p/w185/esfi6vzwvq5M6H5OisFvG58mSvt.jpg",
+    "poster_medium": "https://image.tmdb.org/t/p/w342/esfi6vzwvq5M6H5OisFvG58mSvt.jpg",
+    "poster_large": "https://image.tmdb.org/t/p/w500/esfi6vzwvq5M6H5OisFvG58mSvt.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/esfi6vzwvq5M6H5OisFvG58mSvt.jpg",
+    "backdrop_small": "https://image.tmdb.org/t/p/w300/5ghwjT9Sw4OqXkhqKrkQEJb8CBL.jpg",
+    "backdrop_medium": "https://image.tmdb.org/t/p/w780/5ghwjT9Sw4OqXkhqKrkQEJb8CBL.jpg",
+    "backdrop_large": "https://image.tmdb.org/t/p/w1280/5ghwjT9Sw4OqXkhqKrkQEJb8CBL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/5ghwjT9Sw4OqXkhqKrkQEJb8CBL.jpg",
     "color": null,
     "saved": false,
-    "_hash": "aa876eefdb75f9398cdef414f692b8f94b2f1014fb9e920ff26053058b9fd823",
+    "_hash": "c972fe923db245db9a95112758859b9888f3e4eb316f55d7c0f8f2a45047d662",
     "createdAt": "2025-12-27T15:17:47.069Z",
-    "updatedAt": "2026-01-11T10:20:28.866Z"
+    "updatedAt": "2026-01-13T08:29:00.114Z"
   },
   {
     "title": "Re:Born",
@@ -626,16 +680,10 @@
     "image": "https://image.tmdb.org/t/p/original/cE4VADDJxwpFqTjOvRNIfAsvI37.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/Ne%2FSank%2FRe_Born_.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Ne%2FSank%2FRe_Born_.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 408866,
     "tmdb_rating": 7.1,
-    "popularity": 5.961,
+    "popularity": 5.1404,
     "tmdb_overview": "A former special forces operative struggling to contain the destructive impulses of his past goes on a rampage against a squad of ruthless assassins.",
     "tmdb_type": "movie",
     "tmdb_title": "RE:BORN",
@@ -650,9 +698,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/lXPV1eael4RXaVBnlBG0faihldJ.jpg",
     "color": null,
     "saved": false,
-    "_hash": "01bfab32c390ca7876ba363163e14a9f356689b478af9f1ae85600fb928654d5",
+    "_hash": "aaa2a73ea147374f8d4d7fd4f06ccdc47a290a92849dd1e298bd4d45a7fb174b",
     "createdAt": "2025-12-27T15:17:50.320Z",
-    "updatedAt": "2026-01-11T10:20:31.991Z"
+    "updatedAt": "2026-01-13T08:29:01.410Z"
   },
   {
     "title": "The Lord of the Rings: The Fellowship of the Ring",
@@ -660,21 +708,10 @@
     "image": "https://image.tmdb.org/t/p/original/A18pVyXHXrfno3a2GUinAJDUPDw.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fothers%2Fmovies%2FTHE_LORD_OF_THE_RINGS_1_FULL_MOVIE.MP4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fothers%2Fmovies%2FTHE_LORD_OF_THE_RINGS_1_FULL_MOVIE.MP4"
-      },
-      {
-        "title": "Download (Small)",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fothers%2Fmovies%2Fnew%2FHE_LORD_OF_THE_RINGS_1_FULL_.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fothers%2Fmovies%2Fnew%2FHE_LORD_OF_THE_RINGS_1_FULL_.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 120,
     "tmdb_rating": 8.427,
-    "popularity": 28.7631,
+    "popularity": 27.5247,
     "tmdb_overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
     "tmdb_type": "movie",
     "tmdb_title": "The Lord of the Rings: The Fellowship of the Ring",
@@ -689,9 +726,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
     "color": null,
     "saved": false,
-    "_hash": "df4e8a0571110c3cb3fdf39e96f48f1d625547922b2f0fcd7e73aa56b66551fd",
+    "_hash": "14614b17f8e79daf487ba61db7f27105a16ea091d6c48fd68a660e8879d24b84",
     "createdAt": "2025-12-27T15:17:53.685Z",
-    "updatedAt": "2026-01-11T10:20:36.400Z"
+    "updatedAt": "2026-01-13T08:29:02.960Z"
   },
   {
     "title": "Believe: The Ultimate Battle",
@@ -699,21 +736,10 @@
     "image": "https://image.tmdb.org/t/p/original/ga7GnPf917BGnHs8xBBYGlN58HO.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download A",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fothers%2Fmovies%2FBelieve-The-Ultimate-Battle_A.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fothers%2Fmovies%2FBelieve-The-Ultimate-Battle_A.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fothers%2Fmovies%2FBelieve-The-Ultimate-Battle_B.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fothers%2Fmovies%2FBelieve-The-Ultimate-Battle_B.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 1385969,
     "tmdb_rating": 5.5,
-    "popularity": 0.9726,
+    "popularity": 0.9235,
     "tmdb_overview": "The son of a veteran named Agus was faced with the shadow of his father's absence, so he grew up to be an undisciplined child. Until the veteran died and made his son follow in his father's footsteps to enter the military world.",
     "tmdb_type": "movie",
     "tmdb_title": "Believe: The Ultimate Battle",
@@ -728,9 +754,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/ylz2YALMeO62mXhB2nBG6Ni202S.jpg",
     "color": null,
     "saved": false,
-    "_hash": "426aa13c1a4efb4568222fd0c7cf85c1ff2b2fd2abf845cc3d872e8634be2230",
+    "_hash": "8e90e625d3e06a1b0498bb243519a88ed88a9bccb2e5f05eb5b2f6a1cfc09441",
     "createdAt": "2025-12-27T15:17:55.270Z",
-    "updatedAt": "2026-01-11T10:20:39.418Z"
+    "updatedAt": "2026-01-13T08:29:04.127Z"
   },
   {
     "title": "Ice Road: Vengeance",
@@ -738,16 +764,10 @@
     "image": "https://image.tmdb.org/t/p/original/7MdM9TMPE4X5zpINVMFdXe3amYx.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FICE_ROAD_2_VEGEANCE.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FICE_ROAD_2_VEGEANCE.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 1119878,
     "tmdb_rating": 6.264,
-    "popularity": 20.569,
+    "popularity": 19.8925,
     "tmdb_overview": "Big rig ice road driver Mike McCann travels to Nepal to scatter his late brother’s ashes on Mt. Everest. While on a packed tour bus traversing the deadly 12,000 ft. terrain of the infamous Road to the Sky, McCann and his mountain guide encounter a group of mercenaries and must fight to save themselves, the busload of innocent travelers, and the local villagers’ homeland.",
     "tmdb_type": "movie",
     "tmdb_title": "Ice Road: Vengeance",
@@ -762,9 +782,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/2nwhxEyefcIFKwOrSigiamoIzu2.jpg",
     "color": null,
     "saved": false,
-    "_hash": "e72df47056caf12c9139c05ee7d907c2f426dcf8d15a12c483a554cfd6df157d",
+    "_hash": "48045e3e62d919377273fa50f21dd1010dfd360424b7e14628908243beb04c53",
     "createdAt": "2025-12-27T15:17:58.451Z",
-    "updatedAt": "2026-01-11T10:20:43.005Z"
+    "updatedAt": "2026-01-13T08:29:05.724Z"
   },
   {
     "title": "Identity",
@@ -1495,8 +1515,8 @@
     "release_year": null,
     "Downloadurls": [],
     "tmdb_id": 986097,
-    "tmdb_rating": 5.741,
-    "popularity": 12.0635,
+    "tmdb_rating": 5.7,
+    "popularity": 11.8705,
     "tmdb_overview": "After suffering a potentially career-ending brain trauma, Cameron Cade receives a lifeline when his hero, legendary eight-time Championship quarterback and cultural megastar Isaiah White, offers to train Cam at Isaiah's isolated compound that he shares with his celebrity influencer wife. But as Cam's training accelerates, Isaiah's charisma begins to curdle into something darker.",
     "tmdb_type": "movie",
     "tmdb_title": "HIM",
@@ -1511,9 +1531,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/jzzpCJWkVZZwAxzzLmtYN0MBWFd.jpg",
     "color": null,
     "saved": false,
-    "_hash": "0189c2b9f50bf4ee56c61ab1a6a48245813b01781b9830169a85a511ba972977",
+    "_hash": "e4943bbdf987a63549c5d6d68c05bbfeca55047fe0b4b18e44f2f1555dc833fe",
     "createdAt": "2025-12-29T11:16:43.944Z",
-    "updatedAt": "2026-01-11T10:19:45.807Z"
+    "updatedAt": "2026-01-13T08:28:11.818Z"
   },
   {
     "title": "Sniper Battle",
@@ -1524,7 +1544,7 @@
     "Downloadurls": [],
     "tmdb_id": 1593974,
     "tmdb_rating": 0,
-    "popularity": 0.6121,
+    "popularity": 0.4815,
     "tmdb_overview": "The security squad uncovers a human trafficking scheme while rescuing hostages and is tasked with escorting an undercover agent to gather evidence against a powerful criminal syndicate. Facing government corruption, deadly ambushes, and shifting loyalties, squad leader Gao Zhan and his team must fight to survive and complete their mission in a high-stakes battle of trust, sacrifice, and revenge.",
     "tmdb_type": "movie",
     "tmdb_title": "Sniper Battle",
@@ -1539,9 +1559,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/j9MlPyd0h06Wl5iCheJWcHy3LbR.jpg",
     "color": null,
     "saved": false,
-    "_hash": "d9862ed4f0dcd9036ba59273e77ce5364373bffbc999802f09d069402c24bb79",
+    "_hash": "44893d26c4abd3ffc8057039051c0f8f7fc88c0b36352e6fb29feb33d67e0aaa",
     "createdAt": "2025-12-29T11:16:46.422Z",
-    "updatedAt": "2026-01-11T10:19:47.047Z"
+    "updatedAt": "2026-01-13T08:28:13.367Z"
   },
   {
     "title": "Gladiator Underground",
@@ -1552,7 +1572,7 @@
     "Downloadurls": [],
     "tmdb_id": 1499984,
     "tmdb_rating": 7,
-    "popularity": 1.573,
+    "popularity": 2.2456,
     "tmdb_overview": "Two brothers compete in the world's deadliest underground fighting tournament, where they must decide whether to play by the rules or to cast their honor aside and team up to bring down the dark syndicate running the tournament.",
     "tmdb_type": "movie",
     "tmdb_title": "Gladiator Underground",
@@ -1567,9 +1587,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/lNAMDuflR4SCjaKylFLGdNcwXMj.jpg",
     "color": null,
     "saved": false,
-    "_hash": "e42ad3cf3f50abbe4c00ce1482446c71f74b0d473b9dd66e2d4a489c8000e6df",
+    "_hash": "cbd36f250f8af1f08d7b89e5030a98ff790b05187114824f0e522379f0eabd34",
     "createdAt": "2025-12-31T11:17:07.853Z",
-    "updatedAt": "2026-01-11T10:19:44.237Z"
+    "updatedAt": "2026-01-13T08:28:10.403Z"
   },
   {
     "title": "Striking Rescue - B The Great",
@@ -1592,7 +1612,7 @@
     "Downloadurls": [],
     "tmdb_id": 931102,
     "tmdb_rating": 7.208,
-    "popularity": 4.0136,
+    "popularity": 3.8408,
     "tmdb_overview": "A washed-up stuntman and his stunt horse become an overnight social media sensation when their real-life fight with debt collectors goes viral.",
     "tmdb_type": "movie",
     "tmdb_title": "Ride On",
@@ -1607,9 +1627,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/nxB2tFHsINO9TWOoIhSmIR0Ai02.jpg",
     "color": null,
     "saved": false,
-    "_hash": "2f5df18e3c951319ba1ac32f9dbcc281179c94448cd309cff0fc8a99c5d20a66",
+    "_hash": "0f7bb5c1a7d66c488d114c7169e5ef5d5aa351269e28697bde9ad6a7885fc5c4",
     "createdAt": "2026-01-01T15:18:40.064Z",
-    "updatedAt": "2026-01-11T10:19:42.093Z"
+    "updatedAt": "2026-01-13T08:28:07.779Z"
   },
   {
     "title": "Goal!",
@@ -1617,16 +1637,10 @@
     "image": "https://image.tmdb.org/t/p/w500/9YZhJGoIbJtrjDYbENGhR6f6SZE.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/Rocky%2FGOAL_THE_DREAM_BEGINS.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Rocky%2FGOAL_THE_DREAM_BEGINS.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 9763,
     "tmdb_rating": 6.76,
-    "popularity": 3.4196,
+    "popularity": 3.2218,
     "tmdb_overview": "Like millions of kids around the world, Santiago harbors the dream of being a professional footballer... However, living in the Barrios section of Los Angeles, he thinks it is only that—a dream. Until one day an extraordinary turn of events has him trying out for Premiership club Newcastle United.",
     "tmdb_type": "movie",
     "tmdb_title": "Goal!",
@@ -1641,9 +1655,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/hpuWR2rfcjRMni6HLtxPet4o4P4.jpg",
     "color": null,
     "saved": false,
-    "_hash": "ed01eea9bc432dd02b20138c2d6bbeb9c5dc611d118658fcada02186adb3f1dd",
+    "_hash": "d05620ea1f1dc1ae55ee0f307cad50d4c0550d501d3166ddf5722ee559ef04fb",
     "createdAt": "2026-01-03T15:16:52.295Z",
-    "updatedAt": "2026-01-11T10:19:40.622Z"
+    "updatedAt": "2026-01-13T08:28:06.231Z"
   },
   {
     "title": "Star Wars",
@@ -1651,21 +1665,10 @@
     "image": "https://image.tmdb.org/t/p/original/qhEimz49g0r2sQ06Xfb8Hxmfk3T.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download A",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fjunior%2FSTAR_WARS_A.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fjunior%2FSTAR_WARS_A.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fjunior%2FSTAR_WARS_B.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fjunior%2FSTAR_WARS_B.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 11,
     "tmdb_rating": 8.202,
-    "popularity": 20.208,
+    "popularity": 18.7194,
     "tmdb_overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
     "tmdb_type": "movie",
     "tmdb_title": "Star Wars",
@@ -1680,9 +1683,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/3H94YlnYWVLKQKEnfTBKvrCmHmt.jpg",
     "color": null,
     "saved": false,
-    "_hash": "4781d6e0d902554cd4a92a468208cd977371e6f0078c8aa882d559014c5d8ed8",
+    "_hash": "aacfd796d34d331bd6098c0a672f9e1112ca92e462287f150073bc617ec7bb06",
     "createdAt": "2026-01-03T17:15:22.617Z",
-    "updatedAt": "2026-01-11T10:19:34.829Z"
+    "updatedAt": "2026-01-13T08:28:03.679Z"
   },
   {
     "title": "Avatar",
@@ -1690,16 +1693,10 @@
     "image": "https://image.tmdb.org/t/p/w500/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fjunior%2FAVATAR.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fjunior%2FAVATAR.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 19995,
-    "tmdb_rating": 7.599,
-    "popularity": 79.7621,
+    "tmdb_rating": 7.6,
+    "popularity": 70.1711,
     "tmdb_overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
     "tmdb_type": "movie",
     "tmdb_title": "Avatar",
@@ -1714,9 +1711,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
     "color": null,
     "saved": false,
-    "_hash": "8ed4897044d16ebcc30070175bf9f21f20a1340e4a272d6e53964c38a2f3b0cc",
+    "_hash": "9fc869cd4ecee3d512a4223790c84f368f6cb35cb39e463e0384f79b7b9da678",
     "createdAt": "2026-01-03T17:15:25.474Z",
-    "updatedAt": "2026-01-11T10:19:37.952Z"
+    "updatedAt": "2026-01-13T08:28:04.803Z"
   },
   {
     "title": "Avatar: The Way of Water",
@@ -1724,16 +1721,10 @@
     "image": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/Rocky%2FNew%2FAVATAR_2_WAY_OF_WATER_BY_GAHEZA.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Rocky%2FNew%2FAVATAR_2_WAY_OF_WATER_BY_GAHEZA.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 76600,
-    "tmdb_rating": 7.605,
-    "popularity": 83.4016,
+    "tmdb_rating": 7.6,
+    "popularity": 75.4274,
     "tmdb_overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
     "tmdb_type": "movie",
     "tmdb_title": "Avatar: The Way of Water",
@@ -1748,9 +1739,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg",
     "color": null,
     "saved": false,
-    "_hash": "67ec08123c0c87b1d3c86fc735f4f74ba9a9c77713389672652544c0aaf07486",
+    "_hash": "b2d1e73f42bf99f4ed73988019a9078db3d8b6388ab31fdc5fe5d94cffc130fd",
     "createdAt": "2026-01-04T10:17:42.399Z",
-    "updatedAt": "2026-01-11T10:19:31.988Z"
+    "updatedAt": "2026-01-13T08:28:02.196Z"
   },
   {
     "title": "Golden Job",
@@ -1758,21 +1749,10 @@
     "image": "https://image.tmdb.org/t/p/w500/66mlGssgzn6ZCJBPYf1zCmJSHhu.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download A",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FGolden_Job_A_By_Mr_Fire.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FGolden_Job_A_By_Mr_Fire.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FGolden_Job_B_By_Mr_Fire.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FGolden_Job_B_By_Mr_Fire.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 531380,
     "tmdb_rating": 6.221,
-    "popularity": 1.5951,
+    "popularity": 1.6322,
     "tmdb_overview": "A group of former mercenaries reunite to plan an epic heist: boosting a truck full of medicine held by a foreign intelligence agency to supply a refugee camp in need. But when they find the truck is actually filled with stolen gold, the band of brothers realize they’ve been double-crossed by one of their own - and putting the situation right will be all out war.",
     "tmdb_type": "movie",
     "tmdb_title": "Golden Job",
@@ -1787,9 +1767,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/jxyEUugg60UpFirBRCmXdXxmVHW.jpg",
     "color": null,
     "saved": false,
-    "_hash": "2a59858c45a79007eafadf05ff851cfeb3d7330d0f07e9fa5768ac7d61cb381d",
+    "_hash": "75f79a238de0de374a2b8192884351e6c47328c3887e93a5959d36969ea645d4",
     "createdAt": "2026-01-04T14:16:13.780Z",
-    "updatedAt": "2026-01-11T10:19:29.130Z"
+    "updatedAt": "2026-01-13T08:28:00.644Z"
   },
   {
     "title": "The Tinder Swindler",
@@ -1797,16 +1777,10 @@
     "image": "https://image.tmdb.org/t/p/w500/iLUSFjdavIf0SrP7ldoQ1xomQVC.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FThe_Tinder_Swindler.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FThe_Tinder_Swindler.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 923632,
-    "tmdb_rating": 6.968,
-    "popularity": 0.9119,
+    "tmdb_rating": 6.969,
+    "popularity": 1.0121,
     "tmdb_overview": "Posing as a wealthy, jet-setting diamond mogul, an Israeli conman wooed women online then conned them out of millions of dollars. Now some victims plan for payback.",
     "tmdb_type": "movie",
     "tmdb_title": "The Tinder Swindler",
@@ -1821,9 +1795,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/iiq2cWUYblgfvaVn0h3xZMZK65j.jpg",
     "color": null,
     "saved": false,
-    "_hash": "9c3aac51dfc14416ce7355de04a8c980c50db8ffb5999de92927c2c6077ac878",
+    "_hash": "95ff19452339bc1aa06853d6feebc5d3182e39ee4f0e21c96b69bcce261ae70e",
     "createdAt": "2026-01-04T16:21:10.945Z",
-    "updatedAt": "2026-01-11T10:19:21.778Z"
+    "updatedAt": "2026-01-13T08:27:58.098Z"
   },
   {
     "title": "The Beekeeper",
@@ -1831,21 +1805,10 @@
     "image": "https://image.tmdb.org/t/p/w500/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download A",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FTHE_BEEKEEPER_A.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FTHE_BEEKEEPER_A.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FTHE_BEEKEEPER_B.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FTHE_BEEKEEPER_B.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 866398,
-    "tmdb_rating": 7.261,
-    "popularity": 13.7869,
+    "tmdb_rating": 7.262,
+    "popularity": 12.6053,
     "tmdb_overview": "One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
     "tmdb_type": "movie",
     "tmdb_title": "The Beekeeper",
@@ -1860,26 +1823,20 @@
     "backdrop": "https://image.tmdb.org/t/p/original/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
     "color": null,
     "saved": false,
-    "_hash": "5f607668e3eae95574e97821fb1bc7a2498893269fcfd7201daa9c9cdf1bda07",
+    "_hash": "390e724d972dcb110fe723ddc5f4e0abc06ccb4e476724e6e5ecf81746dafc73",
     "createdAt": "2026-01-04T16:21:12.912Z",
-    "updatedAt": "2026-01-11T10:19:25.723Z"
+    "updatedAt": "2026-01-13T08:27:59.206Z"
   },
   {
     "title": "Babylon A.D.",
     "link": "https://mujyosi.store/movie/2681",
     "image": "https://image.tmdb.org/t/p/original/kt9nqD0uOar8IVE9191HXhWOXKI.jpg",
-    "narrator": "lon A.D.",
+    "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/Rocky%2FBABYLON_AD.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Rocky%2FBABYLON_AD.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 9381,
     "tmdb_rating": 5.665,
-    "popularity": 4.2302,
+    "popularity": 3.1865,
     "tmdb_overview": "A veteran-turned-mercenary is hired to take a young woman with a secret from post-apocalyptic Eastern Europe to New York City.",
     "tmdb_type": "movie",
     "tmdb_title": "Babylon A.D.",
@@ -1894,9 +1851,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/AjDyXDvk4VOtDp9aLJpAnBx1uyD.jpg",
     "color": null,
     "saved": false,
-    "_hash": "226f7a498a3b1045de40680a524456b3e8952013a419ff02a80d07cde7126a1c",
+    "_hash": "c16a0bd99503807c1ff58fd585f334489d426310ce744a49888c21734a8f2e55",
     "createdAt": "2026-01-05T10:21:50.246Z",
-    "updatedAt": "2026-01-11T10:19:19.093Z"
+    "updatedAt": "2026-01-13T08:27:56.648Z"
   },
   {
     "title": "My Lucky Stars",
@@ -1917,8 +1874,8 @@
       }
     ],
     "tmdb_id": 10044,
-    "tmdb_rating": 6.6,
-    "popularity": 2.2431,
+    "tmdb_rating": 6.593,
+    "popularity": 2.5765,
     "tmdb_overview": "Two Hong Kong cops are sent to Tokyo to catch an ex-cop who stole a large amount of money in diamonds. After one is captured by the Ninja-gang protecting the rogue cop, the other one gets his old Orphanage gang, dubbed the \"Five Lucky Stars,\" to help him. They don't like this much, but they do it.",
     "tmdb_type": "movie",
     "tmdb_title": "My Lucky Stars",
@@ -1933,9 +1890,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/nqku4NcsbNsqkzMhvNOFosVDo6a.jpg",
     "color": null,
     "saved": false,
-    "_hash": "89bbf523c95d38eff469aca8d411ff6a5837c75eaa8e6b569c575127beb8af61",
+    "_hash": "3a0d9879f645d2d57b2ea0b739c52d93816cbf7b4d2bea4c7657b0e15741ad33",
     "createdAt": "2026-01-06T11:16:50.032Z",
-    "updatedAt": "2026-01-11T10:19:13.846Z"
+    "updatedAt": "2026-01-13T08:27:55.536Z"
   },
   {
     "title": "Zootopia 2",
@@ -1956,8 +1913,8 @@
       }
     ],
     "tmdb_id": 1084242,
-    "tmdb_rating": 7.581,
-    "popularity": 256.7834,
+    "tmdb_rating": 7.6,
+    "popularity": 239.6306,
     "tmdb_overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
     "tmdb_type": "movie",
     "tmdb_title": "Zootopia 2",
@@ -1972,9 +1929,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
     "color": null,
     "saved": false,
-    "_hash": "76397bf245844fa935f51a1ed326e96008135e88572faa7a1e6a6292c7afb475",
+    "_hash": "d6f2476ba6e1d94a9d87e3a8064fdab90d217754fd47b73abf8d56a098d4f46d",
     "createdAt": "2026-01-06T14:19:58.688Z",
-    "updatedAt": "2026-01-11T10:19:09.956Z"
+    "updatedAt": "2026-01-13T08:27:52.917Z"
   },
   {
     "title": "Unseen Enemy",
@@ -1996,7 +1953,7 @@
     ],
     "tmdb_id": 1576878,
     "tmdb_rating": 4.583,
-    "popularity": 1.5924,
+    "popularity": 1.2357,
     "tmdb_overview": "An isolated private investigator is convinced by a friend to come out of hiding to help find her missing sister, putting him back in reach by those who want his family dead.",
     "tmdb_type": "movie",
     "tmdb_title": "Unseen Enemy",
@@ -2011,9 +1968,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/7TsA9t4iy3lcYHBHPT9o2FOkZ0.jpg",
     "color": null,
     "saved": false,
-    "_hash": "ca57489d867e25cd07c371745727c106aaf93ae76a6ab827ccc701afde565eb7",
+    "_hash": "62221afc459afe4566c92c858e383db70cc79659636de9ef08a043f60fe967fe",
     "createdAt": "2026-01-07T09:25:41.319Z",
-    "updatedAt": "2026-01-11T10:19:03.325Z"
+    "updatedAt": "2026-01-13T08:27:48.079Z"
   },
   {
     "title": "Jai Bhim",
@@ -2030,7 +1987,7 @@
     ],
     "tmdb_id": 855400,
     "tmdb_rating": 7.352,
-    "popularity": 1.8592,
+    "popularity": 1.503,
     "tmdb_overview": "A pregnant woman from a primitive tribal community, searches desperately for her husband, who is missing from police custody. So as to find her husband and seek justice for them, as their voice, a High Court advocate rises in support. Will their battle for justice succeed?",
     "tmdb_type": "movie",
     "tmdb_title": "Jai Bhim",
@@ -2045,9 +2002,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/40lmQ5vzKJhj5k7i0hvZuglneyj.jpg",
     "color": null,
     "saved": false,
-    "_hash": "6099c5d0c491650e77effcfb9ab5ed8ec9fbcd015580e8fce90e8b96f25a18f8",
+    "_hash": "edd583ef145514b37829507913c04a2b68934c092a68f37f0ec7f38710b1e649",
     "createdAt": "2026-01-07T09:25:43.673Z",
-    "updatedAt": "2026-01-11T10:19:05.514Z"
+    "updatedAt": "2026-01-13T08:27:49.984Z"
   },
   {
     "title": "Your Fault",
@@ -2069,7 +2026,7 @@
     ],
     "tmdb_id": 1156593,
     "tmdb_rating": 7.122,
-    "popularity": 14.9421,
+    "popularity": 14.2864,
     "tmdb_overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
     "tmdb_type": "movie",
     "tmdb_title": "Your Fault",
@@ -2084,9 +2041,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/k24eZq5I3jyz4htPkZCRpnUmBzE.jpg",
     "color": null,
     "saved": false,
-    "_hash": "ceae241938d85d96c2fa0730f1be92811f1961be1c958313b3a40ca9cc08e5d6",
+    "_hash": "e5c567b3d2a004e042c686867e89f20677b9b210d72068e4812258948c524d50",
     "createdAt": "2026-01-07T15:22:11.919Z",
-    "updatedAt": "2026-01-11T10:18:59.377Z"
+    "updatedAt": "2026-01-13T08:27:44.654Z"
   },
   {
     "title": "Avatar: Fire and Ash - Steppin",
@@ -2126,7 +2083,7 @@
     ],
     "tmdb_id": 1327769,
     "tmdb_rating": 6.313,
-    "popularity": 3.4521,
+    "popularity": 2.6976,
     "tmdb_overview": "When a woman is admitted by her daughters to a psychiatric clinic for her carefree ways, an expert must judge if she is ill or simply wants to enjoy life.",
     "tmdb_type": "movie",
     "tmdb_title": "27 Nights",
@@ -2141,9 +2098,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/28xIxuw60UNZ3Tsz1tT5Gg7MS67.jpg",
     "color": null,
     "saved": false,
-    "_hash": "cd9674e11cc029dc0222c8c539027086538e9077d92bb54fe097e20fa0a4f657",
+    "_hash": "06d5d3f5088ff358c0c6a71a249c189395bc00868a9af132733f5ad0178e7879",
     "createdAt": "2026-01-09T09:25:43.070Z",
-    "updatedAt": "2026-01-11T10:18:52.616Z"
+    "updatedAt": "2026-01-13T08:27:38.588Z"
   },
   {
     "title": "The Tournament",
@@ -2164,8 +2121,8 @@
       }
     ],
     "tmdb_id": 24056,
-    "tmdb_rating": 6,
-    "popularity": 1.3682,
+    "tmdb_rating": 5.949,
+    "popularity": 1.4562,
     "tmdb_overview": "Every seven  years, in an unsuspecting town, The Tournament takes place. A battle royale between 30 of the world's deadliest assassins. The last man standing receives the $10,000,000 cash prize and the title of World's No. 1 Assassin, which itself carries the legendary million dollar-a-bullet price tag.",
     "tmdb_type": "movie",
     "tmdb_title": "The Tournament",
@@ -2180,9 +2137,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/oRfGMshVwOh5gqRiVMsFDPolEXF.jpg",
     "color": null,
     "saved": false,
-    "_hash": "a61318f4239be2cb38ab5b4f3a314542490106f870dd5f69bb7d7a888f83f226",
+    "_hash": "492d8471eaf342568f4b46755a377845c250cc113f3c216654cfae694f8adcab",
     "createdAt": "2026-01-10T10:17:48.630Z",
-    "updatedAt": "2026-01-11T10:18:50.006Z"
+    "updatedAt": "2026-01-13T08:27:36.658Z"
   },
   {
     "title": "Jiu Jitsu - Mr Fire",
@@ -2206,5 +2163,44 @@
     "_hash": "7912247a7c112561eefeb607d04a2e0696d9db530c354caea99afb85f1805f05",
     "createdAt": "2026-01-11T10:18:47.362Z",
     "updatedAt": "2026-01-11T10:18:47.362Z"
+  },
+  {
+    "title": "Akhanda",
+    "link": "https://mujyosi.store/movie/2691",
+    "image": "https://image.tmdb.org/t/p/w500/1mjw3CdnDJk3W0gki3N9K5Ol0EL.jpg",
+    "narrator": "",
+    "release_year": null,
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/series%2F2026%2Findia%2FAKHANDA_A.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2026%2Findia%2FAKHANDA_A.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/series%2F2026%2Findia%2FAKHANDA_B.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2026%2Findia%2FAKHANDA_B.mp4"
+      }
+    ],
+    "tmdb_id": 794961,
+    "tmdb_rating": 5.4,
+    "popularity": 2.6491,
+    "tmdb_overview": "Brothers Murali Krishna and Akhanda are separated at birth. They grow up to lead completely separate lives, Murali as a local hero, and Akhanda as a secluded Shiva devotee. But when the lives of Murali and his family are in danger, his long-lost brother finally returns.",
+    "tmdb_type": "movie",
+    "tmdb_title": "Akhanda",
+    "tmdb_year": 2021,
+    "poster_small": "https://image.tmdb.org/t/p/w185/1mjw3CdnDJk3W0gki3N9K5Ol0EL.jpg",
+    "poster_medium": "https://image.tmdb.org/t/p/w342/1mjw3CdnDJk3W0gki3N9K5Ol0EL.jpg",
+    "poster_large": "https://image.tmdb.org/t/p/w500/1mjw3CdnDJk3W0gki3N9K5Ol0EL.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/1mjw3CdnDJk3W0gki3N9K5Ol0EL.jpg",
+    "backdrop_small": "https://image.tmdb.org/t/p/w300/dTD3wlEjhEzKztFyzKWSeICGMFw.jpg",
+    "backdrop_medium": "https://image.tmdb.org/t/p/w780/dTD3wlEjhEzKztFyzKWSeICGMFw.jpg",
+    "backdrop_large": "https://image.tmdb.org/t/p/w1280/dTD3wlEjhEzKztFyzKWSeICGMFw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/dTD3wlEjhEzKztFyzKWSeICGMFw.jpg",
+    "color": null,
+    "saved": false,
+    "_hash": "a8fb9dee097c8f8d771e4613f6da4c6b907d06bc5469105073be8dd25501996d",
+    "createdAt": "2026-01-13T08:27:30.567Z",
+    "updatedAt": "2026-01-13T08:27:30.567Z"
   }
 ]
