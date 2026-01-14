@@ -1,5 +1,10 @@
 [
   {
+    "title": "Ghost Killer",
+    "image": "https://image.tmdb.org/t/p/w500/uKIG4f25QHUpBmBv0MPWOzKMGAM.jpg",
+    "url": "https://mujyosi.store/movie/2693"
+  },
+  {
     "title": "Akhanda 2: Thaandavam",
     "image": "https://image.tmdb.org/t/p/w500/jo9efbQSGDZNQ6xMocyD1prFjdF.jpg",
     "url": "https://mujyosi.store/movie/2692"
@@ -243,10 +248,5 @@
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "image": "https://image.tmdb.org/t/p/original/A18pVyXHXrfno3a2GUinAJDUPDw.jpg",
     "url": "https://mujyosi.store/movie/2642"
-  },
-  {
-    "title": "Believe: The Ultimate Battle",
-    "image": "https://image.tmdb.org/t/p/original/ga7GnPf917BGnHs8xBBYGlN58HO.jpg",
-    "url": "https://mujyosi.store/movie/2641"
   }
 ]
