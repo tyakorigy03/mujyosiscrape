@@ -4946,7 +4946,7 @@
         "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Newthi%2FAmerica%2FONE_OF_US_IS_LYING_6.mp4"
       },
       {
-        "title": "Episode 7 Final",
+        "title": "Episode 7",
         "watchUrl": "https://files.isatafilez.my/Newthi%2FAmerica%2FONE_OF_US_IS_LYING_7.mp4",
         "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Newthi%2FAmerica%2FONE_OF_US_IS_LYING_7.mp4"
       }
@@ -4968,8 +4968,42 @@
     "backdrop": "https://image.tmdb.org/t/p/original/3pLsEQgnkuwJrNCTXPQSYZlEfnH.jpg",
     "color": null,
     "saved": false,
-    "_hash": "60631ab7c854b8b4c1bd7859ede991b239795d6ff267a1f71c164c9b129cb511",
+    "_hash": "34a9322ad4d0b4210878ab045831caf5e2de0bda42248ce191740a28f540a69f",
     "createdAt": "2026-01-16T08:27:00.220Z",
-    "updatedAt": "2026-01-16T08:27:00.220Z"
+    "updatedAt": "2026-01-16T09:24:34.810Z"
+  },
+  {
+    "title": "Monster",
+    "link": "https://mujyosi.store/serie/366",
+    "image": "https://image.tmdb.org/t/p/original/nnTcGgFYkGvJdoI2TTNbhupEu4R.jpg",
+    "narrator": "",
+    "release_year": null,
+    "Downloadurls": [
+      {
+        "title": "Episode 1",
+        "watchUrl": "https://files.isatafilez.my/Newthi%2FKorea%2FMonster-S1E1.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Newthi%2FKorea%2FMonster-S1E1.mp4"
+      }
+    ],
+    "tmdb_id": 30981,
+    "tmdb_rating": 8.5,
+    "popularity": 17.4478,
+    "tmdb_overview": "Kenzou Tenma, a Japanese brain surgeon in Germany, finds his life in utter turmoil after getting involved with a psychopath that was once a former patient.",
+    "tmdb_type": "tv",
+    "tmdb_title": "Monster",
+    "tmdb_year": 2004,
+    "poster_small": "https://image.tmdb.org/t/p/w185/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg",
+    "poster_medium": "https://image.tmdb.org/t/p/w342/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg",
+    "poster_large": "https://image.tmdb.org/t/p/w500/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg",
+    "backdrop_small": "https://image.tmdb.org/t/p/w300/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
+    "backdrop_medium": "https://image.tmdb.org/t/p/w780/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
+    "backdrop_large": "https://image.tmdb.org/t/p/w1280/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
+    "color": null,
+    "saved": false,
+    "_hash": "e59af2c6bc526443012d147f0e164f8157c6b04ff8b9720c77424dfe9e48d20e",
+    "createdAt": "2026-01-16T09:24:26.280Z",
+    "updatedAt": "2026-01-16T09:24:26.280Z"
   }
 ]

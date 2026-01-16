@@ -1,5 +1,10 @@
 [
   {
+    "title": "Monster",
+    "image": "https://image.tmdb.org/t/p/original/nnTcGgFYkGvJdoI2TTNbhupEu4R.jpg",
+    "url": "https://mujyosi.store/serie/366"
+  },
+  {
     "title": "The Ba***ds of Bollywood",
     "image": "https://image.tmdb.org/t/p/w500/6QFnXFx5XJAp0SxMd9g23cbti4m.jpg",
     "url": "https://mujyosi.store/serie/365"
@@ -243,10 +248,5 @@
     "title": "Legend of The Female General",
     "image": "https://image.tmdb.org/t/p/original/lzVJ5Xp97E3f6hK2RLHsWAyjNiN.jpg",
     "url": "https://mujyosi.store/serie/317"
-  },
-  {
-    "title": "The Journey Of The Legend",
-    "image": "https://image.tmdb.org/t/p/original/oNzbFwNgL2EZzVEAjq3l0TjdPmA.jpg",
-    "url": "https://mujyosi.store/serie/316"
   }
 ]
