@@ -1,5 +1,15 @@
 [
   {
+    "title": "The Ba***ds of Bollywood",
+    "image": "https://image.tmdb.org/t/p/w500/6QFnXFx5XJAp0SxMd9g23cbti4m.jpg",
+    "url": "https://mujyosi.store/serie/365"
+  },
+  {
+    "title": "One of Us Is Lying",
+    "image": "https://image.tmdb.org/t/p/w500/hKMpbHY7xqFKaBR8W7jE61JlQB6.jpg",
+    "url": "https://mujyosi.store/serie/364"
+  },
+  {
     "title": "Hwarang: The Poet Warrior Youth",
     "image": "https://image.tmdb.org/t/p/original/mQHhonQmjQRXJTObGssZGM1okiu.jpg",
     "url": "https://mujyosi.store/serie/363"
@@ -238,15 +248,5 @@
     "title": "The Journey Of The Legend",
     "image": "https://image.tmdb.org/t/p/original/oNzbFwNgL2EZzVEAjq3l0TjdPmA.jpg",
     "url": "https://mujyosi.store/serie/316"
-  },
-  {
-    "title": "Boyhood",
-    "image": "https://image.tmdb.org/t/p/original/qDULSztNJV1jhoCSe2dpMFXzftD.jpg",
-    "url": "https://mujyosi.store/serie/315"
-  },
-  {
-    "title": "Fated Hearts",
-    "image": "https://image.tmdb.org/t/p/original/9yKpGzf83t02GRWYRmyLj2VXy96.jpg",
-    "url": "https://mujyosi.store/serie/314"
   }
 ]
