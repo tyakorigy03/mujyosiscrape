@@ -1,5 +1,15 @@
 [
   {
+    "title": "Akshardham: Operation Vajra Shakti",
+    "image": "https://image.tmdb.org/t/p/w500/ckghAN8FuYY2icUyJjVkKXiBrek.jpg",
+    "url": "https://mujyosi.store/movie/2705"
+  },
+  {
+    "title": "Hunting Season",
+    "image": "https://image.tmdb.org/t/p/w500/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+    "url": "https://mujyosi.store/movie/2704"
+  },
+  {
     "title": "Lion",
     "image": "https://image.tmdb.org/t/p/w500/iBGRbLvg6kVc7wbS8wDdVHq6otm.jpg",
     "url": "https://mujyosi.store/movie/2703"
@@ -238,15 +248,5 @@
     "title": "Attack of the Meth Gator",
     "image": "https://image.tmdb.org/t/p/w500/td0L3VZvBFPYb6hZ3WTbq0VD9q2.jpg",
     "url": "https://mujyosi.store/movie/2655"
-  },
-  {
-    "title": "Gladiator Underground",
-    "image": "https://image.tmdb.org/t/p/w500/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg",
-    "url": "https://mujyosi.store/movie/2653"
-  },
-  {
-    "title": "Sultan",
-    "image": "https://image.tmdb.org/t/p/w500/vPTYtKuV8X5uUd3SqnzO14W6Dti.jpg",
-    "url": "https://mujyosi.store/movie/2652"
   }
 ]
