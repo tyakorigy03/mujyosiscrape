@@ -1,5 +1,10 @@
 [
   {
+    "title": "Stranger Things - S2",
+    "image": "https://image.tmdb.org/t/p/original/4Ie03y6RGRIf8xtvm2OJEXl00z5.jpg",
+    "url": "https://mujyosi.store/serie/367"
+  },
+  {
     "title": "Monster",
     "image": "https://image.tmdb.org/t/p/original/nnTcGgFYkGvJdoI2TTNbhupEu4R.jpg",
     "url": "https://mujyosi.store/serie/366"
@@ -243,10 +248,5 @@
     "title": "Avenues of the Diamond",
     "image": "https://image.tmdb.org/t/p/original/mP0hubaxMxTFWgKziDYYpSAlIpO.jpg",
     "url": "https://mujyosi.store/serie/318"
-  },
-  {
-    "title": "Legend of The Female General",
-    "image": "https://image.tmdb.org/t/p/original/lzVJ5Xp97E3f6hK2RLHsWAyjNiN.jpg",
-    "url": "https://mujyosi.store/serie/317"
   }
 ]
