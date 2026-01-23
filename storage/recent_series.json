@@ -1,5 +1,10 @@
 [
   {
+    "title": "Conflict",
+    "image": "https://image.tmdb.org/t/p/w500/kESvBNLPTAXw1Oh4gDU8zeAwPoP.jpg",
+    "url": "https://mujyosi.store/serie/370"
+  },
+  {
     "title": "HIS & HERS",
     "image": "https://image.tmdb.org/t/p/w500/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg",
     "url": "https://mujyosi.store/serie/369"
@@ -243,10 +248,5 @@
     "title": "Bon Appétit, Your Majesty",
     "image": "https://image.tmdb.org/t/p/original/bzYSIw9FTzQXUcWsnDSwlcwok3C.jpg",
     "url": "https://mujyosi.store/serie/321"
-  },
-  {
-    "title": "Shaka iLembe  - Season 2",
-    "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/gjd31cBi6oImIn2YTFU71AgirP0.jpg",
-    "url": "https://mujyosi.store/serie/320"
   }
 ]
