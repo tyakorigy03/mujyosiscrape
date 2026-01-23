@@ -1,5 +1,10 @@
 [
   {
+    "title": "Cruel War",
+    "image": "https://image.tmdb.org/t/p/w500/AiB6C4ykGUKGFYZqceQo3fK9tHt.jpg",
+    "url": "https://mujyosi.store/movie/2711"
+  },
+  {
     "title": "Barren Land",
     "image": "https://image.tmdb.org/t/p/w500/7GO6vjOFA4Uft5USA1j2NnJ5Zcl.jpg",
     "url": "https://mujyosi.store/movie/2710"
@@ -243,10 +248,5 @@
     "title": "Sisu: Road to Revenge - Rocky",
     "image": "https://image.tmdb.org/t/p/w500/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",
     "url": "https://mujyosi.store/movie/2661"
-  },
-  {
-    "title": "Evil Dead",
-    "image": "https://image.tmdb.org/t/p/w500/1gDV0Lm9y8ufIKzyf0h0GBgb9Zj.jpg",
-    "url": "https://mujyosi.store/movie/2660"
   }
 ]

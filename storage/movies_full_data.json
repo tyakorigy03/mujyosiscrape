@@ -5,11 +5,17 @@
     "image": "https://image.tmdb.org/t/p/w500/3zJLnrP9g9LSMpX5C1wau49gGUv.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FDhoom_2.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FDhoom_2.mp4"
+      }
+    ],
     "saved": false,
-    "_hash": "7ee9a504cddf57098c866993b38b98e08688558adb962424fae1053016c78545",
+    "_hash": "7fe02584546eef4c4fb7ddad74199369eddf6d8f43c218af4d9d489dd934ef08",
     "createdAt": "2025-12-27T15:16:37.838Z",
-    "updatedAt": "2026-01-21T10:26:35.623Z"
+    "updatedAt": "2026-01-23T15:24:15.039Z"
   },
   {
     "title": "The Passion of the CHRIST - Noheri",
@@ -17,11 +23,22 @@
     "image": "https://image.tmdb.org/t/p/w500/v9f9MMrq2nGQrN7cHnQRmEq9lSE.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/Rocky%2FJESUS%2FPassion_Of_Christ_A.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Rocky%2FJESUS%2FPassion_Of_Christ_A.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/Rocky%2FJESUS%2FPassion_Of_Christ_B.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Rocky%2FJESUS%2FPassion_Of_Christ_B.mp4"
+      }
+    ],
     "saved": false,
-    "_hash": "49538519ff61667141c898a49b09230f68e17621ca0aebb8e1b77670232a8957",
+    "_hash": "c6fd1db2add89a06564542729ba03708863b690ca00d9b8ee3ebb5643993c96a",
     "createdAt": "2025-12-27T15:16:39.926Z",
-    "updatedAt": "2026-01-21T10:26:37.150Z"
+    "updatedAt": "2026-01-23T15:24:17.758Z"
   },
   {
     "title": "The Sixth Robber",
@@ -29,7 +46,18 @@
     "image": "https://image.tmdb.org/t/p/w500/cL4CSHwwSI3oX6Z15svQWBVKF9t.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FTHE_SIXTH_ROBBER_A.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FTHE_SIXTH_ROBBER_A.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FTHE_SIXTH_ROBBER_B.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FTHE_SIXTH_ROBBER_B.mp4"
+      }
+    ],
     "tmdb_id": 1591287,
     "tmdb_rating": 8,
     "popularity": 2.1279,
@@ -47,9 +75,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/pxdhgSWcUwfhb3NUEJt048KXciv.jpg",
     "color": null,
     "saved": false,
-    "_hash": "eecc32bc8c8c55f75a7bedbad679bca1ed65272d3972329a6949be01e8e6394d",
+    "_hash": "eb0dfea6b1bb5f03a35424876bfb9d5702bcd6b99a04aeb24488dd6b0d4dad07",
     "createdAt": "2025-12-27T15:16:44.169Z",
-    "updatedAt": "2026-01-23T08:28:21.473Z"
+    "updatedAt": "2026-01-23T15:24:20.488Z"
   },
   {
     "title": "The King of Sniper in Northeast",
@@ -1490,7 +1518,13 @@
     "image": "https://image.tmdb.org/t/p/w500/qPJzcYR2f1O1uynYBCVPPJuOiAH.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download",
+        "watchUrl": "https://files.isatafilez.my/Serie%2Fhim.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2Fhim.mp4"
+      }
+    ],
     "tmdb_id": 986097,
     "tmdb_rating": 5.771,
     "popularity": 13.2426,
@@ -1508,9 +1542,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/jzzpCJWkVZZwAxzzLmtYN0MBWFd.jpg",
     "color": null,
     "saved": false,
-    "_hash": "5a702a2f9c832caebcf5d4a06b69da27113f1915b4c9016197fd63c0c1c2472b",
+    "_hash": "795e14e820c82bbf1e2d388d2ad579092d277e22e3e1a7ed2be292c8a6918884",
     "createdAt": "2025-12-29T11:16:43.944Z",
-    "updatedAt": "2026-01-23T08:28:15.923Z"
+    "updatedAt": "2026-01-23T15:24:08.337Z"
   },
   {
     "title": "Sniper Battle",
@@ -1518,7 +1552,13 @@
     "image": "https://image.tmdb.org/t/p/w500/m4jvnLIaIkbXkdOJWUWnhSI20Po.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FSniper_Battle_By_Mr_Fire_.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FSniper_Battle_By_Mr_Fire_.mp4"
+      }
+    ],
     "tmdb_id": 1593974,
     "tmdb_rating": 0,
     "popularity": 0.6508,
@@ -1536,9 +1576,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/j9MlPyd0h06Wl5iCheJWcHy3LbR.jpg",
     "color": null,
     "saved": false,
-    "_hash": "75166a8a1d4a428fd03041bec3873dbdbbe58ec5a94b22815422cb166771194c",
+    "_hash": "5ec0aa62419fb554aa9e52199b098acd4a541df830d460eb46f4c1b91667efe0",
     "createdAt": "2025-12-29T11:16:46.422Z",
-    "updatedAt": "2026-01-23T08:28:16.930Z"
+    "updatedAt": "2026-01-23T15:24:10.940Z"
   },
   {
     "title": "Gladiator Underground",
@@ -1546,7 +1586,13 @@
     "image": "https://image.tmdb.org/t/p/w500/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download",
+        "watchUrl": "https://files.isatafilez.my/GLADIATOR_UNDERGROUND.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=GLADIATOR_UNDERGROUND.mp4"
+      }
+    ],
     "tmdb_id": 1499984,
     "tmdb_rating": 5.5,
     "popularity": 1.8414,
@@ -1564,9 +1610,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/lNAMDuflR4SCjaKylFLGdNcwXMj.jpg",
     "color": null,
     "saved": false,
-    "_hash": "38ff53201dfb59e05fc97130838a3a7c35c4709bceac7683367df8a0a966d043",
+    "_hash": "8c26a1cb3be176fc96e9ccec5b02b3bd54bf8bdf4c0de5bf7a4439e2b369bccc",
     "createdAt": "2025-12-31T11:17:07.853Z",
-    "updatedAt": "2026-01-23T08:28:14.965Z"
+    "updatedAt": "2026-01-23T15:24:05.939Z"
   },
   {
     "title": "Striking Rescue - B The Great",
@@ -1665,20 +1711,9 @@
     "image": "https://image.tmdb.org/t/p/original/qhEimz49g0r2sQ06Xfb8Hxmfk3T.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download A",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fjunior%2FSTAR_WARS_A.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fjunior%2FSTAR_WARS_A.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fjunior%2FSTAR_WARS_B.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fjunior%2FSTAR_WARS_B.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 11,
-    "tmdb_rating": 8.202,
+    "tmdb_rating": 8.203,
     "popularity": 19.2374,
     "tmdb_overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
     "tmdb_type": "movie",
@@ -1694,9 +1729,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/2w4xG178RpB4MDAIfTkqAuSJzec.jpg",
     "color": null,
     "saved": false,
-    "_hash": "ede84b9a9ef11f5b4ee90b37a6f85a03fea8cdf1da9cca94fb03b326c92ebcf1",
+    "_hash": "8f5679f41144ce3489a062b00511b2c1bd122389d73f0e6e99d392041072d7d4",
     "createdAt": "2026-01-03T17:15:22.617Z",
-    "updatedAt": "2026-01-23T08:28:01.463Z"
+    "updatedAt": "2026-01-23T15:23:52.407Z"
   },
   {
     "title": "Avatar",
@@ -1738,20 +1773,9 @@
     "image": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/Rocky%2FNew%2FAVATAR_2_WAY_OF_WATER_BY_GAHEZA.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Rocky%2FNew%2FAVATAR_2_WAY_OF_WATER_BY_GAHEZA.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/Newthi%2FAVATAR_2_THE_WAY_OF_WATER_B__1_.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Newthi%2FAVATAR_2_THE_WAY_OF_WATER_B__1_.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 76600,
-    "tmdb_rating": 7.602,
+    "tmdb_rating": 7.6,
     "popularity": 55.4761,
     "tmdb_overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
     "tmdb_type": "movie",
@@ -1767,9 +1791,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg",
     "color": null,
     "saved": false,
-    "_hash": "44082c0e063d7b5702212b5e61852880fc247903dbabea47185f01d43814fd5b",
+    "_hash": "41f96f8a762bd66a6883a81f53b68ba5ee0e75b7d0acb42140af011537d332c3",
     "createdAt": "2026-01-04T10:17:42.399Z",
-    "updatedAt": "2026-01-23T08:27:59.190Z"
+    "updatedAt": "2026-01-23T15:23:51.018Z"
   },
   {
     "title": "Golden Job",
@@ -1777,18 +1801,7 @@
     "image": "https://image.tmdb.org/t/p/w500/66mlGssgzn6ZCJBPYf1zCmJSHhu.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download A",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FGolden_Job_A_By_Mr_Fire.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FGolden_Job_A_By_Mr_Fire.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2FGolden_Job_B_By_Mr_Fire.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2FGolden_Job_B_By_Mr_Fire.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 531380,
     "tmdb_rating": 6.221,
     "popularity": 5.8173,
@@ -1806,9 +1819,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/jxyEUugg60UpFirBRCmXdXxmVHW.jpg",
     "color": null,
     "saved": false,
-    "_hash": "a166d2f54fe30c37f4d1bfdba3f1cac80221aae44c943964694b2de5b1e42585",
+    "_hash": "dae4206d2a3f78ef9fd29ce7bcdc5fdd50a4cc267b4b0e0e462c92da32fcb2ce",
     "createdAt": "2026-01-04T14:16:13.780Z",
-    "updatedAt": "2026-01-23T08:27:56.433Z"
+    "updatedAt": "2026-01-23T15:23:49.960Z"
   },
   {
     "title": "The Tinder Swindler",
@@ -1816,13 +1829,7 @@
     "image": "https://image.tmdb.org/t/p/w500/iLUSFjdavIf0SrP7ldoQ1xomQVC.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FThe_Tinder_Swindler.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FThe_Tinder_Swindler.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 923632,
     "tmdb_rating": 6.968,
     "popularity": 1.3482,
@@ -1840,9 +1847,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/iiq2cWUYblgfvaVn0h3xZMZK65j.jpg",
     "color": null,
     "saved": false,
-    "_hash": "bdd7ae2c56844d6602e82d548622b2105bc431ae17e284a4161c0056e173c89b",
+    "_hash": "6a38c1f8bfd91470b7f6df7b0cd449affbf2df9d9912328ddffeced2e9ab6179",
     "createdAt": "2026-01-04T16:21:10.945Z",
-    "updatedAt": "2026-01-23T08:27:49.555Z"
+    "updatedAt": "2026-01-23T15:23:47.923Z"
   },
   {
     "title": "The Beekeeper",
@@ -1850,18 +1857,7 @@
     "image": "https://image.tmdb.org/t/p/w500/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download A",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FTHE_BEEKEEPER_A.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FTHE_BEEKEEPER_A.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fsav%2FTHE_BEEKEEPER_B.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fsav%2FTHE_BEEKEEPER_B.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 866398,
     "tmdb_rating": 7.261,
     "popularity": 12.6246,
@@ -1879,9 +1875,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
     "color": null,
     "saved": false,
-    "_hash": "faf8690abb9fdc1a145b640014dab9c5b53819895dfa55c0ef61c567498d5f41",
+    "_hash": "2b1d4681bff61b425c9b7f1b20e49fbc17aad66e90aa63014887116b3d3e5997",
     "createdAt": "2026-01-04T16:21:12.912Z",
-    "updatedAt": "2026-01-23T08:27:53.945Z"
+    "updatedAt": "2026-01-23T15:23:48.954Z"
   },
   {
     "title": "Babylon A.D.",
@@ -1947,7 +1943,7 @@
     "release_year": null,
     "Downloadurls": [],
     "tmdb_id": 1084242,
-    "tmdb_rating": 7.591,
+    "tmdb_rating": 7.596,
     "popularity": 178.3701,
     "tmdb_overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
     "tmdb_type": "movie",
@@ -1963,9 +1959,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
     "color": null,
     "saved": false,
-    "_hash": "1706363581d2247294a101be4b6d9726bd3327889c70c341e6a714f75c60eef1",
+    "_hash": "ad4a05e4ef91056524e318fe54ab28c1ce77e3c83aa5ee24d18b018893d6142c",
     "createdAt": "2026-01-06T14:19:58.688Z",
-    "updatedAt": "2026-01-23T08:27:45.090Z"
+    "updatedAt": "2026-01-23T15:23:44.454Z"
   },
   {
     "title": "Unseen Enemy",
@@ -2249,7 +2245,18 @@
     "image": "https://image.tmdb.org/t/p/w500/7X5WfRQxyvLqV5rhpbTH9e8HQex.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/series%2F2026%2Fchinese%2Fgreat%2FULTIMATE_MISSION_A.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2026%2Fchinese%2Fgreat%2FULTIMATE_MISSION_A.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/series%2F2026%2Fchinese%2Fgreat%2FULTIMATE_MISSION_B.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2026%2Fchinese%2Fgreat%2FULTIMATE_MISSION_B.mp4"
+      }
+    ],
     "tmdb_id": 1506537,
     "tmdb_rating": 7,
     "popularity": 4.3743,
@@ -2267,9 +2274,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/z0RCtpY7nr9lSiMJWrKOuglEZQg.jpg",
     "color": null,
     "saved": false,
-    "_hash": "e87bfdd14c273e4f5b9e395069725be48560787ff1234302ba267fb2c8b46a75",
+    "_hash": "31a74f8cb41a266f741fb712efc353159782a7a49632a097b7657e6b7e2ffc51",
     "createdAt": "2026-01-15T12:39:55.807Z",
-    "updatedAt": "2026-01-23T08:27:29.874Z"
+    "updatedAt": "2026-01-23T15:23:30.200Z"
   },
   {
     "title": "Inuyashiki",
@@ -2364,9 +2371,20 @@
     "image": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/Newthi%2FMasterp%2FNOW_YOU_SEE_ME_Now-You-Dont_A.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Newthi%2FMasterp%2FNOW_YOU_SEE_ME_Now-You-Dont_A.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/Newthi%2FMasterp%2FNOW_YOU_SEE_ME_Now-You-Dont_B.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Newthi%2FMasterp%2FNOW_YOU_SEE_ME_Now-You-Dont_B.mp4"
+      }
+    ],
     "tmdb_id": 425274,
-    "tmdb_rating": 6.585,
+    "tmdb_rating": 6.6,
     "popularity": 90.0179,
     "tmdb_overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
     "tmdb_type": "movie",
@@ -2382,9 +2400,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
     "color": null,
     "saved": false,
-    "_hash": "6d8a4928f523f14f5127abae1bd649a710d89c7d233aea6d6559eab4e3e6a68a",
+    "_hash": "b8f63d30ad596c353f136293c929a2e519e8c542aec68cfea21b1ab88e2b6304",
     "createdAt": "2026-01-16T11:17:47.578Z",
-    "updatedAt": "2026-01-23T08:27:28.574Z"
+    "updatedAt": "2026-01-23T15:23:27.457Z"
   },
   {
     "title": "Bāhubali: The Beginning",
@@ -2428,7 +2446,7 @@
       }
     ],
     "tmdb_id": 1306368,
-    "tmdb_rating": 7.046,
+    "tmdb_rating": 7.041,
     "popularity": 548.9532,
     "tmdb_overview": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
     "tmdb_type": "movie",
@@ -2444,9 +2462,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/3F2EXWF1thX0BdrVaKvnm6mAhqh.jpg",
     "color": null,
     "saved": false,
-    "_hash": "fd1dea17a8deaae80371f17c8149538e5d6a8c6dbfbfb7d039accd0a9bf73d4a",
+    "_hash": "b13760b973fb38e3f478d898c6a21c25308443cff56851c9583f0fe25ef2248b",
     "createdAt": "2026-01-17T20:19:37.594Z",
-    "updatedAt": "2026-01-23T08:27:18.313Z"
+    "updatedAt": "2026-01-23T15:23:15.131Z"
   },
   {
     "title": "Lion",
@@ -2680,23 +2698,7 @@
     "image": "https://image.tmdb.org/t/p/w500/zpygCOYY1DPBkeUsrrznLRN5js5.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Download A",
-        "watchUrl": "https://files.isatafilez.my/Newthi%2FMasterp%2FThe_Lost_Bus_A.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Newthi%2FMasterp%2FThe_Lost_Bus_A.mp4"
-      },
-      {
-        "title": "Download B",
-        "watchUrl": "https://files.isatafilez.my/Newthi%2FMasterp%2FThe_Lost_Bus_B.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Newthi%2FMasterp%2FThe_Lost_Bus_B.mp4"
-      },
-      {
-        "title": "Download C",
-        "watchUrl": "https://files.isatafilez.my/Newthi%2FMasterp%2FThe_Lost_Bus_C.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Newthi%2FMasterp%2FThe_Lost_Bus_C.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 1236470,
     "tmdb_rating": 7.106,
     "popularity": 7.9609,
@@ -2714,9 +2716,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/1xkyq5SIemtAtzl30BEGsAvDsMp.jpg",
     "color": null,
     "saved": false,
-    "_hash": "ba66fcf138c7ba191bca3440dda8179f7f43920db588a4d38c2fee87f5181ad5",
+    "_hash": "e59df3222d793c3e43532ce06a009057d3f87378fa03b85802e03a78e16f69e2",
     "createdAt": "2026-01-21T10:25:15.855Z",
-    "updatedAt": "2026-01-23T08:26:59.940Z"
+    "updatedAt": "2026-01-23T15:22:51.224Z"
   },
   {
     "title": "The Internship - Rocky",
@@ -2774,5 +2776,39 @@
     "_hash": "b521ca1ffc121f51ace7e5d77510705c985d71de161af983a024444774f1afaf",
     "createdAt": "2026-01-23T08:26:55.991Z",
     "updatedAt": "2026-01-23T08:26:55.991Z"
+  },
+  {
+    "title": "Cruel War",
+    "link": "https://mujyosi.store/movie/2711",
+    "image": "https://image.tmdb.org/t/p/w500/AiB6C4ykGUKGFYZqceQo3fK9tHt.jpg",
+    "narrator": "",
+    "release_year": null,
+    "Downloadurls": [
+      {
+        "title": "Download",
+        "watchUrl": "https://files.isatafilez.my/series%2F2026%2Fchinese%2FCRUEL_WAR_BY_SANKRA.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2026%2Fchinese%2FCRUEL_WAR_BY_SANKRA.mp4"
+      }
+    ],
+    "tmdb_id": 1255020,
+    "tmdb_rating": 7,
+    "popularity": 8.8104,
+    "tmdb_overview": "Yan Xin, a female scientist at Hainan Xingye Torch Company, used gene editing technology to cultivate super rubber seeds and went to Yinfan Island overseas for trial planting, hoping to turn it into a rich new world. Lin Xiang of the International Security Company personally led the team to this crisis-ridden land in order to protect his still beloved ex-wife Yan Xin. Since their arrival, conflicts and conspiracies have been taking turns, with the figure of local drug lord Li Wenyao looming behind them. Unknown dangers, the ultimate showdown, the two people opposing good and evil cannot escape the destined battle.",
+    "tmdb_type": "movie",
+    "tmdb_title": "Cruel War",
+    "tmdb_year": 2024,
+    "poster_small": "https://image.tmdb.org/t/p/w185/AiB6C4ykGUKGFYZqceQo3fK9tHt.jpg",
+    "poster_medium": "https://image.tmdb.org/t/p/w342/AiB6C4ykGUKGFYZqceQo3fK9tHt.jpg",
+    "poster_large": "https://image.tmdb.org/t/p/w500/AiB6C4ykGUKGFYZqceQo3fK9tHt.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/AiB6C4ykGUKGFYZqceQo3fK9tHt.jpg",
+    "backdrop_small": "https://image.tmdb.org/t/p/w300/zjnctpKe4Unjf1edDi2uLjQYrKI.jpg",
+    "backdrop_medium": "https://image.tmdb.org/t/p/w780/zjnctpKe4Unjf1edDi2uLjQYrKI.jpg",
+    "backdrop_large": "https://image.tmdb.org/t/p/w1280/zjnctpKe4Unjf1edDi2uLjQYrKI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/zjnctpKe4Unjf1edDi2uLjQYrKI.jpg",
+    "color": null,
+    "saved": false,
+    "_hash": "21cc0a1c0b6e41d0f49534e148eb95323aa11890935c80b37d4ddaa53bce55b3",
+    "createdAt": "2026-01-23T15:22:45.100Z",
+    "updatedAt": "2026-01-23T15:22:45.100Z"
   }
 ]
