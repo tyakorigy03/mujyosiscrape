@@ -924,7 +924,7 @@
       }
     ],
     "tmdb_id": 240459,
-    "tmdb_rating": 6.413,
+    "tmdb_rating": 6.4,
     "popularity": 144.1108,
     "tmdb_overview": "In a world where he survived the events of Spartacus (2010), Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
     "tmdb_type": "tv",
@@ -940,9 +940,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/wIysQFRoro0DsNRMjFUoiTxbt5.jpg",
     "color": null,
     "saved": false,
-    "_hash": "03628878f84c14e163ea7a7f6627462206454bdb790b4d2ac9bcb360195555fe",
+    "_hash": "74f7e0357cab41802bb1235382cdaf056ef6634cfe90427fdffa7da36dfcef48",
     "createdAt": "2025-12-27T15:20:08.455Z",
-    "updatedAt": "2026-01-23T07:24:46.127Z"
+    "updatedAt": "2026-01-23T17:26:13.123Z"
   },
   {
     "title": "Sean Combs: The Reckoning",
@@ -2068,7 +2068,7 @@
       }
     ],
     "tmdb_id": 200875,
-    "tmdb_rating": 8.23,
+    "tmdb_rating": 8.228,
     "popularity": 70.1661,
     "tmdb_overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
     "tmdb_type": "tv",
@@ -2084,9 +2084,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
     "color": null,
     "saved": false,
-    "_hash": "b6585bc27c8f0ab6c11857e59bfe6f49bf558f081f597c7d03375c09f5963ce2",
+    "_hash": "01bb0cb70d6ebf4f9edeb1bf7aba2109266c18703529c188c106a70aca82aebb",
     "createdAt": "2025-12-27T15:20:48.710Z",
-    "updatedAt": "2026-01-23T07:25:27.564Z"
+    "updatedAt": "2026-01-23T17:26:53.030Z"
   },
   {
     "title": "Money Heist: Korea – Joint Economic Area",
@@ -2153,38 +2153,7 @@
     "image": "https://image.tmdb.org/t/p/original/27BdFmefJT2KK2dC1bRTEAaSh3J.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Episode 1",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FAssassin_ep1.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FAssassin_ep1.mp4"
-      },
-      {
-        "title": "Episode 2",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FAssassin_ep2.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FAssassin_ep2.mp4"
-      },
-      {
-        "title": "Episode 3",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FAssassin_ep3.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FAssassin_ep3.mp4"
-      },
-      {
-        "title": "Episode 4",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FAmerica%2FAssassin_ep4.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FAmerica%2FAssassin_ep4.mp4"
-      },
-      {
-        "title": "Episode 5",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FAmerica%2FAssassin_ep5.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FAmerica%2FAssassin_ep5.mp4"
-      },
-      {
-        "title": "Episode 6 Final",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FAmerica%2FAssassin_ep6_final.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FAmerica%2FAssassin_ep6_final.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 262352,
     "tmdb_rating": 6.8,
     "popularity": 6.2481,
@@ -2202,9 +2171,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/7EB84rTBUmjY2tPhNpGjxnKJVeo.jpg",
     "color": null,
     "saved": false,
-    "_hash": "4d3dbf4d7ae4fc62f15d8ffcb84ec8ff3d35202eb104f77870da63609364a5f8",
+    "_hash": "5d6e2a7b1bf2732f3e8f0b9756df25198c5e3b138dc9fb20037527d62b1c5bfa",
     "createdAt": "2025-12-27T15:20:57.170Z",
-    "updatedAt": "2026-01-23T07:25:33.308Z"
+    "updatedAt": "2026-01-23T17:26:58.236Z"
   },
   {
     "title": "Fist of Fury",
@@ -5130,7 +5099,7 @@
       }
     ],
     "tmdb_id": 66732,
-    "tmdb_rating": 8.582,
+    "tmdb_rating": 8.581,
     "popularity": 459.9347,
     "tmdb_overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
     "tmdb_type": "tv",
@@ -5146,9 +5115,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/8zbAoryWbtH0DKdev8abFAjdufy.jpg",
     "color": null,
     "saved": false,
-    "_hash": "5fe8aa8cef6922e4a8fae5ed03dc35b9d638333b3446970eaf19a77ce958c6fa",
+    "_hash": "3f585d657dd942b865a5752d063656501e6b3f14e72548554307a5d48f273f3c",
     "createdAt": "2026-01-20T05:26:38.452Z",
-    "updatedAt": "2026-01-23T07:23:27.645Z"
+    "updatedAt": "2026-01-23T17:24:55.054Z"
   },
   {
     "title": "Cashero",
@@ -5248,7 +5217,7 @@
       }
     ],
     "tmdb_id": 259731,
-    "tmdb_rating": 7.006,
+    "tmdb_rating": 7.025,
     "popularity": 80.0256,
     "tmdb_overview": "Two estranged spouses — one a detective, the other a news reporter — vie to solve a murder in which each believes the other is a prime suspect.",
     "tmdb_type": "tv",
@@ -5264,9 +5233,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/n4hJLZmBG8kZccNn7bNgBDsVQ6a.jpg",
     "color": null,
     "saved": false,
-    "_hash": "44006a55a1c65b4d2044721bbe943ce13b4dcfe794947b9b357e3a6fe29027bf",
+    "_hash": "24d5e99889065ec6b093b07d2d88005724aff723efe491d5462d7be736c30296",
     "createdAt": "2026-01-23T07:23:23.497Z",
-    "updatedAt": "2026-01-23T07:23:23.497Z"
+    "updatedAt": "2026-01-23T17:24:47.393Z"
   },
   {
     "title": "Conflict",
@@ -5274,7 +5243,18 @@
     "image": "https://image.tmdb.org/t/p/w500/kESvBNLPTAXw1Oh4gDU8zeAwPoP.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Episode 1",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2Fserie%2FConflict_S1e1_By_Mr_Fire.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2Fserie%2FConflict_S1e1_By_Mr_Fire.mp4"
+      },
+      {
+        "title": "Episode 2",
+        "watchUrl": "https://files.isatafilez.my/series%2F2025%2Fmrfire%2Fserie%2FConflict_S1e2_By_Mr_Fire_mp4.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2025%2Fmrfire%2Fserie%2FConflict_S1e2_By_Mr_Fire_mp4.mp4"
+      }
+    ],
     "tmdb_id": 15349,
     "tmdb_rating": 0,
     "popularity": 1.6934,
@@ -5292,8 +5272,8 @@
     "backdrop": null,
     "color": null,
     "saved": false,
-    "_hash": "f4ef9ee7591477269dd4aa4bfe969bbea7a33f73618aa393fd4c11645f65b86a",
+    "_hash": "49d2c6d45941e8db54bc69b03769f8ae72c6c5426ee7e3b15537e864d9feda93",
     "createdAt": "2026-01-23T08:28:32.788Z",
-    "updatedAt": "2026-01-23T08:28:32.788Z"
+    "updatedAt": "2026-01-23T17:24:45.004Z"
   }
 ]
