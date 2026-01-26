@@ -1347,7 +1347,7 @@
     ],
     "tmdb_id": 252414,
     "tmdb_rating": 7.308,
-    "popularity": 8.4501,
+    "popularity": 15.0979,
     "tmdb_overview": "When an influential and fearsome clan is massacred in mysterious circumstances, the clan’s talented disciple Tang Lici finds himself accused of masterminding the crime. Accusers say that Tang Lici is a traitor who murdered his master. A decade later, suspicions about Tang Lici linger, but much darker forces are conspiring to unleash chaos into the realm. Torn by his duality and his apparent inability to distinguish between good and evil, Tang Lici finds himself drawn back into the wider world to help defeat the evil conspiracy – armed only with his wits and his martial arts skills. His path soon crosses with former acquaintances, with some swearing enmity and others allied to his cause. Can he and his companions help defeat the forces of wickedness – or will his dual nature prove his undoing?",
     "tmdb_type": "tv",
     "tmdb_title": "Whispers of Fate",
@@ -1362,9 +1362,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/8BKnPM5GRRcRDVf4JskD2J9N0g5.jpg",
     "color": null,
     "saved": false,
-    "_hash": "ec850c942ff6f5dd1ce7cb7aae641f22792ec0124354bcaa8161a1e65bed75f7",
+    "_hash": "6458c4edab617caca61e6cdf0d5fa326aa6c8ae4d2575c8a662204fceac3f40c",
     "createdAt": "2025-12-27T15:20:15.349Z",
-    "updatedAt": "2026-01-26T06:35:50.012Z"
+    "updatedAt": "2026-01-26T07:28:38.025Z"
   },
   {
     "title": "Shooter",
@@ -1635,41 +1635,10 @@
     "image": "https://image.tmdb.org/t/p/original/iU955nBcsc5Zr5e31eWU2xKVqHk.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Episode 1",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FBarbarians_E01.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FBarbarians_E01.mp4"
-      },
-      {
-        "title": "Episode 2",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FBarbarians_E02.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FBarbarians_E02.mp4"
-      },
-      {
-        "title": "Episode 3",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FBarbarians_E03.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FBarbarians_E03.mp4"
-      },
-      {
-        "title": "Episode 4",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FBarbarians_E04.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FBarbarians_E04.mp4"
-      },
-      {
-        "title": "Episode 5",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FBarbarians_E05.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FBarbarians_E05.mp4"
-      },
-      {
-        "title": "Episode 6 Final",
-        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FBarbarians_E06FINAL.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FBarbarians_E06FINAL.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 14427,
     "tmdb_rating": 6.2,
-    "popularity": 1.3968,
+    "popularity": 1.8046,
     "tmdb_overview": "Barbarians is a mini-series on The History Channel which tells the story of the most barbaric tribes of the early and late Middle Ages. Two series have currently been produced, each consisting of four episodes. This program tells about what the groups did, who they conquered, and how they fell. Clancy Brown narrated both seasons.",
     "tmdb_type": "tv",
     "tmdb_title": "Barbarians",
@@ -1684,9 +1653,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/uptPir0jIjZHBOqVuF13ahdVGNg.jpg",
     "color": null,
     "saved": false,
-    "_hash": "8620304ba18e42628fd9ec2331e01810a9e3c931e728540f55a03da4fc1bfb65",
+    "_hash": "0dbe019f115aa5d8127e03c273eb2cd53c59a56c93ca4f3885c1f973a90bdbe1",
     "createdAt": "2025-12-27T15:20:26.057Z",
-    "updatedAt": "2026-01-26T06:35:59.142Z"
+    "updatedAt": "2026-01-26T07:28:47.208Z"
   },
   {
     "title": "Gunpowder",
@@ -4921,6 +4890,31 @@
         "title": "Episode 8",
         "watchUrl": "https://files.isatafilez.my/series%2F2026%2Fkorea%2Frocky%2Fhwa%2FHWARANG_S01E08.mp4",
         "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2026%2Fkorea%2Frocky%2Fhwa%2FHWARANG_S01E08.mp4"
+      },
+      {
+        "title": "Episode 9",
+        "watchUrl": "https://files.isatafilez.my/series%2FHD%2FHWARA%2FHWARANG_S01E09.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2FHD%2FHWARA%2FHWARANG_S01E09.mp4"
+      },
+      {
+        "title": "Episode 10",
+        "watchUrl": "https://files.isatafilez.my/series%2FHD%2FHWARA%2FHWARANG_S01E10.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2FHD%2FHWARA%2FHWARANG_S01E10.mp4"
+      },
+      {
+        "title": "Episode 11",
+        "watchUrl": "https://files.isatafilez.my/series%2FHD%2FHWARA%2FHWARANG_S01E11.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2FHD%2FHWARA%2FHWARANG_S01E11.mp4"
+      },
+      {
+        "title": "Episode 12",
+        "watchUrl": "https://files.isatafilez.my/series%2FHD%2FHWARA%2FHWARANG_S01E12.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2FHD%2FHWARA%2FHWARANG_S01E12.mp4"
+      },
+      {
+        "title": "Episode 13",
+        "watchUrl": "https://files.isatafilez.my/series%2FHD%2FHWARA%2FHWARANG_S01E13.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2FHD%2FHWARA%2FHWARANG_S01E13.mp4"
       }
     ],
     "tmdb_id": 66496,
@@ -4940,9 +4934,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/acN6aVNCRRkRf6XlxAADcVws6Tx.jpg",
     "color": null,
     "saved": false,
-    "_hash": "b0515c6416f449968de94acda4b6bf5ba5b14993e00103c480ce7ab5b27040a4",
+    "_hash": "98dd59902de3b4f13cfef1d66ecf3c5308dac52a7cd12cf47718ef48e1650e20",
     "createdAt": "2026-01-12T12:41:02.428Z",
-    "updatedAt": "2026-01-26T06:34:46.687Z"
+    "updatedAt": "2026-01-26T07:27:34.190Z"
   },
   {
     "title": "The Ba***ds of Bollywood",
@@ -5390,5 +5384,49 @@
     "_hash": "f403d6a53a6cd8a336e167cb9184369233c1e273f6f1d0aa99d3e56634f1b4b2",
     "createdAt": "2026-01-26T06:34:25.946Z",
     "updatedAt": "2026-01-26T06:34:25.946Z"
+  },
+  {
+    "title": "Steal",
+    "link": "https://mujyosi.store/serie/372",
+    "image": "https://image.tmdb.org/t/p/w500/6KmlaPhsohh3Ki9XJUq0jiUYbf3.jpg",
+    "narrator": "",
+    "release_year": null,
+    "Downloadurls": [
+      {
+        "title": "Episode 1",
+        "watchUrl": "https://files.isatafilez.my/moon%2Fbg%2FSTEAL_S1E1.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=moon%2Fbg%2FSTEAL_S1E1.mp4"
+      },
+      {
+        "title": "Episode 2",
+        "watchUrl": "https://files.isatafilez.my/moon%2Fbg%2FSTEAL_S1E2.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=moon%2Fbg%2FSTEAL_S1E2.mp4"
+      },
+      {
+        "title": "Episode 3",
+        "watchUrl": "https://files.isatafilez.my/moon%2Fbg%2FSTEAL_S1E3.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=moon%2Fbg%2FSTEAL_S1E3.mp4"
+      }
+    ],
+    "tmdb_id": 254071,
+    "tmdb_rating": 8.171,
+    "popularity": 125.158,
+    "tmdb_overview": "A typical day at Lochmill Capital is upended when armed thieves burst in and force Zara and her best friend Luke to execute their demands. In the aftermath, conflicted detective Rhys races against time to find out who stole £4 billion pounds of people's pensions and why.",
+    "tmdb_type": "tv",
+    "tmdb_title": "Steal",
+    "tmdb_year": 2026,
+    "poster_small": "https://image.tmdb.org/t/p/w185/6KmlaPhsohh3Ki9XJUq0jiUYbf3.jpg",
+    "poster_medium": "https://image.tmdb.org/t/p/w342/6KmlaPhsohh3Ki9XJUq0jiUYbf3.jpg",
+    "poster_large": "https://image.tmdb.org/t/p/w500/6KmlaPhsohh3Ki9XJUq0jiUYbf3.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/6KmlaPhsohh3Ki9XJUq0jiUYbf3.jpg",
+    "backdrop_small": "https://image.tmdb.org/t/p/w300/cm17eZBEI0jAsuwlIrw9L7K5lY2.jpg",
+    "backdrop_medium": "https://image.tmdb.org/t/p/w780/cm17eZBEI0jAsuwlIrw9L7K5lY2.jpg",
+    "backdrop_large": "https://image.tmdb.org/t/p/w1280/cm17eZBEI0jAsuwlIrw9L7K5lY2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/cm17eZBEI0jAsuwlIrw9L7K5lY2.jpg",
+    "color": null,
+    "saved": false,
+    "_hash": "b983b918c224cb22ec1139d982dd95d90f40de0093388ececd99e829f1121dbe",
+    "createdAt": "2026-01-26T07:27:13.083Z",
+    "updatedAt": "2026-01-26T07:27:13.083Z"
   }
 ]
