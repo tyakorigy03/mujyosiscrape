@@ -1114,6 +1114,31 @@
         "title": "Episode 24",
         "watchUrl": "https://files.isatafilez.my/Rocky%2FFIRST_LADY_EP24.mp4",
         "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Rocky%2FFIRST_LADY_EP24.mp4"
+      },
+      {
+        "title": "Episode 25",
+        "watchUrl": "https://files.isatafilez.my/series%2F2026%2Fphilipins%2Frocky%2FFIRST_LADY_EP25.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2026%2Fphilipins%2Frocky%2FFIRST_LADY_EP25.mp4"
+      },
+      {
+        "title": "Episode 26",
+        "watchUrl": "https://files.isatafilez.my/series%2F2026%2Fphilipins%2Frocky%2FFIRST_LADY_EP26.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2026%2Fphilipins%2Frocky%2FFIRST_LADY_EP26.mp4"
+      },
+      {
+        "title": "Episode 27",
+        "watchUrl": "https://files.isatafilez.my/series%2F2026%2Fphilipins%2Frocky%2FFIRST_LADY_EP27.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2026%2Fphilipins%2Frocky%2FFIRST_LADY_EP27.mp4"
+      },
+      {
+        "title": "Episode 28",
+        "watchUrl": "https://files.isatafilez.my/series%2F2026%2Fphilipins%2Frocky%2FFIRST_LADY_EP28.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2026%2Fphilipins%2Frocky%2FFIRST_LADY_EP28.mp4"
+      },
+      {
+        "title": "Episode 29",
+        "watchUrl": "https://files.isatafilez.my/series%2F2026%2Fphilipins%2Frocky%2FFIRST_LADY_EP29.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2026%2Fphilipins%2Frocky%2FFIRST_LADY_EP29.mp4"
       }
     ],
     "tmdb_id": 158808,
@@ -1133,9 +1158,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/v0di37yu2TCBvgHvfYrFIpFWX84.jpg",
     "color": null,
     "saved": false,
-    "_hash": "9ae8ea8095064a0126449fb67ae54e967da0142ddf1de8fe1e1ea25599e14eec",
+    "_hash": "9d875fb43c22ee459f77845d3f2572bd8007cfff91b61b6b9bcab608bffc87f1",
     "createdAt": "2025-12-27T15:20:13.555Z",
-    "updatedAt": "2026-01-26T06:35:45.589Z"
+    "updatedAt": "2026-01-26T15:28:18.652Z"
   },
   {
     "title": "Whispers of Fate",
@@ -5293,7 +5318,7 @@
       }
     ],
     "tmdb_id": 259731,
-    "tmdb_rating": 7.118,
+    "tmdb_rating": 7.111,
     "popularity": 75.7451,
     "tmdb_overview": "Two estranged spouses — one a detective, the other a news reporter — vie to solve a murder in which each believes the other is a prime suspect.",
     "tmdb_type": "tv",
@@ -5309,9 +5334,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/n4hJLZmBG8kZccNn7bNgBDsVQ6a.jpg",
     "color": null,
     "saved": false,
-    "_hash": "e80ec6edc0be6d2221d66903040dff2d018003b79aaba23e5e1d8e9105fb7862",
+    "_hash": "9b3444ec3795d5857cf7aaaf3d6d550c64c017b0bc10bfb9342f8b896b38d1ef",
     "createdAt": "2026-01-23T07:23:23.497Z",
-    "updatedAt": "2026-01-26T08:29:07.359Z"
+    "updatedAt": "2026-01-26T15:26:35.490Z"
   },
   {
     "title": "Conflict",
@@ -5422,25 +5447,9 @@
     "image": "https://image.tmdb.org/t/p/w500/6KmlaPhsohh3Ki9XJUq0jiUYbf3.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [
-      {
-        "title": "Episode 1",
-        "watchUrl": "https://files.isatafilez.my/moon%2Fbg%2FSTEAL_S1E1.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=moon%2Fbg%2FSTEAL_S1E1.mp4"
-      },
-      {
-        "title": "Episode 2",
-        "watchUrl": "https://files.isatafilez.my/moon%2Fbg%2FSTEAL_S1E2.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=moon%2Fbg%2FSTEAL_S1E2.mp4"
-      },
-      {
-        "title": "Episode 3",
-        "watchUrl": "https://files.isatafilez.my/moon%2Fbg%2FSTEAL_S1E3.mp4",
-        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=moon%2Fbg%2FSTEAL_S1E3.mp4"
-      }
-    ],
+    "Downloadurls": [],
     "tmdb_id": 254071,
-    "tmdb_rating": 8.171,
+    "tmdb_rating": 8.2,
     "popularity": 125.158,
     "tmdb_overview": "A typical day at Lochmill Capital is upended when armed thieves burst in and force Zara and her best friend Luke to execute their demands. In the aftermath, conflicted detective Rhys races against time to find out who stole £4 billion pounds of people's pensions and why.",
     "tmdb_type": "tv",
@@ -5456,9 +5465,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/cm17eZBEI0jAsuwlIrw9L7K5lY2.jpg",
     "color": null,
     "saved": false,
-    "_hash": "b983b918c224cb22ec1139d982dd95d90f40de0093388ececd99e829f1121dbe",
+    "_hash": "0aa18b01eb5746444bdbf863410be2a1f2913576303ced6821833be29805d2cc",
     "createdAt": "2026-01-26T07:27:13.083Z",
-    "updatedAt": "2026-01-26T07:27:13.083Z"
+    "updatedAt": "2026-01-26T15:26:26.046Z"
   },
   {
     "title": "Homeland - S3",
