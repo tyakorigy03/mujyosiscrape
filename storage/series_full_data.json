@@ -88,7 +88,7 @@
     ],
     "tmdb_id": 279601,
     "tmdb_rating": 6.826,
-    "popularity": 17.8678,
+    "popularity": 17.5837,
     "tmdb_overview": "As Christmas approaches, a blundering-all-the-way dad juggles housesitting a posh London penthouse with an unexpected pickle: caring for a lost baby.",
     "tmdb_type": "tv",
     "tmdb_title": "Man vs Baby",
@@ -103,9 +103,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/lSffVt0etoSLyl2hsTREdJ1CnQ1.jpg",
     "color": null,
     "saved": false,
-    "_hash": "03b8b4362fab0f6567361552e723e1683ea312cac8fb56de50e2c7a9deebdab5",
+    "_hash": "8374cfa5ed2ab4c9c0173f8c15404cd33df142734fad2958c3111af2c440b920",
     "createdAt": "2025-12-27T15:19:32.831Z",
-    "updatedAt": "2026-01-26T06:35:07.348Z"
+    "updatedAt": "2026-01-26T08:29:47.240Z"
   },
   {
     "title": "Shooter - S3",
@@ -924,7 +924,7 @@
       }
     ],
     "tmdb_id": 240459,
-    "tmdb_rating": 6.333,
+    "tmdb_rating": 6.348,
     "popularity": 145.5654,
     "tmdb_overview": "In a world where he survived the events of Spartacus (2010), Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
     "tmdb_type": "tv",
@@ -940,9 +940,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/wIysQFRoro0DsNRMjFUoiTxbt5.jpg",
     "color": null,
     "saved": false,
-    "_hash": "ee7c6f0b7a1afc9861e7fe7ed1b1ce2bae0e0a8a6e008e46c80b3f7c4ad1b71a",
+    "_hash": "419d383239be037f6226699f0a06007c8bb9994c7db028c84ed9828f97183ee9",
     "createdAt": "2025-12-27T15:20:08.455Z",
-    "updatedAt": "2026-01-26T06:35:39.090Z"
+    "updatedAt": "2026-01-26T08:30:21.820Z"
   },
   {
     "title": "Sean Combs: The Reckoning",
@@ -1635,7 +1635,38 @@
     "image": "https://image.tmdb.org/t/p/original/iU955nBcsc5Zr5e31eWU2xKVqHk.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Episode 1",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FBarbarians_E01.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FBarbarians_E01.mp4"
+      },
+      {
+        "title": "Episode 2",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FBarbarians_E02.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FBarbarians_E02.mp4"
+      },
+      {
+        "title": "Episode 3",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FBarbarians_E03.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FBarbarians_E03.mp4"
+      },
+      {
+        "title": "Episode 4",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FBarbarians_E04.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FBarbarians_E04.mp4"
+      },
+      {
+        "title": "Episode 5",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FBarbarians_E05.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FBarbarians_E05.mp4"
+      },
+      {
+        "title": "Episode 6 Final",
+        "watchUrl": "https://files.isatafilez.my/Serie%2FRocky%2FBarbarians_E06FINAL.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Serie%2FRocky%2FBarbarians_E06FINAL.mp4"
+      }
+    ],
     "tmdb_id": 14427,
     "tmdb_rating": 6.2,
     "popularity": 1.8046,
@@ -1653,9 +1684,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/uptPir0jIjZHBOqVuF13ahdVGNg.jpg",
     "color": null,
     "saved": false,
-    "_hash": "0dbe019f115aa5d8127e03c273eb2cd53c59a56c93ca4f3885c1f973a90bdbe1",
+    "_hash": "98aa44220b965466244539e33a420f66d7110abe744a99fbb972423c02bc6d06",
     "createdAt": "2025-12-27T15:20:26.057Z",
-    "updatedAt": "2026-01-26T07:28:47.208Z"
+    "updatedAt": "2026-01-26T08:30:42.062Z"
   },
   {
     "title": "Gunpowder",
@@ -4736,7 +4767,7 @@
     ],
     "tmdb_id": 65355,
     "tmdb_rating": 7.867,
-    "popularity": 1.6401,
+    "popularity": 1.7056,
     "tmdb_overview": "Dan-Bi is a senior high school student. She has a special ability which allows her to transport to anywhere on rainy days. For her university entrance exam, Dan-Bi can't deal with the pressure and runs off to a playground. Without knowing why, she goes into a puddle and finds herself transported to the Joseon period. There, she meets Lee Do. He is a young King of the Joseon period. Lee Do is in a difficult situation due to droughts and the spread of an epidemic.",
     "tmdb_type": "tv",
     "tmdb_title": "Splash Splash Love",
@@ -4751,9 +4782,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/leJUvDgCnEZ7ms7cC6LkyX0wcBe.jpg",
     "color": null,
     "saved": false,
-    "_hash": "c6ef0374a8ab547d3e26304c4ca9fee6f0bf30a8bff4d370eb4e88e745d77f1a",
+    "_hash": "581e1a15d1a3d795f5bb729155193ac231c4083848509f90acca48ba27b16d52",
     "createdAt": "2026-01-09T09:27:24.878Z",
-    "updatedAt": "2026-01-26T06:34:52.667Z"
+    "updatedAt": "2026-01-26T08:29:29.704Z"
   },
   {
     "title": "Homeland - S2",
@@ -5262,7 +5293,7 @@
       }
     ],
     "tmdb_id": 259731,
-    "tmdb_rating": 7.104,
+    "tmdb_rating": 7.118,
     "popularity": 75.7451,
     "tmdb_overview": "Two estranged spouses — one a detective, the other a news reporter — vie to solve a murder in which each believes the other is a prime suspect.",
     "tmdb_type": "tv",
@@ -5278,9 +5309,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/n4hJLZmBG8kZccNn7bNgBDsVQ6a.jpg",
     "color": null,
     "saved": false,
-    "_hash": "41451204cf71a0da90328b7d19c494fade68e172232c20c732959a5d9a9e6ef9",
+    "_hash": "e80ec6edc0be6d2221d66903040dff2d018003b79aaba23e5e1d8e9105fb7862",
     "createdAt": "2026-01-23T07:23:23.497Z",
-    "updatedAt": "2026-01-26T06:34:30.251Z"
+    "updatedAt": "2026-01-26T08:29:07.359Z"
   },
   {
     "title": "Conflict",
@@ -5428,5 +5459,54 @@
     "_hash": "b983b918c224cb22ec1139d982dd95d90f40de0093388ececd99e829f1121dbe",
     "createdAt": "2026-01-26T07:27:13.083Z",
     "updatedAt": "2026-01-26T07:27:13.083Z"
+  },
+  {
+    "title": "Homeland - S3",
+    "link": "https://mujyosi.store/serie/373",
+    "image": "https://image.tmdb.org/t/p/original/eSmugmCjhpeojDCoZsnht1ir4ow.jpg",
+    "narrator": "",
+    "release_year": null,
+    "Downloadurls": [
+      {
+        "title": "Episode 1",
+        "watchUrl": "https://files.isatafilez.my/series%2F2026%2Famerica%2Frocky%2Fhomeland%2Fs3%2FHOMELAND_S03E01.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2026%2Famerica%2Frocky%2Fhomeland%2Fs3%2FHOMELAND_S03E01.mp4"
+      },
+      {
+        "title": "Episode 2",
+        "watchUrl": "https://files.isatafilez.my/series%2F2026%2Famerica%2Frocky%2Fhomeland%2Fs3%2FHOMELAND_S03E02.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2026%2Famerica%2Frocky%2Fhomeland%2Fs3%2FHOMELAND_S03E02.mp4"
+      },
+      {
+        "title": "Episode 3",
+        "watchUrl": "https://files.isatafilez.my/series%2F2026%2Famerica%2Frocky%2Fhomeland%2Fs3%2FHOMELAND_S03E03.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2026%2Famerica%2Frocky%2Fhomeland%2Fs3%2FHOMELAND_S03E03.mp4"
+      },
+      {
+        "title": "Episode 4",
+        "watchUrl": "https://files.isatafilez.my/series%2F2026%2Famerica%2Frocky%2Fhomeland%2Fs3%2FHOMELAND_S03E04.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2026%2Famerica%2Frocky%2Fhomeland%2Fs3%2FHOMELAND_S03E04.mp4"
+      }
+    ],
+    "tmdb_id": 15879,
+    "tmdb_rating": 0,
+    "popularity": 0.9393,
+    "tmdb_overview": "Homeland Security is a 2004 made-for-TV film, which was intended as a pilot for a series which never materialized.",
+    "tmdb_type": "tv",
+    "tmdb_title": "Homeland Security",
+    "tmdb_year": 2004,
+    "poster_small": "https://image.tmdb.org/t/p/w185/glaP1IluRW2lRfhc9ijjWJ2iwwZ.jpg",
+    "poster_medium": "https://image.tmdb.org/t/p/w342/glaP1IluRW2lRfhc9ijjWJ2iwwZ.jpg",
+    "poster_large": "https://image.tmdb.org/t/p/w500/glaP1IluRW2lRfhc9ijjWJ2iwwZ.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/glaP1IluRW2lRfhc9ijjWJ2iwwZ.jpg",
+    "backdrop_small": null,
+    "backdrop_medium": null,
+    "backdrop_large": null,
+    "backdrop": null,
+    "color": null,
+    "saved": false,
+    "_hash": "5bbb92a8cb69beb8ed5cb6be35d86e88a4f478afd3c22230581a0a91b4302e65",
+    "createdAt": "2026-01-26T08:28:57.431Z",
+    "updatedAt": "2026-01-26T08:28:57.431Z"
   }
 ]
