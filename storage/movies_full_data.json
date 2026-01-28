@@ -1803,7 +1803,7 @@
     ],
     "tmdb_id": 531380,
     "tmdb_rating": 6.208,
-    "popularity": 3.6048,
+    "popularity": 2.8916,
     "tmdb_overview": "A group of former mercenaries reunite to plan an epic heist: boosting a truck full of medicine held by a foreign intelligence agency to supply a refugee camp in need. But when they find the truck is actually filled with stolen gold, the band of brothers realize they’ve been double-crossed by one of their own - and putting the situation right will be all out war.",
     "tmdb_type": "movie",
     "tmdb_title": "Golden Job",
@@ -1818,9 +1818,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/jxyEUugg60UpFirBRCmXdXxmVHW.jpg",
     "color": null,
     "saved": false,
-    "_hash": "6e5ffa287ae23bf582afd5cc29905d06bfda58a8de9be04d30b943637d8c9f27",
+    "_hash": "75e6d0b3bd393fba9302c4a5f81f786e9989e5c05b0f16413abf1b5c1222ca4d",
     "createdAt": "2026-01-04T14:16:13.780Z",
-    "updatedAt": "2026-01-27T08:31:17.392Z"
+    "updatedAt": "2026-01-28T10:26:48.207Z"
   },
   {
     "title": "The Tinder Swindler",
@@ -1942,7 +1942,7 @@
     "release_year": null,
     "Downloadurls": [],
     "tmdb_id": 1084242,
-    "tmdb_rating": 7.587,
+    "tmdb_rating": 7.6,
     "popularity": 388.6941,
     "tmdb_overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
     "tmdb_type": "movie",
@@ -1958,9 +1958,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
     "color": null,
     "saved": false,
-    "_hash": "08f180e1da2adbf1fa025d1435a77f41df85825f32ab5a20d1702fc9dfaa1f3f",
+    "_hash": "6ad11b396265a7ccd0bad47310a156c4826053201b5a40a5aba0591d3bf79056",
     "createdAt": "2026-01-06T14:19:58.688Z",
-    "updatedAt": "2026-01-28T08:29:44.389Z"
+    "updatedAt": "2026-01-28T10:26:40.135Z"
   },
   {
     "title": "Unseen Enemy",
@@ -2773,7 +2773,13 @@
     "image": "https://image.tmdb.org/t/p/w500/yEH5yjGFgcEmS36XhFzIblQF0fJ.jpg",
     "narrator": "",
     "release_year": null,
-    "Downloadurls": [],
+    "Downloadurls": [
+      {
+        "title": "Download",
+        "watchUrl": "https://files.isatafilez.my/Ne%2FRock%2FXXX_State_Of_The_Union_1.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=Ne%2FRock%2FXXX_State_Of_The_Union_1.mp4"
+      }
+    ],
     "tmdb_id": 91487,
     "tmdb_rating": 7.2,
     "popularity": 4.5814,
@@ -2791,9 +2797,9 @@
     "backdrop": "https://image.tmdb.org/t/p/original/2UoQWAxqhrP1iKhoWU4TzGO3FlT.jpg",
     "color": null,
     "saved": false,
-    "_hash": "fc9a4a4790934f1d2b19346b00c95cabb6eb32389b09657340a04a3d24ab0459",
+    "_hash": "288eb77887ee34061e233b752db5862c93a2d545196cd8ad799d622c91980a8a",
     "createdAt": "2026-01-26T06:32:50.500Z",
-    "updatedAt": "2026-01-28T08:28:47.648Z"
+    "updatedAt": "2026-01-28T10:25:41.423Z"
   },
   {
     "title": "The Butcher's Blade",
@@ -2940,5 +2946,78 @@
     "_hash": "028bb70523a5902aeed802c3b2b1a11f46928ac355cf9cd1c367003a708b7ec8",
     "createdAt": "2026-01-28T08:28:39.545Z",
     "updatedAt": "2026-01-28T08:28:39.545Z"
+  },
+  {
+    "title": "The Bad Guys 2",
+    "link": "https://mujyosi.store/movie/2719",
+    "image": "https://image.tmdb.org/t/p/w500/c1msaKf1wyuKcmLjjJd6rIBPFcd.jpg",
+    "narrator": "",
+    "release_year": null,
+    "Downloadurls": [
+      {
+        "title": "Download A",
+        "watchUrl": "https://files.isatafilez.my/series%2F2026%2Find%2FThe.Bad.Guys.2.2025.720P_A_.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2026%2Find%2FThe.Bad.Guys.2.2025.720P_A_.mp4"
+      },
+      {
+        "title": "Download B",
+        "watchUrl": "https://files.isatafilez.my/series%2F2026%2Find%2FThe.Bad.Guys.2.2025.720P_B_.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2026%2Find%2FThe.Bad.Guys.2.2025.720P_B_.mp4"
+      }
+    ],
+    "tmdb_id": 1175942,
+    "tmdb_rating": 7.7,
+    "popularity": 19.8854,
+    "tmdb_overview": "The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls.",
+    "tmdb_type": "movie",
+    "tmdb_title": "The Bad Guys 2",
+    "tmdb_year": 2025,
+    "poster_small": "https://image.tmdb.org/t/p/w185/c1msaKf1wyuKcmLjjJd6rIBPFcd.jpg",
+    "poster_medium": "https://image.tmdb.org/t/p/w342/c1msaKf1wyuKcmLjjJd6rIBPFcd.jpg",
+    "poster_large": "https://image.tmdb.org/t/p/w500/c1msaKf1wyuKcmLjjJd6rIBPFcd.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/c1msaKf1wyuKcmLjjJd6rIBPFcd.jpg",
+    "backdrop_small": "https://image.tmdb.org/t/p/w300/8FWLJHuWB72UXBmiMtxwTvQVumN.jpg",
+    "backdrop_medium": "https://image.tmdb.org/t/p/w780/8FWLJHuWB72UXBmiMtxwTvQVumN.jpg",
+    "backdrop_large": "https://image.tmdb.org/t/p/w1280/8FWLJHuWB72UXBmiMtxwTvQVumN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/8FWLJHuWB72UXBmiMtxwTvQVumN.jpg",
+    "color": null,
+    "saved": false,
+    "_hash": "f7de173f21bf3e643324e9cccd9579e323b731e3d16e6c8b88628c166ff8f68b",
+    "createdAt": "2026-01-28T10:25:26.091Z",
+    "updatedAt": "2026-01-28T10:25:26.091Z"
+  },
+  {
+    "title": "The Bad Guys",
+    "link": "https://mujyosi.store/movie/2718",
+    "image": "https://image.tmdb.org/t/p/w500/6fcFmdVLCCbf1gFt8HlC6BRj8pt.jpg",
+    "narrator": "",
+    "release_year": null,
+    "Downloadurls": [
+      {
+        "title": "Download",
+        "watchUrl": "https://files.isatafilez.my/series%2F2026%2Find%2FBad_Guys1.mp4",
+        "downloadUrl": "https://byelcaamxxvfltnegxby.supabase.co/functions/v1/redirect-download?filename=series%2F2026%2Find%2FBad_Guys1.mp4"
+      }
+    ],
+    "tmdb_id": 629542,
+    "tmdb_rating": 7.529,
+    "popularity": 8.4115,
+    "tmdb_overview": "When the Bad Guys, a crew of criminal animals, are finally caught after years of heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.",
+    "tmdb_type": "movie",
+    "tmdb_title": "The Bad Guys",
+    "tmdb_year": 2022,
+    "poster_small": "https://image.tmdb.org/t/p/w185/6fcFmdVLCCbf1gFt8HlC6BRj8pt.jpg",
+    "poster_medium": "https://image.tmdb.org/t/p/w342/6fcFmdVLCCbf1gFt8HlC6BRj8pt.jpg",
+    "poster_large": "https://image.tmdb.org/t/p/w500/6fcFmdVLCCbf1gFt8HlC6BRj8pt.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/6fcFmdVLCCbf1gFt8HlC6BRj8pt.jpg",
+    "backdrop_small": "https://image.tmdb.org/t/p/w300/3AhT4YuBcU4A3KKXzzXZO6fUiKj.jpg",
+    "backdrop_medium": "https://image.tmdb.org/t/p/w780/3AhT4YuBcU4A3KKXzzXZO6fUiKj.jpg",
+    "backdrop_large": "https://image.tmdb.org/t/p/w1280/3AhT4YuBcU4A3KKXzzXZO6fUiKj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/3AhT4YuBcU4A3KKXzzXZO6fUiKj.jpg",
+    "color": null,
+    "saved": false,
+    "_hash": "aa2af0626c8d5aab7ed2aedc178490fe73d147bee50e9a90b4225d3f35700d86",
+    "createdAt": "2026-01-28T10:25:28.447Z",
+    "updatedAt": "2026-01-28T10:25:28.447Z"
   }
 ]
