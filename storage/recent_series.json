@@ -1,5 +1,10 @@
 [
   {
+    "title": "Criminal Code - Mr Fire",
+    "image": "https://image.tmdb.org/t/p/w500/fDu0T5WE0QAoX2yAqZ1RtlWBn6I.jpg",
+    "url": "https://mujyosi.store/serie/375"
+  },
+  {
     "title": "Billionaires' Bunker - Rocky",
     "image": "https://image.tmdb.org/t/p/w500/hNVb60dPG34wYjazGgFolJhqfxp.jpg",
     "url": "https://mujyosi.store/serie/374"
@@ -243,10 +248,5 @@
     "title": "Billionaires' Bunker",
     "image": "https://image.tmdb.org/t/p/original/cyqKNRLFKCN9Y28ln38hLMESGEj.jpg",
     "url": "https://mujyosi.store/serie/326"
-  },
-  {
-    "title": "Trigger",
-    "image": "https://image.tmdb.org/t/p/original/9eDF8Z4iFFCmQROiuej54rSK9LT.jpg",
-    "url": "https://mujyosi.store/serie/325"
   }
 ]
