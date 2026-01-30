@@ -1,5 +1,10 @@
 [
   {
+    "title": "Running Man - Gaheza",
+    "image": "https://image.tmdb.org/t/p/w500/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+    "url": "https://mujyosi.store/movie/2725"
+  },
+  {
     "title": "Anaconda",
     "image": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg",
     "url": "https://mujyosi.store/movie/2724"
@@ -243,10 +248,5 @@
     "title": "Star Wars",
     "image": "https://image.tmdb.org/t/p/original/qhEimz49g0r2sQ06Xfb8Hxmfk3T.jpg",
     "url": "https://mujyosi.store/movie/2676"
-  },
-  {
-    "title": "Avatar",
-    "image": "https://image.tmdb.org/t/p/w500/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
-    "url": "https://mujyosi.store/movie/2675"
   }
 ]
